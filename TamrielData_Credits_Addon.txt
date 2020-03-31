@@ -1,0 +1,24 @@
+
+
+author:    Heinrich
+---------------------------------
+added Feb 2020, from:     Weapon Sheathing -     https://www.nexusmods.com/morrowind/mods/46069
+IDs:    tr_w_iron_dagger_02_sh.nif
+	tr_w_iron_bsword_03_sh.nif
+	tr_w_iron_dagger_02.nif
+	tr_w_iron_bswrd_02_sh.nif
+
+author:    Lord Berandas
+---------------------------------
+added Feb 2020, from:     Weapon Sheathing -     https://www.nexusmods.com/morrowind/mods/46069
+IDs:    tr_w_adamant_wakazashi_sh.nif
+	tr_w_adamant_tanto_sh.nif
+	tr_w_adamant_katana_sh.nif
+	tr_w_adamant_dkatana_sh.nif
+	tr_w_adamant_saber_sh.nif
+	tr_w_adamant_lsword_sh.nif
+	tr_w_adamant_dagger_sh.nif
+	tr_w_adamant_bsword_sh.nif
+
+
+
