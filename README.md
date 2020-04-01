@@ -2,7 +2,7 @@
 This repostiory is an experimental global data-addon for Tamriel_Data (current version 7.1). Using this repository, Tamriel_Data curators can directly comit new assets and plugins directly to the addon, which can then be instantly compiled as a BAIN-aware mod-package for mod developers using Tamriel Data. 
 Tamriel Data -> https://www.nexusmods.com/morrowind/mods/44537
 
-Contributors/users are notified of any new comits to the data addon repository via chatops: when a comit is pushed, a summary is published to a discord channel via webhooks. Notifications are currently pritned here: https://discord.gg/J3AtqMq. Several channels may use a single webhook.
+Contributors/users are notified of any new comits to the data addon repository via chatops: when a comit is pushed, a summary is published to a discord channel via webhooks. Notifications are currently printed here: https://discord.gg/J3AtqMq. Several channels may use a single webhook.
 
 
 
