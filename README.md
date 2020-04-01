@@ -15,7 +15,7 @@ Contributors/users are notified of any new comits to the data addon repository v
 
 
 ## Contributing as an Author:
-Via the use of the website and Github desktop, desginated authors can push new/edit assets and new .esp files directly to the repo. Those additions can be pushed either to an indev[WIP] branch, or the master branch (this is a bit situlational, and depends on the intents of the user)
+Via the use of the website and Github desktop, designated authors can push new/edit assets and new .esp files directly to the repo. Those additions can be pushed either to an indev[WIP] branch, or the master branch (this is a bit situlational, and depends on the intents of the user)
 
 ### Current Authors:
 - Wollirollo
