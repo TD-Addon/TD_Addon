@@ -9,6 +9,7 @@ Contributors/users are notified of any new comits to the data addon repository v
 - Both TR and PT data within a single esp.
 - TR and PT data within two seperate folders, but a single archive. This adheres to the seperation of PT and TR's BSAs within Tamriel Data.
 - Optional HD asset overrides for both TR and PT. Vanilla-resolution textures and models are the default, with HD versions being optional. This signficantly de-bloats the TR addon folder, which previously contained 2 of every asset between a SD and a HD folder, even when there when there was no disparity between the assets.
+- the incrementally updated TR deprecated asset .esp, which reassignes several assets a new placeholder/deprecated marker models, indicating to devs that the asset needs removing from the worldspace/section files. A full list of assets can be found here: https://docs.google.com/spreadsheets/d/1D4R_OZ-d0BARNkwyif1W5j03O4-AuajVV9LIFHaXwqI/edit?usp=sharing
 
 
 
