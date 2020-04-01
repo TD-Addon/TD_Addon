@@ -6,9 +6,9 @@ Contributors/users are notified of any new comits to the data addon repository v
 
 
 ## New Features:
--Both TR and PT data within a single esp.
--TR and PT data within two seperate folders, but a single archive. This adheres to the seperation of PT and TR's BSAs within Tamriel Data.
--Optional HD asset overrides for both TR and PT. Vanilla-resolution textures and models are the default, with HD versions being optional. This signficantly de-bloats the TR addon folder, which previously contained 2 of every asset between a SD and a HD folder, even when there when there was no disparity between the assets.
+- Both TR and PT data within a single esp.
+- TR and PT data within two seperate folders, but a single archive. This adheres to the seperation of PT and TR's BSAs within Tamriel Data.
+- Optional HD asset overrides for both TR and PT. Vanilla-resolution textures and models are the default, with HD versions being optional. This signficantly de-bloats the TR addon folder, which previously contained 2 of every asset between a SD and a HD folder, even when there when there was no disparity between the assets.
 
 
 
@@ -16,8 +16,8 @@ Contributors/users are notified of any new comits to the data addon repository v
 Via the use of the website and Github desktop, desginated authors can push new/edit assets and new .esp files directly to the repo. Those additions can be pushed either to an indev[WIP] branch, or the master branch (this is a bit situlational, and depends on the intents of the user)
 
 ### Current Authors:
--Wollirollo
--Cheflul
+- Wollirollo
+- Cheflul
 
 
 
