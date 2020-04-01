@@ -1,5 +1,6 @@
 # TD_Addon
-This repostiory is an experimental global data-addon for Tamriel_Data (current version 7.1). Using this repository, Tamriel_Data curators can directly comit new assets and plugins directly to the addon, which can then be instantly compiled as a BAIN-aware mod-package for mod developers using Tamriel Data.  
+This repostiory is an experimental global data-addon for Tamriel_Data (current version 7.1). Using this repository, Tamriel_Data curators can directly comit new assets and plugins directly to the addon, which can then be instantly compiled as a BAIN-aware mod-package for mod developers using Tamriel Data. 
+Tamriel Data -> https://www.nexusmods.com/morrowind/mods/44537
 
 Contributors/users are notified of any new comits to the data addon repository via chatops: when a comit is pushed, a summary is published to a discord channel via webhooks. Notifications are currently pritned here: https://discord.gg/J3AtqMq. Several channels may use a single webhook.
 
@@ -9,7 +10,7 @@ Contributors/users are notified of any new comits to the data addon repository v
 - Both TR and PT data within a single esp.
 - TR and PT data within two seperate folders, but a single archive. This adheres to the seperation of PT and TR's BSAs within Tamriel Data.
 - Optional HD asset overrides for both TR and PT. Vanilla-resolution textures and models are the default, with HD versions being optional. This signficantly de-bloats the TR addon folder, which previously contained 2 of every asset between a SD and a HD folder, even when there when there was no disparity between the assets.
-- the incrementally updated TR deprecated asset .esp, which reassignes several assets a new placeholder/deprecated marker models, indicating to devs that the asset needs removing from the worldspace/section files. A full list of assets can be found here: https://docs.google.com/spreadsheets/d/1D4R_OZ-d0BARNkwyif1W5j03O4-AuajVV9LIFHaXwqI/edit?usp=sharing
+- wolli's incrementally updated TR deprecated asset .esp, which reassignes several assets a new placeholder/deprecated marker models, indicating to devs that the asset needs removing from the worldspace/section files. A full list of assets can be found here: https://docs.google.com/spreadsheets/d/1D4R_OZ-d0BARNkwyif1W5j03O4-AuajVV9LIFHaXwqI/edit?usp=sharing
 
 
 
@@ -29,3 +30,14 @@ Non-authors can also contribute new assets/esps. Their comits will not be pushed
 
 ## Compiling and Using the TD_Addon:
 Devs using Tamriel Data as a master are able to use this repository to quickly compile the latest addons. By clicking download, the entire repository is downloaded as a BAIN-aware zip file, which can be installed as a package via Wrye Mash or Mod Organiser 2. No manual installation is required. It's as easy as downloading straight to your installers folder, and clicking install.
+
+
+## Mods using Tamriel Data:
+Tamriel Rebuilt -> https://www.nexusmods.com/morrowind/mods/42145
+Skyrim Home of the Nords -> https://www.nexusmods.com/morrowind/mods/44921
+Province: Cyrodiil -> https://www.nexusmods.com/morrowind/mods/44922
+Vvardenfell and Solstheim Worldspace Remaster -> https://www.nexusmods.com/morrowind/mods/46810
+
+
+
+### Wolli
