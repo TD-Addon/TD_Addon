@@ -23,7 +23,7 @@ Via the use of the website and Github desktop, desginated authors can push new/e
 
 
 ## Contributing Via Push Requests:
-Non-authors can also contribute new assets/esps. Their comits will not be pushed unless accepted by a designated author. This has the potential to circumnavigate our current review system, and iss therefore sub-optimal. However, it could be useful for pushing small fixes to assets that need not go through the asset browser (fixing a collision, texture path, model topology or mising mip-maps, for example). 
+Non-authors can also contribute new assets/esps. Their comits will not be pushed unless accepted by a designated author. This has the potential to completely circumnavigate our current asset browser review system, and is therefore something we really, REALLY do not want to use. However, it could be useful for pushing small fixes to assets that need not go through the asset browser (fixing a collision, texture path, model topology or mising mip-maps, for example). 
 
 
 
