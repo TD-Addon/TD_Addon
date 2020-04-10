@@ -1,8 +1,17 @@
+author:    YarYulme
+---------------------------------
+added April 2020, from:		Nif Resources -	https://www.nexusmods.com/morrowind/mods/43064
+IDs:	tr_a_DwrvScrp_helmet.nif
+	tr_a_DwrvScrp_bracer_w.nif
 
+author:    Quorn
+---------------------------------
+added April 2020, from:		Quorn Resource Integration - https://www.nexusmods.com/morrowind/mods/43269
+IDs:	tr_a_DwrvScrp_chest_C.nif
 
 author:    Heinrich
 ---------------------------------
-added Feb 2020, from:     Weapon Sheathing -     https://www.nexusmods.com/morrowind/mods/46069
+added Feb 2020, from:		Weapon Sheathing - https://www.nexusmods.com/morrowind/mods/46069
 IDs:    tr_w_iron_dagger_02_sh.nif
 	tr_w_iron_bsword_03_sh.nif
 	tr_w_iron_dagger_02.nif
@@ -10,7 +19,7 @@ IDs:    tr_w_iron_dagger_02_sh.nif
 
 author:    Lord Berandas
 ---------------------------------
-added Feb 2020, from:     Weapon Sheathing -     https://www.nexusmods.com/morrowind/mods/46069
+added Feb 2020, from:		Weapon Sheathing - https://www.nexusmods.com/morrowind/mods/46069
 IDs:    tr_w_adamant_wakazashi_sh.nif
 	tr_w_adamant_tanto_sh.nif
 	tr_w_adamant_katana_sh.nif
