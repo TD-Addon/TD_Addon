@@ -1,0 +1,1 @@
+A tracking list of items and creatures that need adding to level lists/containers and creature level lists when compiling Tamriel Data v8. As TD_Addon can not use Tamriel_Data as a master, this changes can only be implemented when creating a new TD .esm file.
