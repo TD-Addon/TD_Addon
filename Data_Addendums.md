@@ -6,3 +6,6 @@
 - Remove the static entries T_Mw_TerrRock_OW_RockMoss_** and RockGrp_**
 - Remove the static entries T_Mw_TerrRockSH_Rock_** and RockGrp_**
 - Remove the static entries T_Cyr_Flora_TreeVurt_**
+- Add faction reactions to the Baluath Vampire faction from: https://www.tamriel-rebuilt.org/asset/baluath-vampire-scripts-and-faction`=
+- Add T_Glob_Rep_Sky_Prov global
+- Add T_Glob_Rep_Sky_Re global
