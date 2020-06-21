@@ -9,3 +9,4 @@
 - Add faction reactions to the Baluath Vampire faction from: https://www.tamriel-rebuilt.org/asset/baluath-vampire-scripts-and-faction`=
 - Add T_Glob_Rep_Sky_Prov global
 - Add T_Glob_Rep_Sky_Re global
+- Remove the container entries T_Mw_FloraSS_VeilUrn** .
