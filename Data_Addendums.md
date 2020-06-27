@@ -10,3 +10,4 @@
 - Add T_Glob_Rep_Sky_Prov global
 - Add T_Glob_Rep_Sky_Re global
 - Remove the container entries T_Mw_FloraSS_VeilUrn** .
+- Remove Textures/sky/tx_skyrim_w_ragnid_axe_uni00.dds, Meshes/sky/w/sky_uni_ragnid_axe.nif, Icons/sky/w/tx_uni_ragnid_axe.dds
