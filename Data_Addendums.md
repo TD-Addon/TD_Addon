@@ -14,3 +14,4 @@
 - Change the name of T_Nor_Set_SignShopAlchemist_01-03 to Alchemist
 - Replace Stirk stuff in T_Test_PC with GC
 - Copy and paste the contents of T_Test_PC_Expansion into T_Test_PC
+- Add ranks to T_Cyr_ImperialLegion
