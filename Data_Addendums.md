@@ -12,3 +12,5 @@
 - Remove the container entries T_Mw_FloraSS_VeilUrn** .
 - Remove Textures/sky/tx_skyrim_w_ragnid_axe_uni00.dds, Meshes/sky/w/sky_uni_ragnid_axe.nif, Icons/sky/w/tx_uni_ragnid_axe.dds
 - Change the name of T_Nor_Set_SignShopAlchemist_01-03 to Alchemist
+- Replace Stirk stuff in T_Test_PC with GC
+- Copy and paste the contents of T_Test_PC_Expansion into T_Test_PC
