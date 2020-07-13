@@ -29,5 +29,6 @@ IDs:    tr_w_adamant_wakazashi_sh.nif
 	tr_w_adamant_dagger_sh.nif
 	tr_w_adamant_bsword_sh.nif
 
+Pickles is not based
 
 
