@@ -670,7 +670,7 @@ tr_p_paralysis_resist_s:T_Com_Potion_ResistParalysis_S
 tr_potion_ale_snowberry.nif:T_Nor_Drink_SnowberryaleVeig_01
 tr_potion_bourbon.nif:T_De_Drink_BourbonGoya_01
 tr_potion_colovian_wine:T_Imp_Drink_WineBattle_01
-tr_potion_jagga.nif:T_We_Drink_PigmilkbeerJagga_01
+tr_potion_jagga.nif:T_De_Drink_LiquorLlotham_01
 tr_potion_orc_liquor.nif:T_Orc_Drink_LiquorUngorth_01
 tr_potion_wayrest_wine:T_Bre_Drink_WineWayrest_01
 #inserting P:C wines infront of the TR-ones in order to have the updated versions of P:C
