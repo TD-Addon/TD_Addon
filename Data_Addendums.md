@@ -15,3 +15,5 @@
 - Replace Stirk stuff in T_Test_PC with GC
 - Copy and paste the contents of T_Test_PC_Expansion into T_Test_PC
 - Add ranks to T_Cyr_ImperialLegion
+- Remove all the .tga icons in TR and PT data. There are now .dds versions added
+- Remove tr_w_muatra01.dds from textures/tr/w. New texture is atlased now
