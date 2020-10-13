@@ -20,6 +20,8 @@ Via the use of the website and Github desktop, designated authors can push new/e
 ### Current Authors:
 - Wollirollo
 - Cheflul
+- Atrayonis
+- Cicero
 
 
 
