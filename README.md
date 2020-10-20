@@ -22,6 +22,7 @@ Via the use of the website and Github desktop, designated authors can push new/e
 - Cheflul
 - Atrayonis
 - Cicero
+- Evil Eye
 
 
 
