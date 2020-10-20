@@ -1,12 +1,13 @@
 # TD_Addon
-This repository is an experimental global data-addon for Tamriel_Data (current version 7.1). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly to the addon, which can then be instantly compiled as a BAIN-aware mod-package for mod developers using Tamriel Data. 
-Tamriel Data -> https://www.nexusmods.com/morrowind/mods/44537
+This repository serves as a single location for progressively aggregating new assets as an extention of the 'Tamriel_Data' database (current version 7.1). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly to the addon, compling new data and assets in prepertion for the next Tamriel_Data version (currently v9). This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
 
-Contributors/users are notified of any new commits to the data addon repository via chatops: when a commit is pushed, a summary is published to a discord channel via webhooks. Notifications are currently printed here: https://discord.gg/J3AtqMq. Several channels may use a single webhook.
+Tamriel Data is available on the Nexus-> https://www.nexusmods.com/morrowind/mods/44537
+
+Contributors/users are notified of any new commits to the data addon repository via chatops: when a commit is pushed, a summary is published to the Tamriel_Data discord channel. Notifications are currently printed here: https://discord.gg/J3AtqMq. Several channels may use a single webhook. 
 
 
 
-## New Features:
+## New Advantages:
 - Both TR and PT data within a single esp.
 - TR and PT data within two separate folders, but a single archive. This adheres to the separation of PT and TR's BSAs within Tamriel Data.
 - Optional HD asset overrides for both TR and PT. Vanilla-resolution textures and models are the default, with HD versions being optional. This significantly de-bloats the TR addon folder, which previously contained 2 of every asset between a SD and a HD folder, even when there when there was no disparity between the assets.
@@ -27,7 +28,7 @@ Via the use of the website and Github desktop, designated authors can push new/e
 
 
 ## Contributing Via Push Requests:
-Non-authors can also contribute new assets/esps. Their commits will not be pushed unless accepted by a designated author. This has the potential to completely circumnavigate our current asset browser review system, and is therefore something we really, REALLY do not want to use. However, it could be useful for pushing small fixes to assets that need not go through the asset browser (fixing a collision, texture path, model topology or missing mip-maps, for example). 
+Non-authors can also contribute new assets/esps. Their commits will not be pushed unless accepted by a designated reviewer. This has the potential to completely circumnavigate our current asset browser review system, and is therefore something we really, REALLY do not want to use. However, it could be useful for pushing small fixes to assets that need not go through the asset browser (fixing a collision, texture path, model topology or missing mip-maps, for example). 
 
 
 
