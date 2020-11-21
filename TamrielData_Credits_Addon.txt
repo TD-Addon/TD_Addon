@@ -1,3 +1,37 @@
+author:    Remiros and Melchior Dahrk
+---------------------------------
+added November 2020, from: OOAB Data - https://www.nexusmods.com/morrowind/mods/49042
+IDs:	tr_misc_ebony_cup.nif
+	tr_misc_ebony_fork.nif
+	tr_misc_ebony_knife.nif
+	tr_misc_ebony_l_flask.nif
+	tr_misc_ebony_platter.nif
+	tr_misc_ebony_spoon.nif
+	tr_misc_ebony_frosted.dds
+	tr_misc_ebony_gold.dds
+	tr_misc_de_g_bowl_01.nif
+	tr_misc_de_g_bowl_02.nif
+	tr_misc_de_g_pitcher.nif
+	tr_misc_de_g_plate.nif
+	tr_misc_de_g_platter.nif
+	tr_misc_de_g_pot.nif
+	tr_app_e_alembic.nif
+	tr_app_e_calcinator.nif
+	tr_app_e_mortarpestle.nif
+	tr_app_e_retort.nif
+	tr_w_dae_throwknife.nif
+	tr_w_goblin_arrow.nif
+	tr_w_huntsman_arrow.nif
+	tr_w_ice_arrow.nif
+	tr_w_orcish_arrow.nif
+	tr_w_silver_halberd.nif
+
+author: Enderal Team and Beyond Skyrim Assets
+---------------------------------
+permission granted by Larrian
+added Feb 2012, from: Enderal https://www.nexusmods.com/skyrim/mods/77868/
+IDs: pc_flora_mangrove_(01 to 04).nif
+
 author:    YarYulme
 ---------------------------------
 added April 2020, from:		Nif Resources -	https://www.nexusmods.com/morrowind/mods/43064
