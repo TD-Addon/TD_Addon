@@ -1,0 +1,518 @@
+The following is a probably incomplete list of modders that contributed to the creation of assets found in our two data.bsas as well as bookart and sound - folders. If you discover an asset whose creator is not listed here, please let us know and we will add you.
+
+
+--TR_Data.bsa--
+10Kaziem
+Adanorcil
+Aeven
+Andres Indoril
+aro101
+Asylum
+avo1d
+Barabus
+detritus2004 (Khajiit faces)
+Dongle
+Dres
+Eyeball88
+Garland
+Gez
+Haplo
+Jelle
+Kothloth
+Lady Nerevar
+Lestat DeLioncourt
+London Rook
+MajraMidgetalien
+Melchior Dahrk
+
+momoX
+Morden
+mwgek
+Myzel
+Nalin
+Negrodomeus
+Neoptolemus
+Petethegoat
+Prometheus
+Pug
+Ragox
+Rats
+Silaria (Argonian faces)
+sirrah
+Slartibartfast
+Stalker
+Superllama
+Swiftoak
+T_nilc
+Veet
+Vernon
+Vorrheis
+wollibeebee
+Worsas
+Zyndaar
+
+
+Please credit the original authors first if the asset you want to use appears in this list (search using the corresponding Construction Set ID without suffix numbers); "edited" indicates that the meshes or textures of the original asset have been altered or compressed in TR.
+
+The following asset list aims to include:
+- by default, all separately released resources that were not directly contributed to TR by their authors but included based on their usage permissions, starting with the "Sacred East" release (June 2012),
+- additionally, any assets from contributors past, present or future who request separate documentation here
+
+This is retroactively documented in 2017 and therefore prone to oversights. Should anyone find they have been omitted from this list, please let us know.
+
+author:    Momo77
+---------------------------------
+added Feb 2012, from:     Momos Crane Resource - http://www.nexusmods.com/morrowind/mods/41074/?
+IDs:    T_Com_SetHarbor_CraneLarge_01 # to # 03
+    T_Com_SetHarbor_CraneMiddle_01 # to # 02
+    T_Com_SetHarbor_CranePlatfL_01
+    T_Com_SetHarbor_CranePlatfS_01
+    T_Com_SetHarbor_CranePlatfVL_01
+    T_Com_SetHarbor_CraneSmall_01
+added Feb 2012, from:     Momos Fishery Resource - http://www.nexusmods.com/morrowind/mods/41173/?
+IDs:    T_Com_SetHarbor_DipNet_01 # to # 02
+    T_Com_SetHarbor_FishBeheaded_01 # to # 02
+    T_Com_SetHarbor_FishHanging_01 # to # 02
+    T_Com_SetHarbor_Fishnet_01 # to # 02
+    T_Com_SetHarbor_FishTrap_01
+    T_Com_SetHarbor_Rope_01
+
+author:    Slartibartfast
+---------------------------------
+added Aug 2012, from:     Smith Shed Resource - http://www.nexusmods.com/morrowind/mods/42183/?
+IDs:    T_Imp_SetMw_X_SmithShed_01
+    T_Imp_SetNord_X_SmithShed_01
+    T_Nor_SetSkaal_SmithShed_01
+added April 2018, from:    Imperial Plaza Resource - http://mw.modhistory.com/download-31-5968
+IDs:    T_Imp_LegionCyr_X_Plaza_01 # to # 03 (edited)
+    T_Imp_LegionMw_X_Plaza_02 # to # 03 (edited)
+    T_Imp_LegionSky_X_Plaza_03 # to # 03 (edited)
+added May 2018, from: Well Diversified - http://mw.modhistory.com/download-7-15575
+IDs:    T_Imp_LegionCyr_X_Well_03 # to 04 (edited)
+    T_Imp_LegionMw_X_Well_03 # to 04
+    T_Imp_LegionSky_X_Well_03 # to 04 (edited)
+    T_Nor_SetSkaal_X_Well_01
+
+author:    t'nilc
+---------------------------------
+added Aug 2013, from:     Hookah - http://mw.modhistory.com/download-1-11970
+IDs:    T_Rga_HookahApp_01
+    T_Rga_HookahFlavouredApp_01
+
+author:    Midgetalien
+---------------------------------
+added Aug 2013, from:     Stick Fences -     http://www.nexusmods.com/morrowind/mods/42471/?
+IDs:    T_Com_Set_FenceBriar_01 # to # 03
+added Dec 2013, from:    Goblin Shaman - http://mw.modhistory.com/download-44-13318
+IDs:    T_Mw_Cre_GobShm_01 (edited)
+
+author:    dongle
+---------------------------------
+added Jul 2014, from:     Elizabethan Galleon - http://mw.modhistory.com/download-44-2980
+IDs:    T_Imp_SetHarbor_GalleonNavy_01 (edited)
+    T_Imp_SetHarbor_GalleonInLow_01 (edited)
+    T_Imp_SetHarbor_GalleonInUp_01 (edited)
+
+author:    Detritus2004
+---------------------------------
+added Dec 2016, from:     Khajiit Faces v2.0 - http://mw.modhistory.com/download-43-3301
+IDs:    T_B_Kha_HeadMaleTR_02 # to # 09 (edited)
+    T_B_Kha_HeadFemTR_01 # to # 09 (edited)
+    T_B_Kha_HairMaleTR_01 # to # 02
+
+author:    Silaria
+---------------------------------
+added Dec 2016, from:     Sils Argonian Heads and Hair v1.1 - http://mw.modhistory.com/download-80-3324
+IDs:    T_B_Arg_HeadMaleTR_02 # to # 07 (edited)
+    T_B_Arg_HeadFemTR_01 # to # 06 (edited)
+    T_B_Arg_HairMaleTR_01 # to # 07 (edited)
+    T_B_Arg_HairFemTR_01 # to # 04 (edited)
+
+author:    R-Zero
+---------------------------------
+added Mar 2017, from:     TR Silt Strider fix - http://www.nexusmods.com/morrowind/mods/43297/?
+IDs:    T_Mw_Fau_Slstrid_01
+
+author:    Alaisiagae
+---------------------------------
+added Jul 2017, from:     Imperial Silver Armor Resource - http://mw.modhistory.com/download-56-6598
+IDs:    T_Imp_Silver_Boots_01 (edited)
+    T_Imp_Silver_BracerL_01 (edited)
+    T_Imp_Silver_BracerR_01 (edited)
+    T_Imp_Silver_Greaves_01 (edited)
+    T_Imp_Silver_PauldronL_01 (edited)
+    T_Imp_Silver_PauldronR_01 (edited)
+
+author:    YarYulme
+---------------------------------
+added Jan 2018, from:     Nif Resources - https://www.nexusmods.com/morrowind/mods/43064/?
+IDs:    T_Imp_Uni_SwiftcutSaber
+
+author:    Lochnarus
+---------------------------------
+added Jan 2018, from:     Elite Dark Brotherhood Helm v1.3 - http://mw.modhistory.com/download-80-7683
+IDs:    T_De_UNI_PreyseekerHelm (edited)
+
+author:    Antares
+---------------------------------
+added Jan 2018, from:     Undead: Arise From Death - http://mw.modhistory.com/download-55-15310
+IDs:    T_Mw_Und_Mum_02 (edited)
+added Dec 2019, from:     Undead: Arise From Death - http://mw.modhistory.com/download-55-15310
+IDs:    T_Glb_Und_SkelArise_01
+    T_Glb_Und_SkelArise_02
+    T_Glb_Und_SkelArise_03
+    T_Glb_Und_SkelArise_04
+    T_ScCrea_SkelRise_01
+    T_ScCrea_SkelRise_02
+    T_ScCrea_SkelRise_03
+
+author:    Lougian
+---------------------------------
+added Jan 2018, from:     Caverns Overhaul - https://www.nexusmods.com/morrowind/mods/42249/?
+IDs:    T_Glb_Light_CaveRay01 # to # 12 (updated)
+
+author:    CemKey
+---------------------------------
+added Dec 2018
+IDs:    T_De_SetHla_X_Striderport_01
+
+author:    ch_devgroup
+added Dec 2018
+IDs:    T_De_RedBonemold_HelmOpen_01
+
+author:    Ao3
+---------------------------------
+added Dec 2018
+IDs:    T_De_SetHla_X_EntryFake_01
+    T_De_SetHla_X_Grate_01
+    T_De_SetHla_X_Waterspout_01
+    
+author:    PikachunoTM
+---------------------------------
+added Feb 2019
+IDs:    T_Nor_UNI_Targe_Blooded
+    T_Com_UNI_KingOrgnumCoffer_01
+    T_Dae_UNI_Rueful_Axe
+    T_Dae_UNI_NebCrescen
+added May 2019
+IDs:    T_Glb_Fauna_Photodragons_01
+
+author:    Nich/ZWolol
+---------------------------------
+added May 2019            Correct UV Rocks - https://www.nexusmods.com/morrowind/mods/46104
+IDs:    T_Mw_TerrRockRR_Rock_01 # to 30 (edited)
+    
+author:    Tyddy
+---------------------------------
+added August 2019,from:        Bigger Temples - Urbanopticum of Vvardenfell - https://www.nexusmods.com/morrowind/mods/46184
+IDs:    T_De_SetVeloth_Temple_03
+
+author:    Lurlock\Dragon32
+---------------------------------
+added: September 2019
+IDs:    T_Mw_CaveBone_Exit_00
+    T_Mw_CaveVM_TunnelBig_05
+    T_Mw_CaveVM_RoomBig_06
+    T_Mw_CaveVM_RoomBig_07
+    T_Mw_CaveVM_RockBridge_01
+    T_Mw_CaveVM_Doorway_00
+    T_Mw_CaveVM_Exit_00
+    T_Mw_CaveVM_Exit_01
+    T_Mw_CaveVM_RockForm_00 # to # 03
+    T_Mw_CaveVM_TunnelSml_05
+    T_Mw_CaveVM_RoomSml2_00
+    T_Mw_CaveVM_RoomSml3_00 # to # 02
+    T_Mw_CaveVM_RoomSml4_01 # to # 05
+    T_Mw_CaveVM_RockStal_00 # to # 05
+
+author:    Danke
+---------------------------------
+added Dec 2019
+IDs:    T_De_TelvCephalopod_PauldL_01 (edited)
+    T_De_TelvCephalopod_PauldR_01 (edited)
+    T_De_TelvCephalopod_GauntL_01 (edited)
+    T_De_TelvCephalopod_GauntR_01 (edited)
+    T_De_TelvCephalopod_Boots_01 (edited)
+    T_De_TelvCephalopod_Greaves_01 (edited)
+    T_De_TelvCephalopod_Cuirass_01 (edited)    
+
+author:    Rubberman
+---------------------------------
+added Dec 2019
+IDs:    T_MW_DngBarrow_Stairs_01
+
+author:    Danea123
+---------------------------------
+added Dec 2019, from https://www.nexusmods.com/morrowind/mods/46126
+IDs:    T_Dae_UNI_OghmaInfinium
+
+author:    IconsPNG
+---------------------------------
+added Dec 2019, from https://www.iconspng.com/image/83689/magic-circle-1
+IDs:    T_Dae_UNI_OghmaInfinium (edited)
+
+author:    Stuporstar
+---------------------------------
+added May 2019            Graphic Herbalism - MWSE and OpenMW Edition - https://www.nexusmods.com/morrowind/mods/46599
+IDs:    T_Mw_Flora_HornLily_01 (to 06) 
+        T_Mw_Flora_Nirthfly03 (to 05)
+        T_Mw_Flora_TimsaComeB01 (to 04)
+        T_Mw_Flora_Meadowrye01 (to 04)
+		
+author:    Remiros and Melchior Dahrk
+---------------------------------
+added November 2020, from: OOAB Data - https://www.nexusmods.com/morrowind/mods/49042
+IDs:	tr_misc_ebony_cup.nif
+	tr_misc_ebony_fork.nif
+	tr_misc_ebony_knife.nif
+	tr_misc_ebony_l_flask.nif
+	tr_misc_ebony_platter.nif
+	tr_misc_ebony_spoon.nif
+	tr_misc_ebony_frosted.dds
+	tr_misc_ebony_gold.dds
+	tr_misc_de_g_bowl_01.nif
+	tr_misc_de_g_bowl_02.nif
+	tr_misc_de_g_pitcher.nif
+	tr_misc_de_g_plate.nif
+	tr_misc_de_g_platter.nif
+	tr_misc_de_g_pot.nif
+	tr_app_e_alembic.nif
+	tr_app_e_calcinator.nif
+	tr_app_e_mortarpestle.nif
+	tr_app_e_retort.nif
+	tr_w_dae_throwknife.nif
+	tr_w_goblin_arrow.nif
+	tr_w_huntsman_arrow.nif
+	tr_w_ice_arrow.nif
+	tr_w_orcish_arrow.nif
+	tr_w_silver_halberd.nif
+
+author:    YarYulme
+---------------------------------
+added April 2020, from:		Nif Resources -	https://www.nexusmods.com/morrowind/mods/43064
+IDs:	tr_a_DwrvScrp_helmet.nif
+	tr_a_DwrvScrp_bracer_w.nif
+
+author:    Quorn
+---------------------------------
+added April 2020, from:		Quorn Resource Integration - https://www.nexusmods.com/morrowind/mods/43269
+IDs:	tr_a_DwrvScrp_chest_C.nif
+
+author:    Heinrich
+---------------------------------
+added Feb 2020, from:		Weapon Sheathing - https://www.nexusmods.com/morrowind/mods/46069
+IDs:    tr_w_iron_dagger_02_sh.nif
+	tr_w_iron_bsword_03_sh.nif
+	tr_w_iron_dagger_02.nif
+	tr_w_iron_bswrd_02_sh.nif
+	
+author:    Lord Berandas
+---------------------------------
+added Feb 2020, from:		Weapon Sheathing - https://www.nexusmods.com/morrowind/mods/46069
+IDs:    tr_w_adamant_wakazashi_sh.nif
+	tr_w_adamant_tanto_sh.nif
+	tr_w_adamant_katana_sh.nif
+	tr_w_adamant_dkatana_sh.nif
+	tr_w_adamant_saber_sh.nif
+	tr_w_adamant_lsword_sh.nif
+	tr_w_adamant_dagger_sh.nif
+	tr_w_adamant_bsword_sh.nif
+	
+author:    InspectorJ, boaay, karlis
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_impact_door_01.wav (edited)
+
+author:    dirtydowntowner, djcdelahaye, 150112, schots, rutgermuller
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_impact_gate_01 (edited)
+
+author:    gevaroy
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_impact_glass_01 (edited)
+
+author:    AlanCat, SoundFlakes 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_impact_rock_01 (edited)
+
+author:    ToaTom 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_impact_vase_01 (edited)
+
+author:    Bertsz, kwahmah_02, kevinkace, ErikH2000
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_impact_wood_01 (edited)
+
+author:    AryaNotStark
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_brush_01 (edited)
+
+author:    nettimato, dylanperitz 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_dice_01 (edited)
+
+author:    benjaminharveydesign, ryujin95
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_hammer_01 (edited)
+
+author:    omnisis, kyles, qubodup, celadon, rutgermuller
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_irongate_01 (edited)
+	TR_obj_irongate_02 (edited)
+
+author:    snardin42, 7778, Piggimon 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_shovel_01 (edited)
+
+author:    aurea, pauliep83, neilraouf, craigsmith, jergonda, lezaarth  
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_woodgate_01 (edited)
+	TR_obj_woodgate_02 (edited)
+
+author:    robinhood76, zatar, jagadamba, rutgermuller
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_obj_woodslide_01 (edited)
+
+author:    OGsoundFX
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_sfx_ghost_01 (edited)
+
+author:    cell31-sound-productions, SoundFlakes
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_sfx_ghost_02 (edited)
+
+author:    aderumoro, slugzilla
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_sfx_ghost_03 (edited)
+
+author:    zatar 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_sfx_landslide_01 (edited)
+
+author:    jackmichaelking 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_sfx_wave_01 (edited)
+
+author:    SoundFlakes
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_sfx_woosh_01 (edited)
+
+author:    fission9, bulbastre
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_loop_abyss_01 (edited)
+
+author:    proxima4
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_loop_mtpeak_01 (edited)
+
+author:    robinhood76, klankbeeld, onderwish
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_loop_oldones_01 (edited)
+
+author:    kyles
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_crowd_applaud_01 (edited)
+
+author:    YleArkisto, unchaz, robinhood76
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_crowd_boos_01 (edited)
+
+author:    YleArkisto, joedeshon, robinhood76 
+---------------------------------
+added Sep 2020, from: freesound.org
+IDs:    TR_crowd_cheer_01 (edited)
+
+author: Enderal Team and Beyond Skyrim Assets
+---------------------------------
+permission granted by Larrian
+added Dec 2020, from: Enderal https://www.nexusmods.com/skyrim/mods/77868/
+IDs: T_Glb_Flora_Mangrove_01 to 04
+
+author:    ashtaar
+---------------------------------
+added Dec 2020, from https://www.nexusmods.com/morrowind/mods/44398
+IDs:    T_Dae_DngRuin_StatueMephala_01
+
+		
+--PT_Data.bsa--
+Ald-Ma' Cyrod
+Commodore256
+Dirnae
+griff
+Heinrich
+Infragris
+Kiteflyer61
+Lestat DeLioncourt
+Lord Berandas
+Moritius
+Mwgek
+R-Zero
+Revenant
+Saint_Jiub
+SGMonkey
+Spineinside
+Tarius
+Wolli
+Worsas
+zackg
+Texafornian
+Atrayonis
+Tristior
+MinerMan60101
+Violet
+Asylum
+Deminoz Keroz 
+Melchior Dahrk
+
+Abot (seagull script and sounds)
+Alaisiagae (dragonscale armor, assorted weapons)
+Arcimaestro Anteres (creatures and animations)
+Cait (animals)
+Cyborg (warship)
+Daduke (helmet)
+Darknut (black bear)
+Dongle (log cabins & other things)
+Donnergott (candle boxes, candlestands, etc)
+Dracus (oak trees)
+EJRS (imperial helmets, Redguard assets)
+Greatness7 (Advice on .nif fileformat, blender import scripts)
+Khan Raider (steel helmet)
+Lord Yig (some tapestry textures)
+Melchior Dhark (sewer grates)
+Midgetalien (draugr henchman)
+Momo (dock resources, nord ruin resources)
+N'Dib (cliffs)
+Nioliv (robe meshes)
+Nomad (fern)
+NZdawghaus (nord tapestries)
+PeterBitt (nirnroot)
+Quorn (newt scale armor)
+Remiros (Varla Stone)
+Silicon Bros (assorted armor pieces)
+Vurt (trees)
+Westly (head, hair and clothing)
+
+Freesounds.org (sound effects) 
