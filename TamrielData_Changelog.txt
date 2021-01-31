@@ -1,42 +1,7 @@
 TBD UPDATE
 
-Tamriel Rebuilt
- Added:
-
-- Bodrem Quarry Rocks
-- Single Model Ebon Tower
-- Unique Face and Hair Models for Arnie the Scrib
-- De Windmills
-- New Bellman book art and texture
-- Asset Request: Hlaalu tapestries
-- tr_in_c_plain FIXES
-- Asset Request: Dunmer Middle Class Beds
-- Reworked tapestry textures
-- Dreugh Hunter Helm
-- General Texture Compression
-- Atlased Ash Parasols
-- Neldrac's Reach + Alt Adamantium Crossbow Quivers
-- Thoricles' Bane
-- Andothren Buildings
--Hlaalu Temples of the Divines
-- Round Hlaalu Interior Set
-- Asset request: Dedicated Asset for Arvud Tower covers
-- Hlaalu Balconies (no rope)
-- Hlaalu Council Company Scrip
-- Asset Request: Dedicated OM large stairs
-- "Preview Enabled" Global
-
-Added Books:
-
-Fixed:
-
-Updated:
-
-Deprecated:
-
-===
-
 Project Tamriel
+
 - Added
 
 - Added Books:
@@ -46,6 +11,40 @@ Project Tamriel
 - Updated
 
 - Deprecated
+
+Tamriel Rebuilt
+
+- Added Bodrem Quarry Rocks
+- Added Single Model Ebon Tower
+- Added Unique Face and Hair Models for Arnie the Scrib
+- Added De Windmills
+- Added Hlaalu tapestries
+- Added Dunmer Middle Class Beds
+- Added Dreugh Hunter Helm
+- Added Neldrac's Reach + Alt Adamantium Crossbow Quivers
+- Added Thoricles' Bane
+- Added Andothren Buildings
+- Added Hlaalu Temples of the Divines
+- Added Round Hlaalu Interior Set
+- Added Dedicated Asset for Arvud Tower covers
+- Added Hlaalu Balconies (no rope)
+- Added Hlaalu Council Company Scrip
+- Added Dedicated OM large stairs
+- Added "Preview Enabled" Global
+
+- Added Books:
+
+- Fixed tr_in_c_plain set
+- Fixed General Texture Compression
+
+- Updated Bellman book art and texture
+- Updated some DE tapestry textures
+- Updated DE M furniture
+- Updated Ash Parasols with atlas
+
+- Deprecated 
+
+===
 
 DECEMBER 2020 UPDATE
 
