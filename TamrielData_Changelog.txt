@@ -31,6 +31,15 @@ Tamriel Rebuilt
 - Added Hlaalu Council Company Scrip
 - Added Dedicated OM large stairs
 - Added "Preview Enabled" Global
+- Added Rapiers and daggers
+- Added More Horker variants
+- Added Asset request: Ebony Bowl and Plate
+- Added Glow Mapped Kobold
+- Added Vent Worms
+- Added Firewatch Tapestries
+- Added Buoy
+- Added Hlaalu Half length Endcaps
+- Added Necrom Bonewalkers
 
 - Added Books:
 
@@ -41,6 +50,8 @@ Tamriel Rebuilt
 - Updated some DE tapestry textures
 - Updated DE M furniture
 - Updated Ash Parasols with atlas
+- Updated Tur Julan Door
+- Updated Dunmer and Common Scales and Weights Remake
 
 - Deprecated 
 
