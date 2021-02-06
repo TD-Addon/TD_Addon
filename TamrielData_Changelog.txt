@@ -40,11 +40,22 @@ Tamriel Rebuilt
 - Added Buoy
 - Added Hlaalu Half length Endcaps
 - Added Necrom Bonewalkers
+- Added Misc hair models
+- Added Altmer Glass Armor
+- Added New portraits
+- Added Ceramic Playing Cards - Morag Tong expansion
+- Added Asset request: Rich Common bed without canopy
+- Added Dunmer Purple Glassware set
+- Added Ruined Books
+- Added Smith Crates
 
 - Added Books:
+- Added Geometry for Barbarians + Arithmetic for Barbarians
+- Added The Tools of the Trade
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
+- Fixed Optimized book and note meshes
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
