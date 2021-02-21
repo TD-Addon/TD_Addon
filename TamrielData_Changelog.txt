@@ -48,6 +48,8 @@ Tamriel Rebuilt
 - Added Dunmer Purple Glassware set
 - Added Ruined Books
 - Added Smith Crates
+- Added Asset Request More Hlaalu Ledge pieces
+- Added Hlaalu Sewer Set
 
 - Added Books:
 - Added Geometry for Barbarians + Arithmetic for Barbarians
@@ -56,6 +58,11 @@ Tamriel Rebuilt
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
 - Fixed Optimized book and note meshes
+- Fixed Optimized hair and head meshes
+- Fixed Fixed Rouge items
+- Fixed Tr_de_urn_open01 model rework
+- Fixed Misc keys rework
+- Fixed Imperial studded leather rework
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -63,6 +70,7 @@ Tamriel Rebuilt
 - Updated Ash Parasols with atlas
 - Updated Tur Julan Door
 - Updated Dunmer and Common Scales and Weights Remake
+- Updated Khalaan sky tweaks
 
 - Deprecated 
 
