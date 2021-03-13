@@ -2,13 +2,17 @@ TBD UPDATE
 
 Project Tamriel
 
-- Added
+- Added stackable GC stairs
+- Added GC sewer entrance tile
+- Added Tsaesci Urns
+- Added 2 Cyr cave sets
+- Added levelled bullfrog
 
 - Added Books:
 
-- Fixed
+- Fixed Sky farmhouse interior gap
 
-- Updated
+- Updated "some" artifacts
 
 - Deprecated
 
