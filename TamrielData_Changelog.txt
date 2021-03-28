@@ -62,6 +62,14 @@ Tamriel Rebuilt
 - Added Asset Request More Hlaalu Ledge pieces
 - Added Hlaalu Sewer Set
 - Added Land Dreugh
+- Added Shutag Pod
+- Added Urgent Asset Request - Roth Roryn flora and LTEX
+- Added Firewatch Staff
+- Added Akrash sword
+- Added Omaynis Banner
+- Added Adding missing pieces for common interior set
+- Added Orc head, Vivec-painted
+- Added Red and White Paper Lanterns
 
 - Added Books:
 - Added Geometry for Barbarians + Arithmetic for Barbarians
@@ -75,6 +83,8 @@ Tamriel Rebuilt
 - Fixed Tr_de_urn_open01 model rework
 - Fixed Misc keys rework
 - Fixed Imperial studded leather rework
+- Fixed Data fixes + first wave of expanded enchanted generic items
+- Fixed Hlaalu bricks UV mapping fix
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -83,6 +93,9 @@ Tamriel Rebuilt
 - Updated Tur Julan Door
 - Updated Dunmer and Common Scales and Weights Remake
 - Updated Khalaan sky tweaks
+- Updated Fire Flower Remake
+- Updated Optimized Sign Meshes
+- Updated Atlased Bluefoot and TerrasTrees
 
 - Deprecated 
 

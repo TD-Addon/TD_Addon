@@ -1,0 +1,13 @@
+icons/tr/w/tr_w_almarula_ham.dds
+icons/tr/m/tr_a_preyseeker_helm.dds
+icons/tr/m/tr_book_devourer_uni.dds
+icons/tr/w/tr_w_glass_ssword_02.dds
+
+meshes/tr/w/tr_w_almarula_ham.nif
+meshes/tr/a/tr_a_preyseeker_helm.nif
+meshes/tr/m/tr_book_devourer_uni.nif
+meshes/tr/w/tr_w_glass_ssword_02.nif
+
+textures/tr/a/tr_a_preyseeker.dds
+textures/tr/w/tr_w_glass_sword_01.dds
+textures/tr/w/tr_w_glass_sword_02.dds
