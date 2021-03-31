@@ -2806,6 +2806,7 @@ tr_misc_t_tankard_01:T_De_TelvanniTankard_01
 tr_misc_toyguar:T_De_ToyGuar_01
 tr_test_skull:T_TestSkull
 
+
 #Statics
 tr_ash_darkfungshroom:T_Mw_FloraGM_VileMorc01
 tr_ash_fungshroom:T_Mw_FloraGM_UmbMorch01
@@ -16696,3 +16697,4 @@ T_Mw_Stat_Dreughs:T_Mw_Lvl_Dreughs+0
 T_Mw_Cr_Dreugh2:T_Mw_Cr_Dreugh1
 T_Mw_Cr_Dreugh3:T_Mw_Cr_Dreugh1
 T_Mw_Cr_Dreugh4:T_Mw_Cr_Dreugh1
+T_De_BlueGlassBowel_01:T_De_BlueGlassBowl_01
