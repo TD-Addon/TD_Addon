@@ -70,6 +70,9 @@ Tamriel Rebuilt
 - Added Adding missing pieces for common interior set
 - Added Orc head, Vivec-painted
 - Added Red and White Paper Lanterns
+- Added Collared Rats
+- Added Stackable Com Stairs
+- Added Sea Cup
 
 - Added Books:
 - Added Geometry for Barbarians + Arithmetic for Barbarians
@@ -96,6 +99,8 @@ Tamriel Rebuilt
 - Updated Fire Flower Remake
 - Updated Optimized Sign Meshes
 - Updated Atlased Bluefoot and TerrasTrees
+- Updated Paper Lanterns
+- Updated CM Grass
 
 - Deprecated 
 
