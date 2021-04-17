@@ -15,11 +15,16 @@ Project Tamriel
 - Added Books:
 
 - Fixed Sky farmhouse interior gap
+- Fixed some incorrect bookart paths
+- Fixed Xahxes' Gift, Part I also containing Part II
+- Fixed the Alphyn corpse persisting
+- Fixed enchantment values of the Songs of Pelinal VII and VIII
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
 - Updated Black Bears to fight level 80 so they attack you when you get close
 - Updated Colovian Barrow loot list to remove septims
+- Updated Falkheim Region Sounds
 
 - Deprecated
 
@@ -73,6 +78,7 @@ Tamriel Rebuilt
 - Added Collared Rats
 - Added Stackable Com Stairs
 - Added Sea Cup
+- Added Bonemold Throwing Stars
 
 - Added Books:
 - Added Geometry for Barbarians + Arithmetic for Barbarians
@@ -88,6 +94,8 @@ Tamriel Rebuilt
 - Fixed Imperial studded leather rework
 - Fixed Data fixes + first wave of expanded enchanted generic items
 - Fixed Hlaalu bricks UV mapping fix
+- Fixed Nahgacra's Soul Thef by renaming it Nahgacra's Soul Heist
+- Fixed a lot of problems with the Ebonheart Bellman
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -100,9 +108,18 @@ Tamriel Rebuilt
 - Updated Optimized Sign Meshes
 - Updated Atlased Bluefoot and TerrasTrees
 - Updated Paper Lanterns
+- Updated Imperial Braziers
+- Updated Floating Lanterns
+- Updated Mournhold Lanterns
 - Updated CM Grass
+- Updated Various Ingredients
+- Updated Goblin Decals
+- Updated the Arkhon Lim book by replacing its content completely
+- Updated the VampirePC and VampireNPC scripts to use VampClan (100 = Baluath, 101 = Orlukh, 200 = Khulari)
 
-- Deprecated 
+- Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
+
+- Removed The Dragon Break Reexamined appearing in two levelled lists
 
 ===
 
