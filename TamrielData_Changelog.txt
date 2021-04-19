@@ -81,8 +81,11 @@ Tamriel Rebuilt
 - Added Bonemold Throwing Stars
 
 - Added Books:
-- Added Geometry for Barbarians + Arithmetic for Barbarians
-- Added The Tools of the Trade
+  - Geometry for Barbarians 
+  - Arithmetic for Barbarians
+  - The Tools of the Trade
+  - On Daedric Design
+  - The Dwarven Firmament
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -116,6 +119,7 @@ Tamriel Rebuilt
 - Updated Goblin Decals
 - Updated the Arkhon Lim book by replacing its content completely
 - Updated the VampirePC and VampireNPC scripts to use VampClan (100 = Baluath, 101 = Orlukh, 200 = Khulari)
+- Updated the Sheggo Shelf with an atlased version
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
