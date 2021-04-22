@@ -79,6 +79,9 @@ Tamriel Rebuilt
 - Added Stackable Com Stairs
 - Added Sea Cup
 - Added Bonemold Throwing Stars
+- Added Cine Tree
+- Added Large Regular Dunmer Rugs
+- Added Octagonal Lighthouse Tower for Firewatch
 
 - Added Books:
   - Geometry for Barbarians 
@@ -120,6 +123,7 @@ Tamriel Rebuilt
 - Updated the Arkhon Lim book by replacing its content completely
 - Updated the VampirePC and VampireNPC scripts to use VampClan (100 = Baluath, 101 = Orlukh, 200 = Khulari)
 - Updated the Sheggo Shelf with an atlased version
+- Updated Optimized ext meshes pt 1
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
