@@ -124,6 +124,7 @@ Tamriel Rebuilt
 - Updated the VampirePC and VampireNPC scripts to use VampClan (100 = Baluath, 101 = Orlukh, 200 = Khulari)
 - Updated the Sheggo Shelf with an atlased version
 - Updated Optimized ext meshes pt 1
+- Grass texture swap on Roth Roryn cliff meshes
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
