@@ -109,6 +109,8 @@ Tamriel Rebuilt
 - Fixed Hlaalu bricks UV mapping fix
 - Fixed Nahgacra's Soul Thef by renaming it Nahgacra's Soul Heist
 - Fixed a lot of problems with the Ebonheart Bellman
+- Fixed some book title (Book of Nordic Proverbs, The Malahk: Scourge of the East)
+- Fixed note meshes having a small version of themselves underneath
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -136,7 +138,7 @@ Tamriel Rebuilt
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
-- Removed The Dragon Break Reexamined appearing in two levelled lists
+- Removed The Dragon Break Reexamined, appeared in two levelled lists
 
 ===
 
