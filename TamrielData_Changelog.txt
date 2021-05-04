@@ -11,6 +11,7 @@ Project Tamriel
 - Added Unique Bendu Olo helm
 - Added Tantha nests
 - Added Strid levelled lists
+- Added Boar Meat to Wild Boars, replacing Bristleback Leather
 
 - Added Books:
 
@@ -89,6 +90,9 @@ Tamriel Rebuilt
 - Added Round Dwemer Platform
 - Added LegionMW pieces for round towers
 - Added Asset request Hlaalu forge/fireplace
+- Added Storm Monarch
+- Added Dwemer Steam Colossus
+- Added Malahk Orc Waystones and Altar
 
 - Added Books:
   - Geometry for Barbarians 
@@ -111,6 +115,7 @@ Tamriel Rebuilt
 - Fixed a lot of problems with the Ebonheart Bellman
 - Fixed some book title (Book of Nordic Proverbs, The Malahk: Scourge of the East)
 - Fixed note meshes having a small version of themselves underneath
+- Fixed Guide to <X> icons to resemble those of Patch for Purists (which align with their meshes)
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
