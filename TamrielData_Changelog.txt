@@ -93,6 +93,8 @@ Tamriel Rebuilt
 - Added Storm Monarch
 - Added Dwemer Steam Colossus
 - Added Malahk Orc Waystones and Altar
+- Added Embrasure piece for LegionMw
+- Added Open Dunmer Tent
 
 - Added Books:
   - Geometry for Barbarians 
@@ -100,6 +102,8 @@ Tamriel Rebuilt
   - The Tools of the Trade
   - On Daedric Design
   - The Dwarven Firmament
+  - Almalexia Speaks to Her Children
+  - Compendium of Lost Artifacts
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -140,6 +144,11 @@ Tamriel Rebuilt
 - Updated Optimized ext meshes pt 1
 - Updated Grass texture swap on Roth Roryn cliff meshes
 - Updated New and fixed Imperial highway bridge meshes
+- Updated Vermai Battlespire (almost) sound effects
+- Updated Ruffin's Daedric Helm Rework
+- Updated Broken bottles rework
+- Updated tr_book_cover_28 texture rework
+- Updated Atlased statues
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 

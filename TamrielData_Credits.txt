@@ -465,6 +465,15 @@ authour:  Zobator
 added Feb 2021, from https://www.nexusmods.com/morrowind/mods/45489/
 Key replacement models
 
+authour: Ruffin Vangarr
+--------------------------------
+added May 2021, from https://www.nexusmods.com/morrowind/mods/49534
+Daedric helmets
+
+https://www.freesoundeffects.com
+---------------------------------
+Vermai Sound effects (stock sound Jaguar)
+
 
 		
 --PT_Data.bsa--
