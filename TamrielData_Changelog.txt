@@ -26,8 +26,13 @@ Project Tamriel
 - Updated Black Bears to fight level 80 so they attack you when you get close
 - Updated Colovian Barrow loot list to remove septims
 - Updated Falkheim Region Sounds
+- Updated Stinkhorn
 
 - Deprecated
+
+Padomaic Isle
+
+- Added Naval Navigation Tools
 
 Tamriel Rebuilt
 
