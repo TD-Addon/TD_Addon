@@ -98,7 +98,6 @@ Tamriel Rebuilt
 - Added Storm Monarch
 - Added Dwemer Steam Colossus
 - Added Malahk Orc Waystones and Altar
-- Added Embrasure piece for LegionMw
 - Added Open Dunmer Tent
 
 - Added Books:
