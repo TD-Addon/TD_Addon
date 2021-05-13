@@ -30,10 +30,6 @@ Project Tamriel
 
 - Deprecated
 
-Padomaic Isle
-
-- Added Naval Navigation Tools
-
 Tamriel Rebuilt
 
 - Added Bodrem Quarry Rocks
@@ -99,6 +95,7 @@ Tamriel Rebuilt
 - Added Dwemer Steam Colossus
 - Added Malahk Orc Waystones and Altar
 - Added Open Dunmer Tent
+- Added Naval Navigation Tools
 
 - Added Books:
   - Geometry for Barbarians 
