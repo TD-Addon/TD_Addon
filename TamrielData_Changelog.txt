@@ -27,6 +27,7 @@ Project Tamriel
 - Updated Colovian Barrow loot list to remove septims
 - Updated Falkheim Region Sounds
 - Updated Stinkhorn
+- Updated Cyrodiilic Dremora to sometimes drop a Daedra Heart
 
 - Deprecated
 
@@ -96,6 +97,7 @@ Tamriel Rebuilt
 - Added Malahk Orc Waystones and Altar
 - Added Open Dunmer Tent
 - Added Naval Navigation Tools
+- Added unique Alandro Sul Helmet
 
 - Added Books:
   - Geometry for Barbarians 
@@ -150,10 +152,12 @@ Tamriel Rebuilt
 - Updated Broken bottles rework
 - Updated tr_book_cover_28 texture rework
 - Updated Atlased statues
+- Updated the content of "Morrowind Historia: Andothren" 
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
-- Removed The Dragon Break Reexamined, appeared in two levelled lists
+- Removed "The Dragon Break Reexamined" from two levelled lists
+- Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
 
 ===
 
