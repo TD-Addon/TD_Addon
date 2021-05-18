@@ -98,6 +98,7 @@ Tamriel Rebuilt
 - Added Open Dunmer Tent
 - Added Naval Navigation Tools
 - Added unique Alandro Sul Helmet
+- Added Imperial Arrowslit Shutters 
 
 - Added Books:
   - Geometry for Barbarians 
@@ -107,6 +108,9 @@ Tamriel Rebuilt
   - The Dwarven Firmament
   - Almalexia Speaks to Her Children
   - Compendium of Lost Artifacts
+  - The Talking Guar of Vhul
+  - Analysis on the Asurani Writing
+  - On the Perfection of the Guar
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
