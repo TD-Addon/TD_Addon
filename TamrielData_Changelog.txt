@@ -99,6 +99,7 @@ Tamriel Rebuilt
 - Added Naval Navigation Tools
 - Added unique Alandro Sul Helmet
 - Added Imperial Arrowslit Shutters 
+- Added resin deposits
 
 - Added Books:
   - Geometry for Barbarians 
