@@ -100,6 +100,8 @@ Tamriel Rebuilt
 - Added unique Alandro Sul Helmet
 - Added Imperial Arrowslit Shutters 
 - Added resin deposits
+- Added Imperial cellar wall
+- Added expansions for the Wooden cutlery, plate, and bowl set
 
 - Added Books:
   - Geometry for Barbarians 
@@ -128,6 +130,7 @@ Tamriel Rebuilt
 - Fixed some book title (Book of Nordic Proverbs, The Malahk: Scourge of the East)
 - Fixed note meshes having a small version of themselves underneath
 - Fixed Guide to <X> icons to resemble those of Patch for Purists (which align with their meshes)
+- Fixed Common Pillar UVs
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -158,6 +161,9 @@ Tamriel Rebuilt
 - Updated tr_book_cover_28 texture rework
 - Updated Atlased statues
 - Updated the content of "Morrowind Historia: Andothren" 
+- Updated Imperial Sewer Grates
+- Updated various meshes used in the Old Ebonheart harbor
+- Updated broken plank meshes
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
