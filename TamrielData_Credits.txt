@@ -19,6 +19,7 @@ Gez
 Haplo
 Jelle
 Kothloth
+Kynesifnar
 Lady Nerevar
 Lestat DeLioncourt
 London Rook
@@ -488,6 +489,7 @@ Lestat DeLioncourt
 Lord Berandas
 Moritius
 Mwgek
+Rats
 R-Zero
 Revenant
 Saint_Jiub

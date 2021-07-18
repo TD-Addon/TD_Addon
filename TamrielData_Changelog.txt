@@ -102,6 +102,9 @@ Tamriel Rebuilt
 - Added resin deposits
 - Added Imperial cellar wall
 - Added expansions for the Wooden cutlery, plate, and bowl set
+- Added new Nord faces
+- Added alternative shipwreck model
+- Added banners for Andar Mok, Bodrum, and Darvon
 
 - Added Books:
   - Geometry for Barbarians 
