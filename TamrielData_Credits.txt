@@ -38,6 +38,7 @@ Prometheus
 Pug
 Ragox
 Rats
+Sandaron
 Silaria (Argonian faces)
 sirrah
 Slartibartfast

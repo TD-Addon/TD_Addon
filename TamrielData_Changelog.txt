@@ -105,6 +105,10 @@ Tamriel Rebuilt
 - Added new Nord faces
 - Added alternative shipwreck model
 - Added banners for Andar Mok, Bodrum, and Darvon
+- Added severed Dunmer heads
+- Added new Chuzei bonemold armor
+- Added new OM rubble pieces
+- Added Chitin Pioneer helm
 
 - Added Books:
   - Geometry for Barbarians 
