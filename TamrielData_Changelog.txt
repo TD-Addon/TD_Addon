@@ -130,7 +130,12 @@ Tamriel Rebuilt
 - Added Roth Roryn Dwemer Alcoves
 - Added Com Jaildoor
 - Added More Collision Shapes
+- Added Legion Set Addons
 - Added More Legion Set Addons
+- Added Another Hlaalu Strider Port
+- Added Double Sided Imperial Wall
+- Added Wood Imperial Chapel Window
+- Added Com M Drawers
 
 - Added Books:
   - Geometry for Barbarians 
