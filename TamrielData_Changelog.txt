@@ -12,9 +12,19 @@ Project Tamriel
 - Added Tantha nests
 - Added Strid levelled lists
 - Added Boar Meat to Wild Boars, replacing Bristleback Leather
+- Added Orc Tapestries
+- Added Another Reachmen Interior
+- Added Lamp Knight Class
+- Added Clan Khulari Faction
 
 - Added Books:
-
+ - Artificial Diseases
+ - De Sphaera Nirni
+ - Guide to the Guild Guides
+ - Teleportation: Premise and Praxis
+ - Weir Gate Memorandum
+ - The Grand Alliance
+ 
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
 - Fixed Xahxes' Gift, Part I also containing Part II
@@ -28,6 +38,11 @@ Project Tamriel
 - Updated Falkheim Region Sounds
 - Updated Stinkhorn
 - Updated Cyrodiilic Dremora to sometimes drop a Daedra Heart
+- Updated Reachman ladder collisions
+- Updated Direnni grate collisions
+- Updated hidden door
+- Updated Markarth int tiles
+- Updated Karthwasten atlas and collision
 
 - Deprecated
 
@@ -109,6 +124,13 @@ Tamriel Rebuilt
 - Added new Chuzei bonemold armor
 - Added new OM rubble pieces
 - Added Chitin Pioneer helm
+- Added Seducer
+- Added Clambering Moors Dead Trees
+- Added Rich Dark Elf Bar Set
+- Added Roth Roryn Dwemer Alcoves
+- Added Com Jaildoor
+- Added More Collision Shapes
+- Added More Legion Set Addons
 
 - Added Books:
   - Geometry for Barbarians 
@@ -171,6 +193,7 @@ Tamriel Rebuilt
 - Updated Imperial Sewer Grates
 - Updated various meshes used in the Old Ebonheart harbor
 - Updated broken plank meshes
+- Updated Dunmer Tent Scales
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
