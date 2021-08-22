@@ -147,6 +147,9 @@ Tamriel Rebuilt
 - Added Akaviri Invasion Relics
 - Added Ashwalker Spawners
 - Added Indoril Bonewalker Placeholder
+- Added Imperial Ebony Shield
+- Added Imperial Gold Armour
+- Added Dark Seducer
 
 - Added Books:
   - Geometry for Barbarians 
