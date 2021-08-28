@@ -16,6 +16,8 @@ Project Tamriel
 - Added Another Reachmen Interior
 - Added Lamp Knight Class
 - Added Clan Khulari Faction
+- Added some SHotN enchanted weapons
+- Added Falkreath land textures
 
 - Added Books:
  - Artificial Diseases
@@ -31,6 +33,7 @@ Project Tamriel
 - Fixed the Alphyn corpse persisting
 - Fixed enchantment values of the Songs of Pelinal VII and VIII
 - Fixed a few typos in books from github
+- Fixed Nord dresses first person view
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -150,6 +153,18 @@ Tamriel Rebuilt
 - Added Imperial Ebony Shield
 - Added Imperial Gold Armour
 - Added Dark Seducer
+- Added Note To Self Editormarker
+- Added Edited Redoran Interior Pieces
+- Added Prerelease Tapestries
+- Added Firewatch Cobblestone Texture
+- Added Suj Sprout
+- Added Red Leaf Trees
+- Added Imp SetMw Tower Interiors
+- Added Varga
+- Added enchanted items from Battlespire
+- Added Random Jungle Plant
+- Added Imperial Rugs and Tapestries
+- Added Polyhedrascope
 
 - Added Books:
   - Geometry for Barbarians 
@@ -162,6 +177,7 @@ Tamriel Rebuilt
   - The Talking Guar of Vhul
   - Analysis on the Asurani Writing
   - On the Perfection of the Guar
+  - Horoscope for 3E 427
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -179,6 +195,7 @@ Tamriel Rebuilt
 - Fixed note meshes having a small version of themselves underneath
 - Fixed Guide to <X> icons to resemble those of Patch for Purists (which align with their meshes)
 - Fixed Common Pillar UVs
+- Fixed Eastern Quarantine Book Jacket
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
