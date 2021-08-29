@@ -18,6 +18,7 @@ Project Tamriel
 - Added Clan Khulari Faction
 - Added some SHotN enchanted weapons
 - Added Falkreath land textures
+- Added Colovian Iron Armor
 
 - Added Books:
  - Artificial Diseases
@@ -165,6 +166,7 @@ Tamriel Rebuilt
 - Added Random Jungle Plant
 - Added Imperial Rugs and Tapestries
 - Added Polyhedrascope
+- Added CM moss texture
 
 - Added Books:
   - Geometry for Barbarians 
@@ -196,6 +198,8 @@ Tamriel Rebuilt
 - Fixed Guide to <X> icons to resemble those of Patch for Purists (which align with their meshes)
 - Fixed Common Pillar UVs
 - Fixed Eastern Quarantine Book Jacket
+- Fixed Swamptroll-Fix for OpenMW
+- Fixed tr_terrain_rocks_rm/rr fixes
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
