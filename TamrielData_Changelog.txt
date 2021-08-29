@@ -50,7 +50,7 @@ Project Tamriel
 - Updated Karthwasten atlas and collision
 - Updated Gold Coast and Gilded Hills weather settings
 
-- Deprecated
+- Deprecated old Colovian Iron Sets
 
 Tamriel Rebuilt
 
