@@ -19,6 +19,12 @@ Project Tamriel
 - Added some SHotN enchanted weapons
 - Added Falkreath land textures
 - Added Colovian Iron Armor
+- Added Reman Ruin Tapestries
+- Added Arenfen (name pending) Region
+- Added Woad Flower
+- Added more Jerral Mountains rocks
+- Added more Valstaag Highlands textures
+- Added Aqueducts
 
 - Added Books:
  - Artificial Diseases
@@ -167,6 +173,18 @@ Tamriel Rebuilt
 - Added Imperial Rugs and Tapestries
 - Added Polyhedrascope
 - Added CM moss texture
+- Added RM Volcano mesh
+- Added combined Roa Dyr meshes
+- Added Stones March Armor
+- Added Keptu urns
+- Added Chimer bronze weapons
+- Added snowy menhirs
+- Added Othreleth Woods Shroud Caps
+- Added Single strut for com ints
+- Added plateau rocks
+- Added Spyglass
+- Added GITD support addon
+- Added DE rugs
 
 - Added Books:
   - Geometry for Barbarians 
@@ -200,6 +218,8 @@ Tamriel Rebuilt
 - Fixed Eastern Quarantine Book Jacket
 - Fixed Swamptroll-Fix for OpenMW
 - Fixed tr_terrain_rocks_rm/rr fixes
+- Fixed spelling in map of Aanthirin
+- Fixed skeleton rise scripts
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -236,6 +256,13 @@ Tamriel Rebuilt
 - Updated Dunmer Tent Scales
 - Updated Argonian hair models
 - Updated various things (Aug 9th Data Edits)
+- Updated Roth Roryn to Roth Roryn Region
+- Updated Shalk to Brown Beetles in Armun Ashlands lists
+- Updated Ebony Clutter textures
+- Updated Tumtum Parasols
+- Updated Rockburst
+- Updated Bad Pauldron Dremora
+- Updated "Some" Indoril meshes
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
