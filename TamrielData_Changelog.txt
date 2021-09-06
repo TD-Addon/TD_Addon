@@ -220,6 +220,7 @@ Tamriel Rebuilt
 - Fixed tr_terrain_rocks_rm/rr fixes
 - Fixed spelling in map of Aanthirin
 - Fixed skeleton rise scripts
+- Fixed tr_ex_dwrv_plat_02 not having collision
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
