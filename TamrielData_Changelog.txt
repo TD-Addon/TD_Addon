@@ -12,14 +12,36 @@ Project Tamriel
 - Added Tantha nests
 - Added Strid levelled lists
 - Added Boar Meat to Wild Boars, replacing Bristleback Leather
+- Added Orc Tapestries
+- Added Another Reachmen Interior
+- Added Lamp Knight Class
+- Added Clan Khulari Faction
+- Added some SHotN enchanted weapons
+- Added Falkreath land textures
+- Added Colovian Iron Armor
+- Added Reman Ruin Tapestries
+- Added Arenfen (name pending) Region
+- Added Woad Flower
+- Added more Jerral Mountains rocks
+- Added more Valstaag Highlands textures
+- Added Aqueducts
 
 - Added Books:
-
+ - Artificial Diseases
+ - De Sphaera Nirni
+ - Guide to the Guild Guides
+ - Teleportation: Premise and Praxis
+ - Weir Gate Memorandum
+ - The Grand Alliance
+ 
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
 - Fixed Xahxes' Gift, Part I also containing Part II
 - Fixed the Alphyn corpse persisting
 - Fixed enchantment values of the Songs of Pelinal VII and VIII
+- Fixed a few typos in books from github
+- Fixed Nord dresses first person view
+- Fixed huge collision in sky_ex_SN_roof_01_02
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -28,8 +50,14 @@ Project Tamriel
 - Updated Falkheim Region Sounds
 - Updated Stinkhorn
 - Updated Cyrodiilic Dremora to sometimes drop a Daedra Heart
+- Updated Reachman ladder collisions
+- Updated Direnni grate collisions
+- Updated hidden door
+- Updated Markarth int tiles
+- Updated Karthwasten atlas and collision
+- Updated Gold Coast and Gilded Hills weather settings
 
-- Deprecated
+- Deprecated old Colovian Iron Sets
 
 Tamriel Rebuilt
 
@@ -102,6 +130,62 @@ Tamriel Rebuilt
 - Added resin deposits
 - Added Imperial cellar wall
 - Added expansions for the Wooden cutlery, plate, and bowl set
+- Added new Nord faces
+- Added alternative shipwreck model
+- Added banners for Andar Mok, Bodrum, and Darvon
+- Added severed Dunmer heads
+- Added new Chuzei bonemold armor
+- Added new OM rubble pieces
+- Added Chitin Pioneer helm
+- Added Seducer
+- Added Clambering Moors Dead Trees
+- Added Rich Dark Elf Bar Set
+- Added Roth Roryn Dwemer Alcoves
+- Added Com Jaildoor
+- Added More Collision Shapes
+- Added Legion Set Addons
+- Added More Legion Set Addons
+- Added Another Hlaalu Strider Port
+- Added Double Sided Imperial Wall
+- Added Wood Imperial Chapel Window
+- Added Com M Drawers
+- Added Indoril Entrance tiles
+- Added Duchess' Guard Silver Cuirass
+- Added Imperial Cutter Ships
+- Added Javelines
+- Added Misc Hairs 2
+- Added Backless Redoran Interior Shell
+- Added Akaviri Invasion Relics
+- Added Ashwalker Spawners
+- Added Indoril Bonewalker Placeholder
+- Added Imperial Ebony Shield
+- Added Imperial Gold Armour
+- Added Dark Seducer
+- Added Note To Self Editormarker
+- Added Edited Redoran Interior Pieces
+- Added Prerelease Tapestries
+- Added Firewatch Cobblestone Texture
+- Added Suj Sprout
+- Added Red Leaf Trees
+- Added Imp SetMw Tower Interiors
+- Added Varga
+- Added enchanted items from Battlespire
+- Added Random Jungle Plant
+- Added Imperial Rugs and Tapestries
+- Added Polyhedrascope
+- Added CM moss texture
+- Added RM Volcano mesh
+- Added combined Roa Dyr meshes
+- Added Stones March Armor
+- Added Keptu urns
+- Added Chimer bronze weapons
+- Added snowy menhirs
+- Added Othreleth Woods Shroud Caps
+- Added Single strut for com ints
+- Added plateau rocks
+- Added Spyglass
+- Added GITD support addon
+- Added DE rugs
 
 - Added Books:
   - Geometry for Barbarians 
@@ -114,6 +198,7 @@ Tamriel Rebuilt
   - The Talking Guar of Vhul
   - Analysis on the Asurani Writing
   - On the Perfection of the Guar
+  - Horoscope for 3E 427
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -131,6 +216,12 @@ Tamriel Rebuilt
 - Fixed note meshes having a small version of themselves underneath
 - Fixed Guide to <X> icons to resemble those of Patch for Purists (which align with their meshes)
 - Fixed Common Pillar UVs
+- Fixed Eastern Quarantine Book Jacket
+- Fixed Swamptroll-Fix for OpenMW
+- Fixed tr_terrain_rocks_rm/rr fixes
+- Fixed spelling in map of Aanthirin
+- Fixed skeleton rise scripts
+- Fixed tr_ex_dwrv_plat_02 not having collision
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -164,6 +255,16 @@ Tamriel Rebuilt
 - Updated Imperial Sewer Grates
 - Updated various meshes used in the Old Ebonheart harbor
 - Updated broken plank meshes
+- Updated Dunmer Tent Scales
+- Updated Argonian hair models
+- Updated various things (Aug 9th Data Edits)
+- Updated Roth Roryn to Roth Roryn Region
+- Updated Shalk to Brown Beetles in Armun Ashlands lists
+- Updated Ebony Clutter textures
+- Updated Tumtum Parasols
+- Updated Rockburst
+- Updated Bad Pauldron Dremora
+- Updated "Some" Indoril meshes
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
