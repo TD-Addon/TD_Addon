@@ -25,6 +25,9 @@ Project Tamriel
 - Added more Jerral Mountains rocks
 - Added more Valstaag Highlands textures
 - Added Aqueducts
+- Added Skyrim Caretaker and Scribe classes
+- Added Companions faction
+- Added Tacca plant
 
 - Added Books:
  - Artificial Diseases
@@ -186,6 +189,12 @@ Tamriel Rebuilt
 - Added Spyglass
 - Added GITD support addon
 - Added DE rugs
+- Added Coral Fungus
+- Added Glowshrooms
+- Added Andothren Port Authority and Apartment block
+- Added object entries for an unused vanilla Com Cabinet
+- Added SHotN gallows with morrowind woods texture
+- Added War-Banner of Prince Bashomon
 
 - Added Books:
   - Geometry for Barbarians 
@@ -222,6 +231,7 @@ Tamriel Rebuilt
 - Fixed spelling in map of Aanthirin
 - Fixed skeleton rise scripts
 - Fixed tr_ex_dwrv_plat_02 not having collision
+- Fixed Dreugh Hunter Helm using Dres Hunter Helm body part
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
