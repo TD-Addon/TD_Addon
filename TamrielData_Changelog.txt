@@ -28,6 +28,7 @@ Project Tamriel
 - Added Skyrim Caretaker and Scribe classes
 - Added Companions faction
 - Added Tacca plant
+- Added Nord tanning pits
 
 - Added Books:
  - Artificial Diseases
@@ -195,6 +196,8 @@ Tamriel Rebuilt
 - Added object entries for an unused vanilla Com Cabinet
 - Added SHotN gallows with morrowind woods texture
 - Added War-Banner of Prince Bashomon
+- Added Imperial Fort helix stair set (Firewatch Chapel Additions)
+- Added Poison Bloom
 
 - Added Books:
   - Geometry for Barbarians 
@@ -208,6 +211,7 @@ Tamriel Rebuilt
   - Analysis on the Asurani Writing
   - On the Perfection of the Guar
   - Horoscope for 3E 427
+  - History of Firewatch
 
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -275,6 +279,8 @@ Tamriel Rebuilt
 - Updated Rockburst
 - Updated Bad Pauldron Dremora
 - Updated "Some" Indoril meshes
+- Updated Redoran Watchman Armour set
+- Updated Cupling
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
