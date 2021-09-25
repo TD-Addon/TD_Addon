@@ -20,7 +20,7 @@ Project Tamriel
 - Added Falkreath land textures
 - Added Colovian Iron Armor
 - Added Reman Ruin Tapestries
-- Added Arenfen (name pending) Region
+- Added Dasek Marsh Region
 - Added Woad Flower
 - Added more Jerral Mountains rocks
 - Added more Valstaag Highlands textures
@@ -29,6 +29,9 @@ Project Tamriel
 - Added Companions faction
 - Added Tacca plant
 - Added Nord tanning pits
+- Added Dasek Marsh mud textures
+- Added Kreathi Dale dirt textures
+- Added more Ayleid interior tiles
 
 - Added Books:
  - Artificial Diseases
@@ -46,6 +49,7 @@ Project Tamriel
 - Fixed a few typos in books from github
 - Fixed Nord dresses first person view
 - Fixed huge collision in sky_ex_SN_roof_01_02
+- Fixed turnip CTD
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture

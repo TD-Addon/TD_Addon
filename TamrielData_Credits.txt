@@ -540,3 +540,30 @@ Vurt (trees)
 Westly (head, hair and clothing)
 
 Freesounds.org (sound effects) 
+
+author:    Argor, UnknownExplorer13, RoastGorilla439
+---------------------------------
+added Feb 2012, from:     Beyond Skyrim Assets
+IDs:	T_Ayl_DngRuin_I_PitBridge_01
+	T_Ayl_DngRuin_F_Brazier
+	T_Ayl_DngRuin_I_Hall4Way_02
+	T_Ayl_DngRuin_I_Pedestal_03
+	T_Ayl_DngRuin_I_PitBridge_Crn_0
+	T_Ayl_DngRuin_I_PirBridge3W_01
+	T_Ayl_DngRuin_I_PitBridgeArc_01
+	T_Ayl_DngRuin_I_PitBridge4W_01
+	T_Ayl_DngRuin_I_PitBridgeArc_02
+	T_Ayl_DngRuin_I_PitBridgeCap_01
+	T_Ayl_DngRuin_I_PitBridgeEnd_01
+	T_Ayl_DngRuin_I_PitBridgeS_01
+	T_Ayl_DngRuin_I_PitColumn_01
+	T_Ayl_DngRuin_I_PitColumnCrn_01
+	T_Ayl_DngRuin_I_PitColumnW_01
+	T_Ayl_DngRuin_I_PitFloor_02
+	T_Ayl_DngRuin_I_PitWallBr_01
+	T_Ayl_DngRuin_I_PitWallE_01
+	T_Ayl_DngRuin_I_RoomCol_04
+	T_Ayl_DngRuin_I_WideHBr_01
+	T_Ayl_DngRuin_I_HallRamp_01
+	T_Ayl_DngRuin_I_WideHEnd_01
+	T_Cyr_CaveGC_I_TunnelAylTrns_01
