@@ -32,6 +32,7 @@ Project Tamriel
 - Added Dasek Marsh mud textures
 - Added Kreathi Dale dirt textures
 - Added more Ayleid interior tiles
+- Added Kreathi Dale moss textures
 
 - Added Books:
  - Artificial Diseases
@@ -203,6 +204,7 @@ Tamriel Rebuilt
 - Added Imperial Fort helix stair set (Firewatch Chapel Additions)
 - Added Poison Bloom
 - Added Drumpear
+- Added ITO island levelled creatures
 
 - Added Books:
   - Geometry for Barbarians 
