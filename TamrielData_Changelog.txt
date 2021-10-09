@@ -33,6 +33,8 @@ Project Tamriel
 - Added Kreathi Dale dirt textures
 - Added more Ayleid interior tiles
 - Added Kreathi Dale moss textures
+- Added com R cupboard and round table
+- Added merged version of a common Haafingar house + wood steps
 
 - Added Books:
  - Artificial Diseases
@@ -65,6 +67,10 @@ Project Tamriel
 - Updated Markarth int tiles
 - Updated Karthwasten atlas and collision
 - Updated Gold Coast and Gilded Hills weather settings
+- Updated Nord heads
+- Updated hundreds of sky and pc meshes with optimizations
+- Updated com bookends
+- Updated some shotn books
 
 - Deprecated old Colovian Iron Sets
 
@@ -205,6 +211,7 @@ Tamriel Rebuilt
 - Added Poison Bloom
 - Added Drumpear
 - Added ITO island levelled creatures
+- Added new large Imperial gates
 
 - Added Books:
   - Geometry for Barbarians 
@@ -288,6 +295,7 @@ Tamriel Rebuilt
 - Updated "Some" Indoril meshes
 - Updated Redoran Watchman Armour set
 - Updated Cupling
+- Updated old large gates
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
