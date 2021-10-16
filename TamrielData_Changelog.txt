@@ -35,6 +35,7 @@ Project Tamriel
 - Added Kreathi Dale moss textures
 - Added com R cupboard and round table
 - Added merged version of a common Haafingar house + wood steps
+- Added Drajkmyr Marsh mud textures and flora
 
 - Added Books:
  - Artificial Diseases
@@ -212,6 +213,7 @@ Tamriel Rebuilt
 - Added Drumpear
 - Added ITO island levelled creatures
 - Added new large Imperial gates
+- Added Yam Orb
 
 - Added Books:
   - Geometry for Barbarians 
