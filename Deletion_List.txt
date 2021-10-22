@@ -1,0 +1,14 @@
+Body Parts
+	T_B_Kc_HeadFemaleV_01
+	T_B_Kc_HeadMaleV_01
+	T_B_Kcr_HeadFemaleV_01
+	T_B_Kcr_HeadMaleV_01
+	T_B_Ko_HeadFemaleV_01
+	T_B_Ko_HeadMaleV_01
+	T_B_Kor_HeadFemaleV_01
+	T_B_Ks_HeadFemaleV_01
+	T_B_Ks_HeadMaleV_01
+	T_B_Mao_HeadFemaleV_01
+	T_B_Mao_HeadMaleV_01
+	T_B_Rea_HeadFemV_01
+	T_B_Rea_HeadMaleV_01
