@@ -36,6 +36,7 @@ Project Tamriel
 - Added com R cupboard and round table
 - Added merged version of a common Haafingar house + wood steps
 - Added Drajkmyr Marsh mud textures and flora
+- Added more Haafingar meshes
 
 - Added Books:
  - Artificial Diseases
@@ -44,6 +45,7 @@ Project Tamriel
  - Teleportation: Premise and Praxis
  - Weir Gate Memorandum
  - The Grand Alliance
+ - Horskva Kongerike 1 & 2
  
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
@@ -72,6 +74,8 @@ Project Tamriel
 - Updated hundreds of sky and pc meshes with optimizations
 - Updated com bookends
 - Updated some shotn books
+- Updated hundreds of sky and pc meshes with optimizations (again)
+- Updated SHotN trees normals
 
 - Deprecated old Colovian Iron Sets
 
