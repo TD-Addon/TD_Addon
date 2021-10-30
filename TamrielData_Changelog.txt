@@ -37,6 +37,8 @@ Project Tamriel
 - Added merged version of a common Haafingar house + wood steps
 - Added Drajkmyr Marsh mud textures and flora
 - Added more Haafingar meshes
+- Added Haafingar Set Zenithar Window
+- Added Gjeche Ale, Risla, and Strongmead
 
 - Added Books:
  - Artificial Diseases
@@ -232,7 +234,9 @@ Tamriel Rebuilt
   - On the Perfection of the Guar
   - Horoscope for 3E 427
   - History of Firewatch
-
+  - Lichdom: A Trap, an Escape
+  - Various Generic Books
+  
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
 - Fixed Optimized book and note meshes
