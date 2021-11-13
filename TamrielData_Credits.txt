@@ -479,7 +479,13 @@ Vermai Sound effects (stock sound Jaguar)
 https://sketchfab.com/3d-models/spyglass-b27ebbf423ae431f9dac6ab2c8790515
 
 "Spyglass" (https://skfb.ly/onnWu) by Miguel Salgueiro is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-		
+
+author:    Reizeron
+---------------------------------
+added Sept 2021, from:     Brevur of Balmora - Finally Some Good Statue Mod https://www.nexusmods.com/morrowind/mods/47557
+IDs:    T_De_SetHla_F_Plaque
+	T_De_Set_StatueBevur
+	
 --PT_Data.bsa--
 Ald-Ma' Cyrod
 Commodore256

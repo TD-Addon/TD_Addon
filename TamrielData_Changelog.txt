@@ -39,6 +39,10 @@ Project Tamriel
 - Added more Haafingar meshes
 - Added Haafingar Set Zenithar Window
 - Added Gjeche Ale, Risla, and Strongmead
+- Added Hay bale
+- Added Ghulve (drink)
+- Added Elephant Grass
+- Added a few new Breton heads
 
 - Added Books:
  - Artificial Diseases
@@ -78,6 +82,7 @@ Project Tamriel
 - Updated some shotn books
 - Updated hundreds of sky and pc meshes with optimizations (again)
 - Updated SHotN trees normals
+- Updated Breton heads
 
 - Deprecated old Colovian Iron Sets
 
@@ -220,6 +225,22 @@ Tamriel Rebuilt
 - Added ITO island levelled creatures
 - Added new large Imperial gates
 - Added Yam Orb
+- Added more com int set parts
+- Added static pulley
+- Added Devourer Daedra
+- Added Xivali
+- Added Candleless Lampstand
+- Added Hanging Light
+- Added gem free T_B_De_HeadFemTR_34
+- Added Skylamp
+- Added Hlaalu Brevur statue
+- Added Indoril Pathways
+- Added white version of B_N_Dark Elf_F_Hair_02
+- Added Othreleth Woods bulbshroom
+- Added Firewatch EEC building
+- Added Velothi Ceiling Column/Railing
+- Added Praise Vehk, Mephalan Wall Decal
+- Added OOAB scorch decals
 
 - Added Books:
   - Geometry for Barbarians 
@@ -306,6 +327,7 @@ Tamriel Rebuilt
 - Updated Redoran Watchman Armour set
 - Updated Cupling
 - Updated old large gates
+- Updated Dwarven arrow and bolt
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 
