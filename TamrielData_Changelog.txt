@@ -338,6 +338,7 @@ Tamriel Rebuilt
 - Updated Thirr Valley Mangrove texture
 - Updated Mages Guild Tapestry ID
 - Updated Pudjing ID
+- Updated Maormer race with new unique assets
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
