@@ -43,6 +43,7 @@ Project Tamriel
 - Added Ghulve (drink)
 - Added Elephant Grass
 - Added a few new Breton heads
+- Added salt baskets for Drajkmyr
 
 - Added Books:
  - Artificial Diseases
@@ -241,6 +242,12 @@ Tamriel Rebuilt
 - Added Velothi Ceiling Column/Railing
 - Added Praise Vehk, Mephalan Wall Decal
 - Added OOAB scorch decals
+- Added Fighters Guild Tapestries
+- Added MW (and optimised) legion forge
+- Added Hlaalu Divine shrines and tapestries
+- Added Ashlander Shirt
+- Added Omaynis Rock Alcove
+- Added Khalaan Decobbling assets
 
 - Added Books:
   - Geometry for Barbarians 
@@ -328,8 +335,12 @@ Tamriel Rebuilt
 - Updated Cupling
 - Updated old large gates
 - Updated Dwarven arrow and bolt
+- Updated Thirr Valley Mangrove texture
+- Updated Mages Guild Tapestry ID
+- Updated Pudjing ID
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
+- Deprecated Daedric Lord set
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
