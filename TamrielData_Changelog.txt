@@ -44,6 +44,8 @@ Project Tamriel
 - Added Elephant Grass
 - Added a few new Breton heads
 - Added salt baskets for Drajkmyr
+- Added GC com set diagonal wall
+- Added Falkreath bushes
 
 - Added Books:
  - Artificial Diseases
@@ -339,6 +341,7 @@ Tamriel Rebuilt
 - Updated Mages Guild Tapestry ID
 - Updated Pudjing ID
 - Updated Maormer race with new unique assets
+- Updated Terras Trees again
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
