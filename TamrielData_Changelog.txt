@@ -250,6 +250,18 @@ Tamriel Rebuilt
 - Added Ashlander Shirt
 - Added Omaynis Rock Alcove
 - Added Khalaan Decobbling assets
+- Added Tanna and Corkbulb containers
+- Added Spindlewort Howling SFX
+- Added Skyrender Nest SFX
+- Added Acid Pool SFX
+- Added Ghostfence Machine SFX
+- Added Riverstrider Eggs
+- Added Static Shield and Crossed Swords
+- Added new Dwemer staff and great mace
+- Added altered vanilla Hlaalu wall slope
+- Added small Narsis Tower and 3 Generic Hlaalu buildings
+- Added ruined Azura, Mephala, and Sheogorath statues
+- Added Gremlins
 
 - Added Books:
   - Geometry for Barbarians 
@@ -342,6 +354,8 @@ Tamriel Rebuilt
 - Updated Pudjing ID
 - Updated Maormer race with new unique assets
 - Updated Terras Trees again
+- Updated old Dwemer weapon meshes
+- Updated Thirr Valley road texture
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
