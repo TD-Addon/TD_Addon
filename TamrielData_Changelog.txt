@@ -262,6 +262,10 @@ Tamriel Rebuilt
 - Added small Narsis Tower and 3 Generic Hlaalu buildings
 - Added ruined Azura, Mephala, and Sheogorath statues
 - Added Gremlins
+- Added Aanthirin road texture
+- Added unused vanilla dried mud texture
+- Added Unique ancient vampire head
+- Added corkbulb, chitin, iron and bonemold darts
 
 - Added Books:
   - Geometry for Barbarians 
