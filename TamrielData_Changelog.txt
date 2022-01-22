@@ -65,6 +65,7 @@ Project Tamriel
 - Fixed Nord dresses first person view
 - Fixed huge collision in sky_ex_SN_roof_01_02
 - Fixed turnip CTD
+- Fixed HR market stands
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -266,6 +267,13 @@ Tamriel Rebuilt
 - Added unused vanilla dried mud texture
 - Added Unique ancient vampire head
 - Added corkbulb, chitin, iron and bonemold darts
+- Added OOAB palisade Gates
+- Added rotated SH rock textures
+- Added 2 types of 3 layer Tribunal Temple
+- Added new artifacts for Firewatch
+- Added a whole lot of generic containers
+- Added a Dunmer potters wheel
+- Added Dreugh Wax Candles based off of OOAB scamp candles
 
 - Added Books:
   - Geometry for Barbarians 
