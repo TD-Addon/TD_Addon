@@ -46,6 +46,9 @@ Project Tamriel
 - Added salt baskets for Drajkmyr
 - Added GC com set diagonal wall
 - Added Falkreath bushes
+- Added Colovian Steel Armour
+- Added Ayleid Sorceror Kings
+- Added Koglings
 
 - Added Books:
  - Artificial Diseases
@@ -88,7 +91,7 @@ Project Tamriel
 - Updated SHotN trees normals
 - Updated Breton heads
 
-- Deprecated old Colovian Iron Sets
+- Deprecated old Colovian Iron and Steel Sets
 
 Tamriel Rebuilt
 
@@ -274,6 +277,7 @@ Tamriel Rebuilt
 - Added a whole lot of generic containers
 - Added a Dunmer potters wheel
 - Added Dreugh Wax Candles based off of OOAB scamp candles
+- Added select OOAB Hackle-Lo, blue kanet and goldreed
 
 - Added Books:
   - Geometry for Barbarians 
