@@ -49,6 +49,7 @@ Project Tamriel
 - Added Colovian Steel Armour
 - Added Ayleid Sorceror Kings
 - Added Koglings
+- Added combined Temple (small) for Anvil
 
 - Added Books:
  - Artificial Diseases
@@ -90,6 +91,7 @@ Project Tamriel
 - Updated hundreds of sky and pc meshes with optimizations (again)
 - Updated SHotN trees normals
 - Updated Breton heads
+- Updated Anvil walls and platforms
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -278,6 +280,8 @@ Tamriel Rebuilt
 - Added a Dunmer potters wheel
 - Added Dreugh Wax Candles based off of OOAB scamp candles
 - Added select OOAB Hackle-Lo, blue kanet and goldreed
+- Added new Velothi interior tiles (part 1)
+- Added Blue Flamed Daedric Lamp
 
 - Added Books:
   - Geometry for Barbarians 
