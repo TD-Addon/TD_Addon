@@ -70,6 +70,7 @@ Project Tamriel
 - Fixed huge collision in sky_ex_SN_roof_01_02
 - Fixed turnip CTD
 - Fixed HR market stands
+- Fixed Ice Wraith hostility
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -92,6 +93,7 @@ Project Tamriel
 - Updated SHotN trees normals
 - Updated Breton heads
 - Updated Anvil walls and platforms
+- Updated Imperial faces
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -282,6 +284,13 @@ Tamriel Rebuilt
 - Added select OOAB Hackle-Lo, blue kanet and goldreed
 - Added new Velothi interior tiles (part 1)
 - Added Blue Flamed Daedric Lamp
+- Added Magickeater and Magickmirror Robes
+- Added House Affiliation Pillar
+- Added OOAB vanilla tree saplings
+- Added Armorer's Challenge artefacts
+- Added square Hlaalu canal corners
+- Added even even more new Hlaalu generic buildings
+- Added new guarskin service banners
 
 - Added Books:
   - Geometry for Barbarians 
@@ -298,6 +307,7 @@ Tamriel Rebuilt
   - History of Firewatch
   - Lichdom: A Trap, an Escape
   - Various Generic Books
+  - Ash and Blood: The Imperial Simulacrum in Morrowind
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -376,9 +386,12 @@ Tamriel Rebuilt
 - Updated Terras Trees again
 - Updated old Dwemer weapon meshes
 - Updated Thirr Valley road texture
+- Updated Wolli's terrace cliffs
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
+- Deprecated T_Mw_Flora_Parasol_c and T_Mw_Flora_Parasol_s, new sapling versions with a more appropriate poly count were made
+- Deprecated cloned AC cave entrance
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
