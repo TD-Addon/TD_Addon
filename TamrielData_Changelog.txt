@@ -291,6 +291,8 @@ Tamriel Rebuilt
 - Added square Hlaalu canal corners
 - Added even even more new Hlaalu generic buildings
 - Added new guarskin service banners
+- Added Oarless Dunmer ship
+- Added Chimeri-Quey and Keptu-Quey races
 
 - Added Books:
   - Geometry for Barbarians 
