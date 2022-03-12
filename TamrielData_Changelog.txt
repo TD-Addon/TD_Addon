@@ -50,6 +50,11 @@ Project Tamriel
 - Added Ayleid Sorceror Kings
 - Added Koglings
 - Added combined Temple (small) for Anvil
+- Added Umbranox Saber
+- Added Quaesto Vil
+- Added Wood elf amulets
+- Added basilisk hide
+- Added bosmer hide baskets
 
 - Added Books:
  - Artificial Diseases
@@ -293,6 +298,11 @@ Tamriel Rebuilt
 - Added new guarskin service banners
 - Added Oarless Dunmer ship
 - Added Chimeri-Quey and Keptu-Quey races
+- Added wooded topped guard tower
+- Added more spells
+- Added Hleryn Statue
+- Added Dagger of the Open Soul
+- Added Cursed Crown of Ushu-Dimmu
 
 - Added Books:
   - Geometry for Barbarians 
