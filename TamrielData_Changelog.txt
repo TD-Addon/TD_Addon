@@ -303,6 +303,10 @@ Tamriel Rebuilt
 - Added Hleryn Statue
 - Added Dagger of the Open Soul
 - Added Cursed Crown of Ushu-Dimmu
+- Added Savior's Hide set
+- Added ITO Stronghold Teleporters
+- Added Scathecraw 03 and 04
+
 
 - Added Books:
   - Geometry for Barbarians 
@@ -320,6 +324,8 @@ Tamriel Rebuilt
   - Lichdom: A Trap, an Escape
   - Various Generic Books
   - Ash and Blood: The Imperial Simulacrum in Morrowind
+ - Welcome to the Arena
+ - The Lantern Thief
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -399,6 +405,9 @@ Tamriel Rebuilt
 - Updated old Dwemer weapon meshes
 - Updated Thirr Valley road texture
 - Updated Wolli's terrace cliffs
+- Updated ixed galleon sails (uv map and new texture)
+- Updated Wolli-cliffs med single-material update
+- Updated Ethos Knife (Version 3)
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
