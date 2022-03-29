@@ -46,6 +46,15 @@ Project Tamriel
 - Added salt baskets for Drajkmyr
 - Added GC com set diagonal wall
 - Added Falkreath bushes
+- Added Colovian Steel Armour
+- Added Ayleid Sorceror Kings
+- Added Koglings
+- Added combined Temple (small) for Anvil
+- Added Umbranox Saber
+- Added Quaesto Vil
+- Added Wood elf amulets
+- Added basilisk hide
+- Added bosmer hide baskets
 
 - Added Books:
  - Artificial Diseases
@@ -65,6 +74,8 @@ Project Tamriel
 - Fixed Nord dresses first person view
 - Fixed huge collision in sky_ex_SN_roof_01_02
 - Fixed turnip CTD
+- Fixed HR market stands
+- Fixed Ice Wraith hostility
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -86,8 +97,10 @@ Project Tamriel
 - Updated hundreds of sky and pc meshes with optimizations (again)
 - Updated SHotN trees normals
 - Updated Breton heads
+- Updated Anvil walls and platforms
+- Updated Imperial faces
 
-- Deprecated old Colovian Iron Sets
+- Deprecated old Colovian Iron and Steel Sets
 
 Tamriel Rebuilt
 
@@ -250,6 +263,46 @@ Tamriel Rebuilt
 - Added Ashlander Shirt
 - Added Omaynis Rock Alcove
 - Added Khalaan Decobbling assets
+- Added Tanna and Corkbulb containers
+- Added Spindlewort Howling SFX
+- Added Skyrender Nest SFX
+- Added Acid Pool SFX
+- Added Ghostfence Machine SFX
+- Added Riverstrider Eggs
+- Added Static Shield and Crossed Swords
+- Added new Dwemer staff and great mace
+- Added altered vanilla Hlaalu wall slope
+- Added small Narsis Tower and 3 Generic Hlaalu buildings
+- Added ruined Azura, Mephala, and Sheogorath statues
+- Added Gremlins
+- Added Aanthirin road texture
+- Added unused vanilla dried mud texture
+- Added Unique ancient vampire head
+- Added corkbulb, chitin, iron and bonemold darts
+- Added OOAB palisade Gates
+- Added rotated SH rock textures
+- Added 2 types of 3 layer Tribunal Temple
+- Added new artifacts for Firewatch
+- Added a whole lot of generic containers
+- Added a Dunmer potters wheel
+- Added Dreugh Wax Candles based off of OOAB scamp candles
+- Added select OOAB Hackle-Lo, blue kanet and goldreed
+- Added new Velothi interior tiles (part 1)
+- Added Blue Flamed Daedric Lamp
+- Added Magickeater and Magickmirror Robes
+- Added House Affiliation Pillar
+- Added OOAB vanilla tree saplings
+- Added Armorer's Challenge artefacts
+- Added square Hlaalu canal corners
+- Added even even more new Hlaalu generic buildings
+- Added new guarskin service banners
+- Added Oarless Dunmer ship
+- Added Chimeri-Quey and Keptu-Quey races
+- Added wooded topped guard tower
+- Added more spells
+- Added Hleryn Statue
+- Added Dagger of the Open Soul
+- Added Cursed Crown of Ushu-Dimmu
 
 - Added Books:
   - Geometry for Barbarians 
@@ -266,6 +319,7 @@ Tamriel Rebuilt
   - History of Firewatch
   - Lichdom: A Trap, an Escape
   - Various Generic Books
+  - Ash and Blood: The Imperial Simulacrum in Morrowind
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -342,9 +396,14 @@ Tamriel Rebuilt
 - Updated Pudjing ID
 - Updated Maormer race with new unique assets
 - Updated Terras Trees again
+- Updated old Dwemer weapon meshes
+- Updated Thirr Valley road texture
+- Updated Wolli's terrace cliffs
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
+- Deprecated T_Mw_Flora_Parasol_c and T_Mw_Flora_Parasol_s, new sapling versions with a more appropriate poly count were made
+- Deprecated cloned AC cave entrance
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
