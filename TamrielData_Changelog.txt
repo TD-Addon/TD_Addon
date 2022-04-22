@@ -55,6 +55,9 @@ Project Tamriel
 - Added Wood elf amulets
 - Added basilisk hide
 - Added bosmer hide baskets
+- Added long Imp FurnM table
+- Added Beorinhal Banner
+- Added Salt stations
 
 - Added Books:
  - Artificial Diseases
@@ -99,6 +102,7 @@ Project Tamriel
 - Updated Breton heads
 - Updated Anvil walls and platforms
 - Updated Imperial faces
+- Updated various PC plants
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -306,7 +310,9 @@ Tamriel Rebuilt
 - Added Savior's Hide set
 - Added ITO Stronghold Teleporters
 - Added Scathecraw 03 and 04
-
+- ADded OAAB Dwemer Set (Buildings + Chain int tiles)
+- Added Bloodrust sword
+- Added Glass Club
 
 - Added Books:
   - Geometry for Barbarians 
