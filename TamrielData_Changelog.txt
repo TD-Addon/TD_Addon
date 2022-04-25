@@ -313,6 +313,7 @@ Tamriel Rebuilt
 - ADded OAAB Dwemer Set (Buildings + Chain int tiles)
 - Added Bloodrust sword
 - Added Glass Club
+- Added snowy variant of Scrub Plain LTEX
 
 - Added Books:
   - Geometry for Barbarians 
