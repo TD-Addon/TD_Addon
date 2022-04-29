@@ -260,7 +260,7 @@ Tamriel Rebuilt
 - Added Firewatch EEC building
 - Added Velothi Ceiling Column/Railing
 - Added Praise Vehk, Mephalan Wall Decal
-- Added OOAB scorch decals
+- Added OAAB scorch decals
 - Added Fighters Guild Tapestries
 - Added MW (and optimised) legion forge
 - Added Hlaalu Divine shrines and tapestries
@@ -283,19 +283,19 @@ Tamriel Rebuilt
 - Added unused vanilla dried mud texture
 - Added Unique ancient vampire head
 - Added corkbulb, chitin, iron and bonemold darts
-- Added OOAB palisade Gates
+- Added OAAB palisade Gates
 - Added rotated SH rock textures
 - Added 2 types of 3 layer Tribunal Temple
 - Added new artifacts for Firewatch
 - Added a whole lot of generic containers
 - Added a Dunmer potters wheel
-- Added Dreugh Wax Candles based off of OOAB scamp candles
-- Added select OOAB Hackle-Lo, blue kanet and goldreed
+- Added Dreugh Wax Candles based off of OAAB scamp candles
+- Added select OAAB Hackle-Lo, blue kanet and goldreed
 - Added new Velothi interior tiles (part 1)
 - Added Blue Flamed Daedric Lamp
 - Added Magickeater and Magickmirror Robes
 - Added House Affiliation Pillar
-- Added OOAB vanilla tree saplings
+- Added OAAB vanilla tree saplings
 - Added Armorer's Challenge artefacts
 - Added square Hlaalu canal corners
 - Added even even more new Hlaalu generic buildings
@@ -310,10 +310,19 @@ Tamriel Rebuilt
 - Added Savior's Hide set
 - Added ITO Stronghold Teleporters
 - Added Scathecraw 03 and 04
-- ADded OAAB Dwemer Set (Buildings + Chain int tiles)
+- ADded OAAB Dwemer Set (Buildings + Chain int tiles + Puzzle activators + Pipe set + Grate floor + furn)
 - Added Bloodrust sword
 - Added Glass Club
 - Added snowy variant of Scrub Plain LTEX
+- Added more to (and updated) the silver, orcish, glass and iron weapon sets
+- Added ITO roadsigns
+- Added Red Roses
+- Added snowy AC rock textures + unused vanilla darkstone
+- Added Sanguine fires
+- Added Imperial Templar Steel weapon set
+- Added Hircine Shrine (wolf version)
+- Added Daedric Curve stairs
+- Added Velothi Mountains levelled creature lists (from template)
 
 - Added Books:
   - Geometry for Barbarians 
@@ -415,11 +424,15 @@ Tamriel Rebuilt
 - Updated ixed galleon sails (uv map and new texture)
 - Updated Wolli-cliffs med single-material update
 - Updated Ethos Knife (Version 3)
+- Updated Steel Scimitar
+- Updated Ebony Warhammer and Battleaxe
+- Updated broken bottles and weapons into misc items
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
 - Deprecated T_Mw_Flora_Parasol_c and T_Mw_Flora_Parasol_s, new sapling versions with a more appropriate poly count were made
 - Deprecated cloned AC cave entrance
+- Deprecated Warm Meat
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
@@ -661,23 +674,23 @@ Tamriel Rebuilt
 - Added Andothren Almalexia shrine
 - Added armored troll creatures
 - Added black circles
-- Added OOAB green glass clutter
-- Added OOAB halberd and arrows
+- Added OAAB green glass clutter
+- Added OAAB halberd and arrows
 - Added Kobold creature
-- Added OOAB ebony clutter
-- Added OOAB ebony alchemy set
+- Added OAAB ebony clutter
+- Added OAAB ebony alchemy set
 - Added Old Ebonheart manor mesh
 - Added Native Thirr Bonemold armor set
-- Added OOAB kwama mine clutter
+- Added OAAB kwama mine clutter
 - Added Native Chev-Aram armor set
 - Added Hortator ceramic card game
 - Added Yneslea items from Remiros
-- Added OOAB misc items
-- Added OOAB yellow glass clutter
+- Added OAAB misc items
+- Added OAAB yellow glass clutter
 - Added The Ebonheart Bellman papers
 - Added sounds for ceramic cards
-- Added OOAB clay clutter
-- Added OOAB blue glass clutter
+- Added OAAB clay clutter
+- Added OAAB blue glass clutter
 - Added Hlaalu interior stair expansion
 
 - Added books:
