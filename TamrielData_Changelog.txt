@@ -58,6 +58,10 @@ Project Tamriel
 - Added long Imp FurnM table
 - Added Beorinhal Banner
 - Added Salt stations
+- Added Inscribed stone
+- Added Orcish lanterns
+- Added town guard armours
+- Added rich wall addons for windows
 
 - Added Books:
  - Artificial Diseases
@@ -323,6 +327,12 @@ Tamriel Rebuilt
 - Added Hircine Shrine (wolf version)
 - Added Daedric Curve stairs
 - Added Velothi Mountains levelled creature lists (from template)
+- Added Indoril weapons from concept art
+- Added Keptu Urns
+- Added Dreugh weapons
+- Added more Nordic weapons
+- Added Adamantium throwing weapons
+- Added Dagon Urul and Molag Ruhn Regions
 
 - Added Books:
   - Geometry for Barbarians 
@@ -426,13 +436,17 @@ Tamriel Rebuilt
 - Updated Ethos Knife (Version 3)
 - Updated Steel Scimitar
 - Updated Ebony Warhammer and Battleaxe
-- Updated broken bottles and weapons into misc items
+- Updated all broken bottles and weapons into misc items
+- Updated Orc Skull
+- Updated cork into a misc (again)
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
 - Deprecated T_Mw_Flora_Parasol_c and T_Mw_Flora_Parasol_s, new sapling versions with a more appropriate poly count were made
 - Deprecated cloned AC cave entrance
 - Deprecated Warm Meat
+- Deprecated the broken bottle static that is made up of all 3 misc items
+- Deprecated old Othreleth Woods flora
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
