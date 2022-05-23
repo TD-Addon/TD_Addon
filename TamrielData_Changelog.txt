@@ -62,6 +62,7 @@ Project Tamriel
 - Added Orcish lanterns
 - Added town guard armours
 - Added rich wall addons for windows
+- Added rich closet
 
 - Added Books:
  - Artificial Diseases
@@ -107,6 +108,7 @@ Project Tamriel
 - Updated Anvil walls and platforms
 - Updated Imperial faces
 - Updated various PC plants
+- Updated Chokeberry poly count
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -295,7 +297,7 @@ Tamriel Rebuilt
 - Added a Dunmer potters wheel
 - Added Dreugh Wax Candles based off of OAAB scamp candles
 - Added select OAAB Hackle-Lo, blue kanet and goldreed
-- Added new Velothi interior tiles (part 1)
+- Added many new Velothi interior tiles
 - Added Blue Flamed Daedric Lamp
 - Added Magickeater and Magickmirror Robes
 - Added House Affiliation Pillar
@@ -333,6 +335,9 @@ Tamriel Rebuilt
 - Added more Nordic weapons
 - Added Adamantium throwing weapons
 - Added Dagon Urul and Molag Ruhn Regions
+- Added Blueware plate
+- Added Dwarven Repair Hammer
+- Added Stalhrim Battleaxe
 
 - Added Books:
   - Geometry for Barbarians 
