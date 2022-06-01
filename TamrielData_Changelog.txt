@@ -109,6 +109,8 @@ Project Tamriel
 - Updated Imperial faces
 - Updated various PC plants
 - Updated Chokeberry poly count
+- Updated wasabi bowl potion to be a squeezable tube thing
+- Updated the existing weapons from the Imperial set
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -338,6 +340,10 @@ Tamriel Rebuilt
 - Added Blueware plate
 - Added Dwarven Repair Hammer
 - Added Stalhrim Battleaxe
+- Added Missing Nordic Ringmail armour pieces
+- Added Wood and Corkbulb staves
+- Added Sanguine Statue
+- Added the missing weapons from the Imperial weapon set
 
 - Added Books:
   - Geometry for Barbarians 
