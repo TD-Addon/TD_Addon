@@ -63,6 +63,7 @@ Project Tamriel
 - Added town guard armours
 - Added rich wall addons for windows
 - Added rich closet
+- Added Redguard Ships (TES3A)
 
 - Added Books:
  - Artificial Diseases
@@ -344,6 +345,9 @@ Tamriel Rebuilt
 - Added Wood and Corkbulb staves
 - Added Sanguine Statue
 - Added the missing weapons from the Imperial weapon set
+- Added Crystal Ball
+- Added various OAAB furniture items
+- Added Redoran Hunting Hounds
 
 - Added Books:
   - Geometry for Barbarians 
@@ -361,8 +365,8 @@ Tamriel Rebuilt
   - Lichdom: A Trap, an Escape
   - Various Generic Books
   - Ash and Blood: The Imperial Simulacrum in Morrowind
- - Welcome to the Arena
- - The Lantern Thief
+  - Welcome to the Arena
+  - The Lantern Thief
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -450,6 +454,7 @@ Tamriel Rebuilt
 - Updated all broken bottles and weapons into misc items
 - Updated Orc Skull
 - Updated cork into a misc (again)
+- Updated Cooking Knives
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
@@ -458,6 +463,7 @@ Tamriel Rebuilt
 - Deprecated Warm Meat
 - Deprecated the broken bottle static that is made up of all 3 misc items
 - Deprecated old Othreleth Woods flora
+- Deprecated useless vanilla daedra copies
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
