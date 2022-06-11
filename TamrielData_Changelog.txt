@@ -64,6 +64,8 @@ Project Tamriel
 - Added rich wall addons for windows
 - Added rich closet
 - Added Redguard Ships (TES3A)
+- Added Auroran
+- Added Bosmer Bone Arrows
 
 - Added Books:
  - Artificial Diseases
@@ -85,6 +87,7 @@ Project Tamriel
 - Fixed turnip CTD
 - Fixed HR market stands
 - Fixed Ice Wraith hostility
+- Fixed some Colovian Barrow collisions
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -348,6 +351,8 @@ Tamriel Rebuilt
 - Added Crystal Ball
 - Added various OAAB furniture items
 - Added Redoran Hunting Hounds
+- Added Dwarven Junk Throwing Stars
+- Added dummy spells for MWSE override
 
 - Added Books:
   - Geometry for Barbarians 
@@ -455,6 +460,7 @@ Tamriel Rebuilt
 - Updated Orc Skull
 - Updated cork into a misc (again)
 - Updated Cooking Knives
+- Updated Orc Heads
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
