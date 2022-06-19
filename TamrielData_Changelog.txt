@@ -66,6 +66,11 @@ Project Tamriel
 - Added Redguard Ships (TES3A)
 - Added Auroran
 - Added Bosmer Bone Arrows
+- Added Gold Anvil (misc)
+- Added new connectors for Ayleid Round interior tiles
+- Added Cyrodiilic Pigs
+- Added Dragon Cult Clutter
+- Added Ironwood Logs
 
 - Added Books:
  - Artificial Diseases
@@ -88,6 +93,7 @@ Project Tamriel
 - Fixed HR market stands
 - Fixed Ice Wraith hostility
 - Fixed some Colovian Barrow collisions
+- Fixed wereboar head glitch
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -115,6 +121,7 @@ Project Tamriel
 - Updated Chokeberry poly count
 - Updated wasabi bowl potion to be a squeezable tube thing
 - Updated the existing weapons from the Imperial set
+- Updated Playing Card textures
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -353,6 +360,8 @@ Tamriel Rebuilt
 - Added Redoran Hunting Hounds
 - Added Dwarven Junk Throwing Stars
 - Added dummy spells for MWSE override
+- Added new cave shell
+- Added new Hlaalu Tall int tiles
 
 - Added Books:
   - Geometry for Barbarians 
