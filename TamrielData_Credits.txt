@@ -476,9 +476,10 @@ https://www.freesoundeffects.com
 ---------------------------------
 Vermai Sound effects (stock sound Jaguar)
 
-https://sketchfab.com/3d-models/spyglass-b27ebbf423ae431f9dac6ab2c8790515
-
-"Spyglass" (https://skfb.ly/onnWu) by Miguel Salgueiro is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+author: Miguel Salgueiro
+---------------------------------
+from: https://skfb.ly/onnWu, licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/)
+IDs:   T_Com_Spyglass01 (edited)
 
 author:    Reizeron
 ---------------------------------
@@ -486,6 +487,28 @@ added Sept 2021, from:     Brevur of Balmora - Finally Some Good Statue Mod http
 IDs:    T_De_SetHla_F_Plaque
 	T_De_Set_StatueBevur
 	
+author:    Spok
+---------------------------------
+Added June 2022, via OAAB_Data
+IDs:	T_Imp_LegionMw_X_Window_01
+	T_Imp_LegionMw_X_Window_02
+
+author:    Chainy
+---------------------------------
+added via OAAB_Data
+scorch mark decals
+
+author:    Kiteflyer61 and Archipel de Pertevue
+---------------------------------
+added via OAAB_Data
+archery targets
+
+author: RubberMan
+---------------------------------
+Added June 2022, via OAAB_data
+IDs:	T_Imp_FurnM_WeaponRack_01-02
+
+
 --PT_Data.bsa--
 Ald-Ma' Cyrod
 Commodore256
