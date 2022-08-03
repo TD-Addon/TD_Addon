@@ -16710,3 +16710,5 @@ T_Mw_Cr_Dreugh2:T_Mw_Cr_Dreugh1
 T_Mw_Cr_Dreugh3:T_Mw_Cr_Dreugh1
 T_Mw_Cr_Dreugh4:T_Mw_Cr_Dreugh1
 T_De_BlueGlassBowel_01:T_De_BlueGlassBowl_01
+T_De_Furn_Target_01:T_Com_Furn_Target_01
+T_De_Furn_Target_02:T_Com_Furn_Target_02

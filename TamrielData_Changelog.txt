@@ -74,6 +74,12 @@ Project Tamriel
 - Added Direnni load doors
 - Added more redguard lamp variants
 - Added Bosmer deerhide
+- Added Redguard shirts
+- Added some new imp tables
+- Added braziers for Imp_DngRuinSky
+- Added Packaged painting
+- Added alternate Anvil chimneys and canopies for performance heavy areas
+- Added more Goldenrod variants
 
 - Added Books:
  - Artificial Diseases
@@ -83,6 +89,12 @@ Project Tamriel
  - Weir Gate Memorandum
  - The Grand Alliance
  - Horskva Kongerike 1 & 2
+ - Riddles, Good with Mead
+ - The Friend of Giants
+ - The Hsaarik Elegy
+ - Old Fjori the Cove
+ - Radr, Stag-King
+ - Legends of Athalwyrm the Clever-Man
  
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
@@ -127,6 +139,7 @@ Project Tamriel
 - Updated Playing Card textures
 - Updated orc tapestries
 - Updated GC tunnel set floors
+- Updated Reman Ruin interior floor texture
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -371,6 +384,18 @@ Tamriel Rebuilt
 - Added Sturgeon (OAAB)
 - Added dunmer market shelf/display
 - Added a few more ebony weapons
+- Added Chimeri-Quey urns
+- Added Horsen Fungus
+- Added Sundered Scar Rocks
+- Added Ground Drumpear Seeds
+- Added Sulphur Containers
+- Added more glass lanterns
+- Added Gold Candlesticks
+- Added Mournhold Entrance Corner
+- Added Hlaalu Company Scrip Scripts
+- Added Sulphur Rock pools
+- Added Sweetbarrel variants
+- Added Ynesai Urns
 
 - Added Books:
   - Geometry for Barbarians 
@@ -480,6 +505,7 @@ Tamriel Rebuilt
 - Updated Cooking Knives
 - Updated Orc Heads
 - Updated De_M furniture set
+- Updated Hamum Roots
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
