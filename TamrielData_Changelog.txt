@@ -396,6 +396,9 @@ Tamriel Rebuilt
 - Added Sulphur Rock pools
 - Added Sweetbarrel variants
 - Added Ynesai Urns
+- Added half sized Hlaalu floor tile
+- Added Shipal-Sharai buildings
+- Added Spiny Llomar variants
 
 - Added Books:
   - Geometry for Barbarians 
