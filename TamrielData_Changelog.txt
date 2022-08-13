@@ -80,6 +80,7 @@ Project Tamriel
 - Added Packaged painting
 - Added alternate Anvil chimneys and canopies for performance heavy areas
 - Added more Goldenrod variants
+- Added grey goat pelt
 
 - Added Books:
  - Artificial Diseases
@@ -399,6 +400,11 @@ Tamriel Rebuilt
 - Added half sized Hlaalu floor tile
 - Added Shipal-Sharai buildings
 - Added Spiny Llomar variants
+- Added Othmura manor
+- Added long de_r tables
+- Added Gold Rapier
+- Added Hlaalu Canyon Watch Bonemold
+- Added Legion of Shadows artifacts
 
 - Added Books:
   - Geometry for Barbarians 
@@ -509,6 +515,7 @@ Tamriel Rebuilt
 - Updated Orc Heads
 - Updated De_M furniture set
 - Updated Hamum Roots
+- Updated High Elf tapestry
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
