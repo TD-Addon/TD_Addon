@@ -81,6 +81,13 @@ Project Tamriel
 - Added alternate Anvil chimneys and canopies for performance heavy areas
 - Added more Goldenrod variants
 - Added grey goat pelt
+- Added GCPoor interior ramp
+- Added new global kelp variants
+- Added another GC wall cover
+- Added Sky and PC placeholder guides
+- Added Dartboard
+- Added modular block-and-tackle rigging set
+- Added Telescope
 
 - Added Books:
  - Artificial Diseases
@@ -110,6 +117,7 @@ Project Tamriel
 - Fixed Ice Wraith hostility
 - Fixed some Colovian Barrow collisions
 - Fixed wereboar head glitch
+- Fixed Silver palm sprigs
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -141,6 +149,7 @@ Project Tamriel
 - Updated orc tapestries
 - Updated GC tunnel set floors
 - Updated Reman Ruin interior floor texture
+- Updated and expanded SetGC interior windows
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -405,6 +414,10 @@ Tamriel Rebuilt
 - Added Gold Rapier
 - Added Hlaalu Canyon Watch Bonemold
 - Added Legion of Shadows artifacts
+- Added Vanilla bread variants
+- Added Extra Narsis Waterfront tile
+- Added Orlukh's Cleaver
+- Added Shalk rug
 
 - Added Books:
   - Geometry for Barbarians 
@@ -448,6 +461,7 @@ Tamriel Rebuilt
 - Fixed skeleton rise scripts
 - Fixed tr_ex_dwrv_plat_02 not having collision
 - Fixed Dreugh Hunter Helm using Dres Hunter Helm body part
+- Fixed bad planter 01 collision
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -516,6 +530,9 @@ Tamriel Rebuilt
 - Updated De_M furniture set
 - Updated Hamum Roots
 - Updated High Elf tapestry
+- Updated Ice Crystal
+- Updated Sundered Scar palms
+- Updated bamboo (optimised)
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
