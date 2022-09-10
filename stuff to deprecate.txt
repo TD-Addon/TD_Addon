@@ -1,5 +1,0 @@
-textures
-tr/f/tr_f_bamboo_01.dds
-
-meshes
-tr/f/tr_flora_bamboo01-03 
