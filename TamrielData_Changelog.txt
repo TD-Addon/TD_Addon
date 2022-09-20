@@ -418,6 +418,9 @@ Tamriel Rebuilt
 - Added Extra Narsis Waterfront tile
 - Added Orlukh's Cleaver
 - Added Shalk rug
+- Added Palm Leaf Scrolls (PI)
+- Added open top Hlaalu stairs
+- Added Malakh Orcs
 
 - Added Books:
   - Geometry for Barbarians 
@@ -437,6 +440,7 @@ Tamriel Rebuilt
   - Ash and Blood: The Imperial Simulacrum in Morrowind
   - Welcome to the Arena
   - The Lantern Thief
+  - The Malahk: Scourge of the East
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -533,6 +537,7 @@ Tamriel Rebuilt
 - Updated Ice Crystal
 - Updated Sundered Scar palms
 - Updated bamboo (optimised)
+- Updated Darvon banner to Darvonis
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
