@@ -421,6 +421,8 @@ Tamriel Rebuilt
 - Added Palm Leaf Scrolls (PI)
 - Added open top Hlaalu stairs
 - Added Malakh Orcs
+- Added Ventshrooms and Boreal Hydnum
+- Added Cathnoquey Cave set
 
 - Added Books:
   - Geometry for Barbarians 
@@ -538,6 +540,7 @@ Tamriel Rebuilt
 - Updated Sundered Scar palms
 - Updated bamboo (optimised)
 - Updated Darvon banner to Darvonis
+- Updated Daedric wards with scripts
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
