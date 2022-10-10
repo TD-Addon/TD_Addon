@@ -423,6 +423,8 @@ Tamriel Rebuilt
 - Added Malakh Orcs
 - Added Ventshrooms and Boreal Hydnum
 - Added Cathnoquey Cave set
+- Added CM Red mushroom tree
+- Added Shellmold armor
 
 - Added Books:
   - Geometry for Barbarians 
