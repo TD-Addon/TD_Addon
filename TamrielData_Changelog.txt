@@ -88,6 +88,7 @@ Project Tamriel
 - Added Dartboard
 - Added modular block-and-tackle rigging set
 - Added Telescope
+- Added more and Updated Colovian Banners
 
 - Added Books:
  - Artificial Diseases
@@ -425,6 +426,7 @@ Tamriel Rebuilt
 - Added Cathnoquey Cave set
 - Added CM Red mushroom tree
 - Added Shellmold armor
+- Added Sweetbread Polypore
 
 - Added Books:
   - Geometry for Barbarians 
