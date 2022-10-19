@@ -427,6 +427,8 @@ Tamriel Rebuilt
 - Added CM Red mushroom tree
 - Added Shellmold armor
 - Added Sweetbread Polypore
+- Added Imperial Navy uniform
+- Added Combined Hlaalu tiles
 
 - Added Books:
   - Geometry for Barbarians 
