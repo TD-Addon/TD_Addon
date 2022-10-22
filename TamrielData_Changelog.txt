@@ -104,6 +104,7 @@ Project Tamriel
  - Old Fjori the Cove
  - Radr, Stag-King
  - Legends of Athalwyrm the Clever-Man
+ - Bonewalker Rituals
  
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
@@ -211,7 +212,7 @@ Tamriel Rebuilt
 - Added Asset reques: required interior shells for TV Redoran settlements
 - Added Unique Bel Betu Crystal
 - Added Market Stands, Tents & Flags on Ropes
-- Added Breton Mithril Blades
+- Added Breton Mithril Weapons
 - Added Round Dwemer Platform
 - Added LegionMW pieces for round towers
 - Added Asset request Hlaalu forge/fireplace
@@ -428,7 +429,9 @@ Tamriel Rebuilt
 - Added Shellmold armor
 - Added Sweetbread Polypore
 - Added Imperial Navy uniform
-- Added Combined Hlaalu tiles
+- Added Combined Hlaalu interior tiles
+- Added Ynes Clutter
+- Added Exterior Friendly Velothi Set
 
 - Added Books:
   - Geometry for Barbarians 
