@@ -89,6 +89,8 @@ Project Tamriel
 - Added modular block-and-tackle rigging set
 - Added Telescope
 - Added more and Updated Colovian Banners
+- Added 2 Colovian Robes
+- Added Cow Tools
 
 - Added Books:
  - Artificial Diseases
@@ -432,6 +434,11 @@ Tamriel Rebuilt
 - Added Combined Hlaalu interior tiles
 - Added Ynes Clutter
 - Added Exterior Friendly Velothi Set
+- Added Nibenese Katanas
+- Added Iron Warhammer variant
+- Added 6th House Weapons
+- Added Shipal-Shin Crossbow
+- Added Chitin Weapons
 
 - Added Books:
   - Geometry for Barbarians 
