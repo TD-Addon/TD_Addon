@@ -106,7 +106,6 @@ Project Tamriel
  - Old Fjori the Cove
  - Radr, Stag-King
  - Legends of Athalwyrm the Clever-Man
- - Bonewalker Rituals
  
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
@@ -382,7 +381,7 @@ Tamriel Rebuilt
 - Added Dagon Urul and Molag Ruhn Regions
 - Added Blueware plate
 - Added Dwarven Repair Hammer
-- Added Stalhrim Battleaxe
+- Added Stalhrim Weapons
 - Added Missing Nordic Ringmail armour pieces
 - Added Wood and Corkbulb staves
 - Added Sanguine Statue
@@ -439,6 +438,12 @@ Tamriel Rebuilt
 - Added 6th House Weapons
 - Added Shipal-Shin Crossbow
 - Added Chitin Weapons
+- Added Dark Elf Crying Voice
+- Added Andothren FG Map
+- Added Namiras Shroud
+- Added Nordic Claw
+- Added Velothi Entrance variant
+- Added White Bloatroot
 
 - Added Books:
   - Geometry for Barbarians 
@@ -459,6 +464,7 @@ Tamriel Rebuilt
   - Welcome to the Arena
   - The Lantern Thief
   - The Malahk: Scourge of the East
+  - Bonewalker Rituals
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
