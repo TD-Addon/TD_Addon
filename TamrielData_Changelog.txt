@@ -1,4 +1,32 @@
-TBD UPDATE
+Month Year UPDATE
+
+Tamriel_Data
+
+- Added Velothi Lighthouse 								(MwGek)
+- Added Dunmer Ebony Helm Variants 						(AnhoraNexus, Cicero)
+- Added Alma Rula's Ceremonial Helmet 					(Kynesifnar)
+- Added More Dwemer Statues 							(Svartalfar, Cicero, Kynesifnar, Revenorror)
+- Added Bellman Entry for Literary Critic 				(Taniquetil, Why)
+- Added Corkbulb Bow 									(Ateiggaer, AnhoraNexus)
+- Added Additional Com Potions 							(Phenoix12)
+- Added Velothi Ruins 									(OAAB)
+- Added Velothi Rubble 									(chef)
+- Added Yneslea Palm Trees								(DarkKnightComes, Cicero)
+- Added EEC Tapestries, Signs and Banners 				(Rats)
+
+- Added books:
+ - The Bible											(chef)
+ 
+- Fixed
+
+- Updated Chitin Open Helm 								(AnhoraNexus)
+- Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
+- Updated Templar Weapons 								(AnhoraNexus)
+
+- Removed
+
+
+November 2022 UPDATE
 
 Project Tamriel
 
@@ -91,6 +119,8 @@ Project Tamriel
 - Added more and Updated Colovian Banners
 - Added 2 Colovian Robes
 - Added Cow Tools
+- Added com rowboat
+- Added Static Water Hyacinths, Lilly pads and mangrove roots
 
 - Added Books:
  - Artificial Diseases
@@ -444,6 +474,12 @@ Tamriel Rebuilt
 - Added Nordic Claw
 - Added Velothi Entrance variant
 - Added White Bloatroot
+- Added Bricca Bank Sign
+- Added Weir Gate focus lens
+- Added Guide to Firewatch and Andothren
+- Added Chapel Windows
+- Added Daedric Fountain
+- Added custom Conjuration spells (MWSE only as of now)
 
 - Added Books:
   - Geometry for Barbarians 
@@ -563,6 +599,7 @@ Tamriel Rebuilt
 - Updated bamboo (optimised)
 - Updated Darvon banner to Darvonis
 - Updated Daedric wards with scripts
+- Updated Akavir Invasion Map
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
