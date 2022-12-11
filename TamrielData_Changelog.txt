@@ -13,6 +13,16 @@ Tamriel_Data
 - Added Velothi Rubble 									(chef)
 - Added Yneslea Palm Trees								(DarkKnightComes, Cicero)
 - Added EEC Tapestries, Signs and Banners 				(Rats)
+- Added NiCollisionSwitch Dongle Water					(Melchior Dahrk)
+- Added more Hlaalu Big and Tall pieces					(Tosky)
+- Added Hlaalu Wall Screen tile							(Tosky)
+- Added Hlaalu Dome tile								(Tosky)
+- Added OW and SH Tilled Dirts							(Revenorror, chef)
+- Added Open Tall Canton								(Atrayonis)
+- Added Editormarker NPC								(Hemaris)
+- Added Editormarker Playerhome							(Hemaris)
+- Added 3rd Colovian Robe								(Worsas)
+- Added Legion Fort floor for high battlements			(Hemaris)
 
 - Added books:
  - The Bible											(chef)
@@ -22,8 +32,11 @@ Tamriel_Data
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
 - Updated Templar Weapons 								(AnhoraNexus)
+- Updated Galleon Collisions							(Worsas)
+- Updated Othreleth Woods Region map colour
+- Updated (nerfed) Javelin damage by half
 
-- Removed
+- Removed potion_ancient_brandy from T_Mw_Random_Drink
 
 
 November 2022 UPDATE
