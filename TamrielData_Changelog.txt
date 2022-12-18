@@ -23,6 +23,9 @@ Tamriel_Data
 - Added Editormarker Playerhome							(Hemaris)
 - Added 3rd Colovian Robe								(Worsas)
 - Added Legion Fort floor for high battlements			(Hemaris)
+- Added Shipal-Shin sandstone cave set					(S'wit, Kynesifnar)
+- Added Bloodmoon rocks (all current VM rocks renamed)
+- Added Coral (old OW coral fungus)						(S'wit)
 
 - Added books:
  - The Bible											(chef)
@@ -35,6 +38,8 @@ Tamriel_Data
 - Updated Galleon Collisions							(Worsas)
 - Updated Othreleth Woods Region map colour
 - Updated (nerfed) Javelin damage by half
+- Updated Bonemold Open helm							(AnhoraNexus)
+- Updated Coral Fungus									(Joanasc)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
