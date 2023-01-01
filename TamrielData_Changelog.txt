@@ -26,11 +26,24 @@ Tamriel_Data
 - Added Shipal-Shin sandstone cave set					(S'wit, Kynesifnar)
 - Added Bloodmoon rocks (all current VM rocks renamed)
 - Added Coral (old OW coral fungus)						(S'wit)
+- Added Ostern Rural Set								(Joanasc)
+- Added Modular Lower Canton Set						(MwGek)
+- Added Telvanni Merchant Hats							(Feivelyn, Kynesifnar)
+- Added Ex Telvanni Robes and Hats						(Feivelyn, Kynesifnar)
+- Added Filled Small Sack Variants						(Denis418)
+- Added Cyrodillic Wheat and Sacks						(Worsas)
+- Added Anvil Shipyard Building							(Worsas)
+- Added Generic Coal Containers							(Osidian)
+- Added Additional Kvetchi Pass Flora					(Worsas)
+- Added Imperial Baskets								(Infragris, Worsas)
+- Added Bleakstar										(Spineinside, ThomasRuz)
+- Added Skis											(Hemaris)
+- Added Falkreath Building Set							(Joanasc)
 
 - Added books:
  - The Bible											(chef)
  
-- Fixed
+- Fixed Dark Seducers using a unique weapon
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
@@ -40,6 +53,8 @@ Tamriel_Data
 - Updated (nerfed) Javelin damage by half
 - Updated Bonemold Open helm							(AnhoraNexus)
 - Updated Coral Fungus									(Joanasc)
+- Updated Falkheim Region name to Grey Plains Region
+- Updated Gilded Hills Region name to Brennan Bluffs Region
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
