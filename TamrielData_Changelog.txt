@@ -39,6 +39,20 @@ Tamriel_Data
 - Added Bleakstar										(Spineinside, ThomasRuz)
 - Added Skis											(Hemaris)
 - Added Falkreath Building Set							(Joanasc)
+- Added Breton Wizard Robe								(c0dacan0n, Kynesifnar, Aleister)
+- Added Tall GC Fireplace								(Lucevar)
+- Added Ancient Nordic Weapons							(AnhoraNexus)
+- Added Velothi Mountain Flowers						(Fluxbender)
+- Added Cathnoquey Palmwood Tableware					(Fluxbender)
+- Added Yneslea Clay Tableware							(Fluxbender)
+- Added Curved Velothi Int Corner						(Kynesifnar)
+- Added Padomic Sage									(MwGek)
+- Added Redoran Warbanners								(Remiros, Kynesifnar)
+- Added Scroll for Appraisal Quest						(Remiros, Cicero, Kynesifnar)
+- Added Dwemer Lift										(Wojtek, Kynesifnar)
+- Added Legion Tower Base								(Greatness7, Taniquetil)
+- Added Yneslea Rattan									(MwGek)
+- Added Indoril Ulvra Bonemold							(DharmaPR, Feivelyn, Kynesifnar)
 
 - Added books:
  - The Bible											(chef)
@@ -55,6 +69,7 @@ Tamriel_Data
 - Updated Coral Fungus									(Joanasc)
 - Updated Falkheim Region name to Grey Plains Region
 - Updated Gilded Hills Region name to Brennan Bluffs Region
+- Updated Reachmen race with unique bodies + new faces	(rats)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
