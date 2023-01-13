@@ -53,11 +53,25 @@ Tamriel_Data
 - Added Legion Tower Base								(Greatness7, Taniquetil)
 - Added Yneslea Rattan									(MwGek)
 - Added Indoril Ulvra Bonemold							(DharmaPR, Feivelyn, Kynesifnar)
+- Added Generic Padomic Coastal Palms					(MwGek)
+- Added Temaris Veloth Statue							(MwGek)
+- Added Padomic Ocean Rocks								(Kynesifnar)
+- Added Padomic Ocean Textures							(AcrylicFrog)
+- Added more Snowy Darkstone Textures					(Kynesifnar)
+- Added more Blunt Weapons								(Rats)
+- Added GCPoor Tunnel Block tile						(Worsas)
+- Added Common and Expensive Telvanni Clothes			(Feivelyn, Kynesifnar)
+- Added Temaris Land Textures							(Asylum)
+- Added Iron/Pewter Candle Snuffer						(EndoranWest)
+- Added Imperial Navy Officer Armour					(Worsas)
+- Added unique Ward of Akavir							(Shadow_Mimicry, Kynesifnar, Cicero)
+- Added Cathnoquey Bronze Clutter						(Fluxbender)
 
 - Added books:
  - The Bible											(chef)
  
 - Fixed Dark Seducers using a unique weapon
+- Fixed non-navigable GCPoor ramp2						(Worsas)
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
@@ -70,6 +84,8 @@ Tamriel_Data
 - Updated Falkheim Region name to Grey Plains Region
 - Updated Gilded Hills Region name to Brennan Bluffs Region
 - Updated Reachmen race with unique bodies + new faces	(rats)
+- Updated old Vurt Joshua trees with new meshes			(Joanasc)
+- Updated Fearstruck from HR to PI
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
