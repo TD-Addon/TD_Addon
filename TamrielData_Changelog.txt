@@ -66,12 +66,23 @@ Tamriel_Data
 - Added Imperial Navy Officer Armour					(Worsas)
 - Added unique Ward of Akavir							(Shadow_Mimicry, Kynesifnar, Cicero)
 - Added Cathnoquey Bronze Clutter						(Fluxbender)
+- Added Ngopta											(Fluxbender)
+- Added Draketails										(ThomasRuz)
+- Added Keptu-Quey Bull Drawing							(Rats)
+- Added Gauntlets of the Poor							(Lamb Shark)
+- Added FurnP Pos Chest									(Aveno)
+- Added Imperial Sewer Stairs							(Joanasc)
+- Added Shinathi Heads									(Rats)
+- Added missing Kragen Bonemold pieces					(Lamb Shark)
+- Added Temarin Bugloss									(MwGek)
+- Added Tiger Guar										(Cicero, Kynesifnar)
 
 - Added books:
  - The Bible											(chef)
  
 - Fixed Dark Seducers using a unique weapon
 - Fixed non-navigable GCPoor ramp2						(Worsas)
+- Fixed Indoril Mace being set as an axe
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
