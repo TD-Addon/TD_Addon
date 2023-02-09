@@ -76,6 +76,19 @@ Tamriel_Data
 - Added missing Kragen Bonemold pieces					(Lamb Shark)
 - Added Temarin Bugloss									(MwGek)
 - Added Tiger Guar										(Cicero, Kynesifnar)
+- Added Cathnoquey Puffball Flower						(Fluxbender)
+- Added Dwemer Robe										(Ashtaar, Svartalfar, Cicero, Kynesifnar)
+- Added Cathnoquey White Sand							(Cicero)
+- Added Blessings for Nord Priestesses					(Tristior)
+- Added Kushimmu Nerevarine Reward						(Cicero, OAAB)
+- Added missing HD textures for TR faces				(Rats)
+- Added Natural Cave Entrances							(Cicero, Kynesifnar)
+- Added Steel Truncheon									(Rats)
+- Added GC retexture of T_Mw_CaveMold_4way_Room_01		(Snailsting)
+- Added Cathnoquey Natural Cave Entrances				(Asylum, Kynesifnar)
+- Added Damaged Velothi Urns and Altars					(OAAB)
+- Added Colovian Fortresses								(Joanasc, Worsas, Spineinside)
+- Added AC rock variants for darkstone 3				(Cicero)
 
 - Added books:
  - The Bible											(chef)
@@ -97,6 +110,9 @@ Tamriel_Data
 - Updated Reachmen race with unique bodies + new faces	(rats)
 - Updated old Vurt Joshua trees with new meshes			(Joanasc)
 - Updated Fearstruck from HR to PI
+- Updated Sanguine Rose and Skull of Corruption			(Cicero)
+- Updated Uriel V Shield								(Rats)
+- Updated Imperial Cutter and Galleon					(Melchior Dahrk)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
