@@ -89,6 +89,14 @@ Tamriel_Data
 - Added Damaged Velothi Urns and Altars					(OAAB)
 - Added Colovian Fortresses								(Joanasc, Worsas, Spineinside)
 - Added AC rock variants for darkstone 3				(Cicero)
+- Added Kenassa Tong faction
+- Added Summerset Celadonware							(DangerDog, Kynesifnar)
+- Added Scathecraw trees								(VenuSprout)
+- Added Sammas Bonemold Helmet							(Rats, Kynesifnar)
+- Added generic seafood barrels							(Shadowhawk)
+- Added Com (nord) lighthouse							(MwGek)
+- Added Com perfumes									(Worsas)
+- Added Aanthirin rock texture							(Cicero, Kynesifnar)
 
 - Added books:
  - The Bible											(chef)
@@ -96,6 +104,9 @@ Tamriel_Data
 - Fixed Dark Seducers using a unique weapon
 - Fixed non-navigable GCPoor ramp2						(Worsas)
 - Fixed Indoril Mace being set as an axe
+- Fixed custom Khajiit stretching						(Lamb Shark)
+- Fixed Indoril stair and striderport collisions		(Lamb Shark)
+- Fixed Giant Kobolds (final?)							(Lamb Shark)
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
@@ -113,6 +124,9 @@ Tamriel_Data
 - Updated Sanguine Rose and Skull of Corruption			(Cicero)
 - Updated Uriel V Shield								(Rats)
 - Updated Imperial Cutter and Galleon					(Melchior Dahrk)
+- Updated Iron sabers									(Rats)
+- Updated Reach rocks with collisions					(Joanasc)
+- Updated swamp troll collision box						(Lamb Shark)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
