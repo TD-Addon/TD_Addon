@@ -34,7 +34,7 @@ Tamriel_Data
 - Added Cyrodillic Wheat and Sacks						(Worsas)
 - Added Anvil Shipyard Building							(Worsas)
 - Added Generic Coal Containers							(Osidian)
-- Added Additional Kvetchi Pass Flora					(Worsas)
+- Added Additional Kvetchi Pass Flora, logs and stumps	(Worsas, Joanasc)
 - Added Imperial Baskets								(Infragris, Worsas)
 - Added Bleakstar										(Spineinside, ThomasRuz)
 - Added Skis											(Hemaris)
@@ -97,6 +97,9 @@ Tamriel_Data
 - Added Com (nord) lighthouse							(MwGek)
 - Added Com perfumes									(Worsas)
 - Added Aanthirin rock texture							(Cicero, Kynesifnar)
+- Added Sharai Hopper									(Joanasc)
+- Added Shipal-Shin sapphire ores						(Cicero)
+- Added Bosmer Trade Ship								(Joanasc)
 
 - Added books:
  - The Bible											(chef)
@@ -110,7 +113,7 @@ Tamriel_Data
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
-- Updated Templar Weapons 								(AnhoraNexus)
+- Updated Templar Weapons (twice)						(AnhoraNexus)
 - Updated Galleon Collisions							(Worsas)
 - Updated Othreleth Woods Region map colour
 - Updated (nerfed) Javelin damage by half
@@ -127,6 +130,7 @@ Tamriel_Data
 - Updated Iron sabers									(Rats)
 - Updated Reach rocks with collisions					(Joanasc)
 - Updated swamp troll collision box						(Lamb Shark)
+- Updated Othreleth Woods sounds						(Beninate)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
