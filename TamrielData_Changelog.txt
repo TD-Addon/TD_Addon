@@ -97,9 +97,13 @@ Tamriel_Data
 - Added Com (nord) lighthouse							(MwGek)
 - Added Com perfumes									(Worsas)
 - Added Aanthirin rock texture							(Cicero, Kynesifnar)
-- Added Sharai Hopper									(Joanasc)
+- Added Sharai Hopper									(Joanasc, sfx by Beninate)
 - Added Shipal-Shin sapphire ores						(Cicero)
 - Added Bosmer Trade Ship								(Joanasc)
+- Added Dwemer Tomb										(Kynesifnar, Geophysic2013)
+- Added many more Reman ruin pieces						(Worsas)
+- Added Dunmer candles for more clutter sets			(Fluxbender)
+- Added Alchemist's Globe								(Feivelyn, Kynesifnar)
 
 - Added books:
  - The Bible											(chef)
@@ -110,6 +114,7 @@ Tamriel_Data
 - Fixed custom Khajiit stretching						(Lamb Shark)
 - Fixed Indoril stair and striderport collisions		(Lamb Shark)
 - Fixed Giant Kobolds (final?)							(Lamb Shark)
+- Fixed Roa Dyr stair collision							(Lamb Shark)
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
@@ -131,6 +136,7 @@ Tamriel_Data
 - Updated Reach rocks with collisions					(Joanasc)
 - Updated swamp troll collision box						(Lamb Shark)
 - Updated Othreleth Woods sounds						(Beninate)
+- Updated Reman ruin int and ext pieces					(Worsas)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
