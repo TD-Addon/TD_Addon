@@ -104,6 +104,22 @@ Tamriel_Data
 - Added many more Reman ruin pieces						(Worsas)
 - Added Dunmer candles for more clutter sets			(Fluxbender)
 - Added Alchemist's Globe								(Feivelyn, Kynesifnar)
+- Added Bosmer Kitchenware								(Worsas)
+- Added additional com beds								(OAAB)
+- Added Blackdrake										(PulcharmSolis, Taniquetil)
+- Added open coffin										(Brannon the ilk)
+- Added Aegrotat										(Kynesifnar)
+- Added Dragonfield Trees								(ThomasRuz, Kynesifnar, Worsas)
+- Added Goldmoor Rocks and Flora						(Joanasc)
+- Added Burned GC Trees									(chef)
+- Added Moth Herder Helmet								(PulcharmSolis, Taniquetil)
+- Added Leafy Plant										(Asylum)
+- Added Missing cave 4way_Room_01 variants				(Snailsting)
+- Added Tall De_R Bookshelf								(OAAB)
+- Added New Redoran Exterior Shells						(shivatheo)
+- Added Small Dunmer Ship								(OAAB)
+- Added Generic Barrels with wine						(chef)
+- Added Imperial Carved Wood Clutter					(Kaiel)
 
 - Added books:
  - The Bible											(chef)
@@ -137,6 +153,8 @@ Tamriel_Data
 - Updated swamp troll collision box						(Lamb Shark)
 - Updated Othreleth Woods sounds						(Beninate)
 - Updated Reman ruin int and ext pieces					(Worsas)
+- Updated Eyestar model									(shivatheo, Kynesifnar)
+- Updated Bal-Darum Bonemold							(Lamb Shark)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
