@@ -596,3 +596,7 @@ IDs:	T_Ayl_DngRuin_I_PitBridge_01
 	T_Ayl_DngRuin_I_HallRamp_01
 	T_Ayl_DngRuin_I_WideHEnd_01
 	T_Cyr_CaveGC_I_TunnelAylTrns_01
+	
+	
+Generated on https://architextures.org/
+Filename: pc_temple_copper_shingles.dds

@@ -120,9 +120,37 @@ Tamriel_Data
 - Added Small Dunmer Ship								(OAAB)
 - Added Generic Barrels with wine						(chef)
 - Added Imperial Carved Wood Clutter					(Kaiel)
+- Added more Cyrodiil Road Signs						(chef)
+- Added Additional Kvetchi Cave Entrances				(Worsas)
+- Added Shorter In_Cavern_Beams							(Stele)
+- Added Copper Dome Chapel								(chef, architextures.org)
+- Added Pilgrim's Pile									(DarkKnightComes)
+- Added Open Small Weathered Crate						(Denis418)
+- Added Morrowind Creature Skulls						(Sandman, Vidi_Aquam, Kynesifnar)
+- Added More Aanthirin Trees							(Cicero)
+- Added Vounoura Assets									(Cicero)
+- Added burnt GL Tree_01								(Cicero)
+- Added Astrologer Class								(Taniquetil)
+- Added Ratcatcher Class								(Taniquetil)
+- Added Hlaalu Ledge with no ends						(Stele)
+- Added Hlaalu Interior Dome set						(Stele)
+- Added Ynesai Race										(PulcharmSolis)
+- Added Yneslea Tall Yellow Flower						(DarkKnightComes)
+- Added Yneslea Tree									(DarkKnightComes)
+- Added Dwemer Rourken Exterior Set						(Joanasc)
+- Added First Era Colovian Redware						(Kaiel)
 
 - Added books:
- - The Bible											(chef)
+ - Divine Sacrifice										(Infragris)
+ - Memories of Western Highlands						(Infragris)
+ - Sayings of the Church-Mothers						(Infragris)
+ - The Image and the Divine								(Infragris)
+ - Arcturianism For Beginners							(Infragris)
+ - Tales of the Woven City								(Infragris)
+ - The Secret Throne of Vampires						(Infragris)
+ - The Pilgrim and the Soldier							(Infragris)
+ - Iniquities of the Current Era						(Infragris)
+ - Temple Zero - A Warning								(Infragris)
  
 - Fixed Dark Seducers using a unique weapon
 - Fixed non-navigable GCPoor ramp2						(Worsas)
@@ -155,9 +183,13 @@ Tamriel_Data
 - Updated Reman ruin int and ext pieces					(Worsas)
 - Updated Eyestar model									(shivatheo, Kynesifnar)
 - Updated Bal-Darum Bonemold							(Lamb Shark)
+- Updated Reach Cave Textures							(Worsas)
+- Updated Lex Imperii books								(Infragris)
+- Updated Skyrim Barrow Textures						(Worsas)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
+- Deprecated T_Sc_MistressTR
 
 November 2022 UPDATE
 
