@@ -139,6 +139,10 @@ Tamriel_Data
 - Added Yneslea Tree									(DarkKnightComes)
 - Added Dwemer Rourken Exterior Set						(Joanasc)
 - Added First Era Colovian Redware						(Kaiel)
+- Added Nibenese Robes									(Feivelyn, Kynesifnar)
+- Added Dreugh Citadel Set								(Lamb Shark, Kynesifnar)
+- Added Cathnoquey Rocks								(Asylum, Kynesifnar)
+- Added Nordic Tomb Artifacts							(AnhoraNexus)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
@@ -186,6 +190,7 @@ Tamriel_Data
 - Updated Reach Cave Textures							(Worsas)
 - Updated Lex Imperii books								(Infragris)
 - Updated Skyrim Barrow Textures						(Worsas)
+- Updated Dreugh Closed Helm							(AnhoraNexus)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
