@@ -143,6 +143,15 @@ Tamriel_Data
 - Added Dreugh Citadel Set								(Lamb Shark, Kynesifnar)
 - Added Cathnoquey Rocks								(Asylum, Kynesifnar)
 - Added Nordic Tomb Artifacts							(AnhoraNexus)
+- Added Chimeri-Quey Chitin Weapons						(AnhoraNexus, concept: DharmaPR)
+- Added various filled containers						(Aveno)
+- Added Guarskin Armor									(AnhoraNexus, concept: Pickles, Gnomey)
+- Added Additional Chimeri-Quey Head & Hair				(Kynesifnar)
+- Added Yneslea Ground Textures							(DarkKnightComes)
+- Added Iron Helm Variants for Cyrodiil					(AnhoraNexus)
+- Added Hlaalu River Watch Set							(Vidi_Aquam, VenuSprout, concept: Ateiggaer, Pickles)
+- Added Muatra Pedestal									(rats)
+- Added Ald Iuval Council Hall							(shivatheo)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
