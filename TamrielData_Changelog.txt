@@ -23,7 +23,7 @@ Tamriel_Data
 - Added Editormarker Playerhome							(Hemaris)
 - Added 3rd Colovian Robe								(Worsas)
 - Added Legion Fort floor for high battlements			(Hemaris)
-- Added Shipal-Shin sandstone cave set					(S'wit, Kynesifnar)
+- Added Shipal-Shin sandstone cave set					(S'wit, Kynesifnar, Revenorror)
 - Added Bloodmoon rocks (all current VM rocks renamed)
 - Added Coral (old OW coral fungus)						(S'wit)
 - Added Ostern Rural Set								(Joanasc)
@@ -152,6 +152,28 @@ Tamriel_Data
 - Added Hlaalu River Watch Set							(Vidi_Aquam, VenuSprout, concept: Ateiggaer, Pickles)
 - Added Muatra Pedestal									(rats)
 - Added Ald Iuval Council Hall							(shivatheo)
+- Added Yneslea Rock Set								(Feivelyn)
+- Added New Velothi Buildings							(shivatheo)
+- Added Valenwood Wine									(Worsas, Steppenwolf)
+- Added Rich Redguard furniture							(Joanasc)
+- Added Sword of Dibella								(Cicero)
+- Added Padomic Coral									(Captain Angus, Swit)
+- Added Daedric Crossbow and Bolts						(AnhoraNexus)
+- Added Iron Shortbow									(AnhoraNexus)
+- Added Greater Bonelord								(Svarmerll, AnhoraNexus, Kynesifnar)
+- Added Area Effect Arrows								(Bethesda)
+- Added Skyrim Bulls									(Kynesifnar)
+- Added Somber Widow									(MwGek, DarkKnightComes)
+- Added Medium OW Mushroom								(Hemaris, Fluxbender)
+- Added more OAAB things								(OAAB, Revenorror, Worsas)
+- Added Foul Murder Mural								(RandomPal, Cicero)
+- Added Wraithmail Ringlet								(Cicero)
+- Added Com Trade Ship									(Taniquetil's Brother, Worsas, Revenorror, Kynesifnar)
+- Added Curled Ferns									(Asylum, Kaitou)
+- Added Plaques											(Joanasc)
+- Added GC Set Patches									(Joanasc)
+- Added Keptu-Quey Obsidian Weapons						(AnhoraNexus)
+- Added Minotaur Barrowguard							(Joanasc)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
@@ -164,6 +186,8 @@ Tamriel_Data
  - The Pilgrim and the Soldier							(Infragris)
  - Iniquities of the Current Era						(Infragris)
  - Temple Zero - A Warning								(Infragris)
+ - Narsis: A History									(Mark)
+ - Seven Families of Clan Hlaalu						(Mark)
  
 - Fixed Dark Seducers using a unique weapon
 - Fixed non-navigable GCPoor ramp2						(Worsas)
@@ -200,6 +224,10 @@ Tamriel_Data
 - Updated Lex Imperii books								(Infragris)
 - Updated Skyrim Barrow Textures						(Worsas)
 - Updated Dreugh Closed Helm							(AnhoraNexus)
+- Updated Daedric Scimitar								(AnhoraNexus)
+- Updated Silver Longbow								(AnhoraNexus)
+- Updated Ebony Blade and Ethos Knife					(Cicero)
+- Updated keys											(Zobator)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
