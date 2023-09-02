@@ -197,6 +197,25 @@ Tamriel_Data
 - Added Red bottles, coloured paper, gold thread 		(Revenorror)
 - Added vanilla plant pot without the plant				(Revenorror)
 - Added Cinnamon and Lotte								(Revenorror)
+- Added Legion Lighthouse								(MwGek)
+- Added Blue Palms										(Fluxbender)
+- Added Swamp Troll Sounds								(Beninate)
+- Added Padomic Candles									(Fluxbender)
+- Added Temaris and Cathnoquey Bushes					(Asylum, Fluxbender)
+- Added missing ebony clutter							(OAAB, shivatheo)
+- Added Altmer Trade Ship								(Ajbaj, Worsas)
+- Added Glass and Gold Hlaalu Decoration				(Feivelyn)
+- Added Clambering Moor Boneshrooms						(VenuSprout)
+- Added Temaris Succulents								(Asylum, MwGek, DarkKnightComes, Cicero)
+- Added Sanguine Voice Acting							(MAJ-12 MEDIA, Beninate, Cicero)
+- Added Namira Statue + Ring							(AnhoraNexus)
+- Added Rihad Lighthouse and poor set					(Joanasc)
+- Added Cane of the Madstar								(DarkKnightComes)
+- Added Wyrm's Fang spear								(AnhoraNexus)
+- Added Guar pack										(DarkKnightComes)
+- Added Kurahk											(AnhoraNexus)
+- Added Plainstrider									(Petethegoat, Axebeard, Bisty, Kynesifnar)
+- Added Clambering Moor (Bloodmoon) grass				(chef)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
@@ -251,6 +270,7 @@ Tamriel_Data
 - Updated Silver Longbow								(AnhoraNexus)
 - Updated Ebony Blade and Ethos Knife					(Cicero)
 - Updated keys											(Zobator)
+- Updated Ebony Crossbow								(AnhoraNexus)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
