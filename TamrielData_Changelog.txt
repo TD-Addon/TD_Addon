@@ -216,6 +216,12 @@ Tamriel_Data
 - Added Kurahk											(AnhoraNexus)
 - Added Plainstrider									(Petethegoat, Axebeard, Bisty, Kynesifnar)
 - Added Clambering Moor (Bloodmoon) grass				(chef)
+- Added Geysers											(OAAB)
+- Added Nord Trade Ship									(Worsas)
+- Added Narsis Arena									(MwGek, shivatheo)
+- Added Narsis Council Quarter Sewer Room				(shivatheo)
+- Added Narsis Grand Council Platform					(Galrom)
+- Added PI Sand piles									(Phenoix12)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
@@ -271,6 +277,7 @@ Tamriel_Data
 - Updated Ebony Blade and Ethos Knife					(Cicero)
 - Updated keys											(Zobator)
 - Updated Ebony Crossbow								(AnhoraNexus)
+- Updated Narsis Gazebo									(Overseer)
 
 - Removed potion_ancient_brandy from T_Mw_Random_Drink
 
