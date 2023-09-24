@@ -180,7 +180,7 @@ Tamriel_Data
 - Added Redguard wood, porcelain and clay Tableware		(Joanasc)
 - Added many missing container variants					(Aveno)
 - Added Argonian Skeleton & bones						(Revenorror)
-- Added Dreugh Furniture								(Tammilisake, Kynesifnar)
+- Added Dreugh Furniture								(Tammilisake, Kynesifnar, Feivelyn, Fluxbender)
 - Added Dagi-Raht Khajiit								(Rats)
 - Added Red Coral										(DarkKnightComes)
 - Added Scepter of Violation							(VenuSprout)
@@ -220,8 +220,11 @@ Tamriel_Data
 - Added Nord Trade Ship									(Worsas)
 - Added Narsis Arena									(MwGek, shivatheo)
 - Added Narsis Council Quarter Sewer Room				(shivatheo)
-- Added Narsis Grand Council Platform					(Galrom)
+- Added Narsis Grand Council Platform + Ceiling			(Galrom, shivatheo, athcliath97)
 - Added PI Sand piles									(Phenoix12)
+- Added the rest of the Shipal-Sharai buildings			(chef)
+- Added Dreugh Queen									(Feivelyn, Joanasc, shivatheo)
+- Added Narsis Consulate Dome							(shivatheo)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
@@ -244,6 +247,7 @@ Tamriel_Data
 - Fixed Indoril stair and striderport collisions		(Lamb Shark)
 - Fixed Giant Kobolds (final?)							(Lamb Shark)
 - Fixed Roa Dyr stair collision							(Lamb Shark)
+- Fixed TD Mw and Cyr Goblin stats						(Ronik)
 
 - Updated Chitin Open Helm 								(AnhoraNexus)
 - Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
