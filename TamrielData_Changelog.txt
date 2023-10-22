@@ -214,7 +214,7 @@ Tamriel_Data
 - Added Wyrm's Fang spear								(AnhoraNexus)
 - Added Guar pack										(DarkKnightComes)
 - Added Kurahk											(AnhoraNexus)
-- Added Plainstrider									(Petethegoat, Axebeard, Bisty, Kynesifnar Concept: Gnomey)
+- Added Plainstrider									(Petethegoat, Axebeard, Bisty, Kynesifnar, Feivelyn Concept: Gnomey, Feivelyn)
 - Added Clambering Moor (Bloodmoon) grass				(chef)
 - Added Geysers											(OAAB)
 - Added Nord Trade Ship									(Worsas Concept: Shadowhawk)
@@ -237,8 +237,8 @@ Tamriel_Data
 - Added Lake Algae										(Fluxbender)
 - Added Sea Urchins										(Fluxbender)
 - Added Asparagus Trees									(VenuSprout Concept: 10Kaziem)
-- Added Bosmer rings									(Worsas)
-- Added Beeswax											(Worsas)
+- Added Bosmer rings									(Worsas, Steppenwolf)
+- Added Beeswax											(Worsas, Steppenwolf)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
