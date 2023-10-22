@@ -1,4 +1,4 @@
-Month Year UPDATE
+October 2023 UPDATE
 
 Tamriel_Data
 
@@ -237,6 +237,8 @@ Tamriel_Data
 - Added Lake Algae										(Fluxbender)
 - Added Sea Urchins										(Fluxbender)
 - Added Asparagus Trees									(VenuSprout Concept: 10Kaziem)
+- Added Bosmer rings									(Worsas)
+- Added Beeswax											(Worsas)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
