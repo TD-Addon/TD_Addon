@@ -1,3 +1,46 @@
+v11 UPDATE
+
+- Added Koroi Islander Hanging Beads					(Fluxbender)
+- Added Velothi Mountains Land Textures	& Rocks			(VenuSprout, EP1CN3SS2, Cicero, chef)
+- Added Clambering Moor Land Textures					(chef)
+- Added more Minecart rails								(Stele)
+- Added Minecart contents								(Wolli, Kynesifnar)
+- Added Gilded Glass Armor								(Feivelyn, Kynesifnar, Concept: Feivelyn)
+- Added Scamp Iron Weapons								(AnhoraNexus, Concept: Ateiggaer)
+- Added Ashlander Rawglass Weapons						(AnhoraNexus)
+- Added "Lustrous Pearls" Jewelry & Sword				(Melchior Dahrk)
+- Added Small Dunmer Shipwreck							(Kynesifnar)
+- Added Padomaic Ocean Cave Set							(Fluxbender)
+- Added SkyCom sack variants							(Aveno)
+- Added Enchanted PI Weapons							(Fluxbender, Jackimoff Wackimoff)
+- Added Shellmold Weapons								(AnhoraNexus, Concept: Pickles?)
+- Added Closed Nordic Ringmail Helm						(AnhoraNexus, Concept: Aldergo)
+- Added Hlerynhul Buildings								(chef)
+- Added Azura's Moon									(AnhoraNexus)
+- Added Roc Next Columns								(Fluxbender)
+- Added Canes											(DarkKnightComes)
+- Added Female Dwemer Spectre							(OAAB)
+- Added Sea of Ghosts North Region						(Taniquetil)
+- Added more Cathnoquey and Yneslea Rocks				(Fluxbender)
+- Added Generic Clams & Oytsters						(Asylum, Fluxbender)
+- Added Dunmer Jeweler Hairs							(Svartmerll, Kynesifnar)
+- Added Cathnoquey Cave Entrance + Addons				(Fluxbender)
+- Added Icebergs										(Melchior Dahrk)
+- Added Com Lamp Recolours								(Snailsting)
+- Added Small Stirk Pillar								(Worsas)
+
+- Added books:
+ - pending
+
+- Fixed
+
+- Updated (and expanded) Butterfly and Moths			(Stripes, Revenorror, Worsas, Kynesifnar)
+- Updated Beetle names									(Cicero)
+- Updated Old Riverstrider Mesh							(Stele)
+- Removed
+
+- Deprecated
+
 October 2023 UPDATE
 
 Tamriel_Data
