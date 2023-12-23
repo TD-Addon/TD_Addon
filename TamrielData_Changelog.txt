@@ -1,4 +1,4 @@
-v11 UPDATE
+December 2023 UPDATE
 
 - Added Koroi Islander Hanging Beads					(Fluxbender)
 - Added Velothi Mountains Land Textures	& Rocks			(VenuSprout, EP1CN3SS2, Cicero, chef)
@@ -28,18 +28,19 @@ v11 UPDATE
 - Added Icebergs										(Melchior Dahrk)
 - Added Com Lamp Recolours								(Snailsting)
 - Added Small Stirk Pillar								(Worsas)
-
-- Added books:
- - pending
-
-- Fixed
+- Added Orethan land textures							(Kynesifnar, chef)
+- Added Spiked Iron Helm								(AnhoraNexus, Kynesifnar, Concept: MK)
+- Added Breton Gilded Glassware							(Vidi_Aquam)
+- Added Mournhold Docks									(EndoranWest)
+- Added Modular Cranes									(OAAB)
+- Added Static open chest								(Snailsting)
+- Added Enchanted Glass Arrows and Bolts				(Aveno)
+- Added more MW Containers								(Aveno)
+- Added Daedric Septis Spell							(FlinSunset, Ronik)
 
 - Updated (and expanded) Butterfly and Moths			(Stripes, Revenorror, Worsas, Kynesifnar)
 - Updated Beetle names									(Cicero)
 - Updated Old Riverstrider Mesh							(Stele)
-- Removed
-
-- Deprecated
 
 October 2023 UPDATE
 
