@@ -1,5 +1,5 @@
 # TD_Addon
-This repository serves as a single location for progressively aggregating new assets as an extention of the 'Tamriel_Data' database (current version 7.1). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly to the addon, compling new data and assets in prepertion for the next Tamriel_Data version (currently v9). This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
+This repository serves as a single location for progressively aggregating new assets as an extention of the 'Tamriel_Data' database (current version 7.1). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly to the addon, compling new data and assets in preparation for the next Tamriel_Data version (currently v10). This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
 
 Tamriel Data is available on the Nexus-> https://www.nexusmods.com/morrowind/mods/44537
 
@@ -24,7 +24,8 @@ Via the use of the website and Github desktop, designated authors can push new/e
 - Atrayonis
 - Cicero
 - Evil Eye
-
+- Kynesifnar
+- Jackimoff Wackimoff
 
 
 ## Contributing Via Push Requests:
