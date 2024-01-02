@@ -1,11 +1,16 @@
 v11 UPDATE
 
-- Added
+- Added OE Tourney Shields (Marhaus)
+- Added Isquel (Kynesifnar)
+- Added Indulcet (Kynesifnar)
+- Added Hautoma (Kynesifnar)
+- Added Imperial Pool Table (Melchior Dahrk, Kynesifnar)
+- Added more EEC crates (Fluxbender)
 
 - Added Books
- - pending
+ -Ja-Natta Syndicate Canyon Echo Edition (Pralec, Jackimoff Wackimoff)
  
-- Fixed
+- Fixed PC crates mesh (Fluxbender)
 
 - Updated
 
