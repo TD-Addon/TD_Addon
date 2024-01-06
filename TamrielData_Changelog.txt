@@ -1,18 +1,25 @@
 v11 UPDATE
 
-- Added OE Tourney Shields (Marhaus)
-- Added Isquel (Kynesifnar)
-- Added Indulcet (Kynesifnar)
-- Added Hautoma (Kynesifnar)
-- Added Imperial Pool Table (Melchior Dahrk, Kynesifnar)
-- Added more EEC crates (Fluxbender)
+- Added OE Tourney Shields 								(Marhaus)
+- Added Isquel 											(Kynesifnar)
+- Added Indulcet 										(Kynesifnar)
+- Added Hautoma 										(Kynesifnar)
+- Added Imperial Pool Table 							(Melchior Dahrk, Kynesifnar)
+- Added more EEC crates 								(Fluxbender)
+- Added Redoran Waters March Bonemold					(Kinezis, Alexander_7070, Concept: Pickles)
+- Added Narsis Watch Armor								(Alexander_7070, Concept: Pickles)
+- Added Ja-Natta Syndicate faction						(Pralec)
+- Added Skyrender Interior SFX							(Mannaz230)
+- Added Sundered Scar SFX								(beninate)
+- Added Com Market Tents								(Asylum, Kynesifnar)
 
 - Added Books
- -Ja-Natta Syndicate Canyon Echo Edition (Pralec, Jackimoff Wackimoff)
+ -Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
+ -Armies of the Usurper									(Abby)
  
-- Fixed PC crates mesh (Fluxbender)
+- Fixed PC crates mesh 									(Fluxbender)
 
-- Updated
+- Updated Orethan Region name
 
 - Removed
 
