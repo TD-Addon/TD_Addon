@@ -12,6 +12,12 @@ v11 UPDATE
 - Added Skyrender Interior SFX							(Mannaz230)
 - Added Sundered Scar SFX								(beninate)
 - Added Com Market Tents								(Asylum, Kynesifnar)
+- Added Sacred Lands Bonemold							(Alexander_7070, Concept: Pickles, DharmaPR)
+- Added Big Mournhold Tree Variants						(Stele)
+- Added New Redguard poor table							(Joanasc, Concept: Toma400)
+- Added Wraith Mail										(Shadow_Mimicry, Cicero, Concept: Gnomey)
+- Added 2 Khajiit Heads and Hair						(Rot, Kynesifnar)
+- Added Unique Head for Athires Hlaalu					(Rats, Concept: Feivelyn)
 
 - Added Books
  -Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
@@ -19,7 +25,7 @@ v11 UPDATE
  
 - Fixed PC crates mesh 									(Fluxbender)
 
-- Updated Orethan Region name
+- Updated
 
 - Removed
 
