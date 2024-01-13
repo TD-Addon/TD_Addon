@@ -18,6 +18,9 @@ v11 UPDATE
 - Added Wraith Mail										(Shadow_Mimicry, Cicero, Concept: Gnomey)
 - Added 2 Khajiit Heads and Hair						(Rot, Kynesifnar)
 - Added Unique Head for Athires Hlaalu					(Rats, Concept: Feivelyn)
+- Added Kagouti Hide Armor								(Alexander_7070, Concept: Pickles)
+- Added BC Entrances and more rocks for Orethan			(MinerMan160101, chef)
+- Added Roadsigns for Poison Song						(Fremennik)
 
 - Added Books
  -Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
