@@ -21,14 +21,42 @@ v11 UPDATE
 - Added Kagouti Hide Armor								(Alexander_7070, Concept: Pickles)
 - Added BC Entrances and more rocks for Orethan			(MinerMan160101, chef)
 - Added Roadsigns for Poison Song						(Fremennik)
+- Added Kvatch Arena									(Joanasc)
+- Added Shorter Com Forge								(Stele)
+- Added Rihad Architecture								(Joanasc)
+- Added Blade of Kenes									(Joanasc, Concept: heavenlee)
+- Added Little Key Cult Shrine							(Joanasc)
+- Added Abecean Goblin Decals and Banners				(Rats)
+- Added Goblin Raft										(Rats)
+- Added Filled Bosmer Baskets							(mojo187)
+- Added Riverfolk Race									(Kynesifnar, Concept: Xeno, MammaHyena, ThomasRuz)
+- Added CyrImpRuin Door 4								(obie dwyer)
+- Added Orc Urns										(MammaHyena)
+- Added Alit Hide Armour								(Alexander_7070, Concept: Ateiggaer, Pickles)
+- Added Dead Bloodmoon Trees							(VenuSprout)
+- Added Dark Brown DE Lightpost							(chef)
+- Added Pots filled with food							(Denis418)
 
 - Added Books
  -Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
  -Armies of the Usurper									(Abby)
  
 - Fixed PC crates mesh 									(Fluxbender)
+- Fixed DP Dead Tree 1 using wrong mesh					(chef)
+- Fixed Ore Containers									(Ronik)
+- Fixed Silver Weapons List								(Ronik)
+- Fixed Goats With Fish SFX								(Ronik)
+- Fixed Fish Levelled List								(Ronik)
+- Fixed Missing Icon for Coat of Arms					(Ronik)
+- Fixed St. Jahn Wort Atlas								(Ronik)
+- Fixed PI Rock paths									(Ronik)
+- Fixed Bucket Texture Path								(Ronik)
+- Fixed Kragen Helm Enchant Value						(Ronik)
 
-- Updated
+- Updated PT Pants Meshes								(Kynesifnar)
+- Updated Sword of Dibella name							(FlinSunset)
+- Updated Pitcher Effects								(Ronik)
+- Updated Itinerant Priests Ranks						(Ronik)
 
 - Removed
 
