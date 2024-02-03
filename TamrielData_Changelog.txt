@@ -36,10 +36,27 @@ v11 UPDATE
 - Added Dead Bloodmoon Trees							(VenuSprout)
 - Added Dark Brown DE Lightpost							(chef)
 - Added Pots filled with food							(Denis418)
+- Added Jinevere										(Kynesifnar)
+- Added TD IDs for some SHotN restext textures			(Fremennik)
+- Added Vampirum Order Bloodline						(Evil Eye)
+- Added Natural Cave Entrances for PC					(Snailsting)
+- Added many more Altmer heads and hair					(Rats)
+- Added Shrine of St. Bendu								(Taniquetil)
+- Added Naturalist Class								(Taniquetil)
+- Added Padomic Roc										(Joanasc)
+- Added Cathnoquey Shell Pack							(Brannon The Ilk)
+- Added Adavrin Manor									(chef)
+- Added Narsis Council Building							(chef)
+- Added Breton Beer										(Kynesifnar)
+- Added Dunmer Stronghold Sewer Grate					(Stele)
+- Added SH Cave Transition Tiles for more sets			(Stele)
+- Added Redguard Swords									(Worsas)
+- Added Combined variants of and Updated Direnni Grates (Snailsting)
 
 - Added Books
- -Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
- -Armies of the Usurper									(Abby)
+ - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
+ - Armies of the Usurper								(Abby)
+ - Generic Harbourmaser Books
  
 - Fixed PC crates mesh 									(Fluxbender)
 - Fixed DP Dead Tree 1 using wrong mesh					(chef)
@@ -57,6 +74,10 @@ v11 UPDATE
 - Updated Sword of Dibella name							(FlinSunset)
 - Updated Pitcher Effects								(Ronik)
 - Updated Itinerant Priests Ranks						(Ronik)
+- Updated Cutting Board									(Aveno)
+- Updated Hammerfell Fruit effects						(Denis418)
+- Updated Anvil Guard Set Emblem						(Worsas)
+- Updated SH Cave Geometry								(Stele)
 
 - Removed
 
