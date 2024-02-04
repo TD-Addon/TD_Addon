@@ -52,6 +52,9 @@ v11 UPDATE
 - Added SH Cave Transition Tiles for more sets			(Stele)
 - Added Redguard Swords									(Worsas)
 - Added Combined variants of and Updated Direnni Grates (Snailsting)
+- Added GC Addon Tile									(Taniquetil)
+- Added Sutch Guard Armor								(Alexander_7070, Concept: Ateiggaer)
+- Added Shinathi Faction								(Ronik)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
@@ -69,6 +72,7 @@ v11 UPDATE
 - Fixed PI Rock paths									(Ronik)
 - Fixed Bucket Texture Path								(Ronik)
 - Fixed Kragen Helm Enchant Value						(Ronik)
+- Fixed Yneslea Jungle Tree filepath					(Pickles)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
