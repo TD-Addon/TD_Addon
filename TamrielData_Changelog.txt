@@ -55,6 +55,16 @@ v11 UPDATE
 - Added GC Addon Tile									(Taniquetil)
 - Added Sutch Guard Armor								(Alexander_7070, Concept: Ateiggaer)
 - Added Shinathi Faction								(Ronik)
+- Added new GC tower and windows						(Worsas, Taniquetil)
+- Added Bosmer wenbone armor							(Alexander_7070, Concept: Pickles)
+- Added Com cellar pillar + struts						(Snailsting)
+- Added driftwood										(MwGek)
+- Added hanging practice dummy							(EndoranWest)
+- Added more CaveRe tiles								(Snailsting)
+- Added Pillarless T_Glb_Cave_I_Platf128_01				(Snailsting)
+- Added Velothi Silo									(Stele)
+- Added Hla temple 03 int								(Stele)
+- Added loads of misc High Rock assets					(Fremennik)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
@@ -73,6 +83,9 @@ v11 UPDATE
 - Fixed Bucket Texture Path								(Ronik)
 - Fixed Kragen Helm Enchant Value						(Ronik)
 - Fixed Yneslea Jungle Tree filepath					(Pickles)
+- Fixed male Breton head 15 UV							(Worsas)
+- Fixed missing tourney shields							(Marhaus)
+- Fixed Cyr wooden sign bases							(Taniquetil)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -82,10 +95,13 @@ v11 UPDATE
 - Updated Hammerfell Fruit effects						(Denis418)
 - Updated Anvil Guard Set Emblem						(Worsas)
 - Updated SH Cave Geometry								(Stele)
+- Updated red coral ID
+- Updated SetInd IDs to SetMH
+- Updated new SetOM IDs to SetInd (ruined pieces remain SetOM)
 
-- Removed
+- Removed all previously deprecated object entries
 
-- Deprecated
+- Deprecated modular Dres set (sorry, for the last time we swear)
 
 December 2023 UPDATE
 
