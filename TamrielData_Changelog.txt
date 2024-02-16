@@ -65,7 +65,19 @@ v11 UPDATE
 - Added Velothi Silo									(Stele)
 - Added Hla temple 03 int								(Stele)
 - Added loads of misc High Rock assets					(Fremennik)
-
+- Added Wooden Animal Carvings							(Stele)
+- Added Abysmal Blade									(VenuSprout, Concept: be-a-stranger)
+- Added Velothi int entrance 3							(Snailsting)
+- Added Ynesai poor furniture							(DarkKnightComes, Concept: Pickles)
+- Added Ynesai middle class furniture					(DarkKnightComes, Concept: Pickles)
+- Added Bitterstone and bronze							(Kynesifnar, Concept: Fluxbender)
+- Added Longboard										(MwGek)
+- Added Colovian Lamellar armor							(Alexander_7070, Concept: Ateiggaer, MK)
+- Added more Padomic Ocean rocks						(Brannon the Ilk)
+- Added more Rihad buildings							(Joanasc)
+- Added Goldmoor land textures							(Joanasc)
+- Added Ra Gada fort ruins								(Joanasc)
+- Added Nedic artifact club								(AnhoraNexus, Concept: idk help)
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
  - Armies of the Usurper								(Abby)
@@ -98,6 +110,8 @@ v11 UPDATE
 - Updated red coral ID
 - Updated SetInd IDs to SetMH
 - Updated new SetOM IDs to SetInd (ruined pieces remain SetOM)
+- Updated SHotN Pine1 through 3							(VenuSprout)
+- Updated Ald Iuval council int into 4 objects			(shivatheo)
 
 - Removed all previously deprecated object entries
 
