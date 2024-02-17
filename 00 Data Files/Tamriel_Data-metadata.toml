@@ -1,0 +1,26 @@
+[package]
+name = "Tamriel_Data"
+version = "10.1"
+description = "The data repository for Tamriel Rebuilt, Project Tamriel and Padomic Isles province mods."
+homepage = "https://www.nexusmods.com/morrowind/mods/44537"
+repository = "https://github.com/TD-Addon/TD_Addon"
+authors = [
+	"chef",
+	"Kynesifnar",
+	"Evil Eye",
+	"Alyst3r",
+	"Jackimoff Wackimoff",
+	"Rats",
+	"Melchior Dahrk",
+	"Dillon",
+	"MwGek",
+	"SACarrow",
+]
+
+[dependencies.mwse]
+buildnumber = 3074
+
+[tools.csse]
+deprecated = [
+	"T_De_ToyGuar_01",
+]
