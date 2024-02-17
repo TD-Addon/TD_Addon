@@ -77,7 +77,8 @@ v11 UPDATE
 - Added more Rihad buildings							(Joanasc)
 - Added Goldmoor land textures							(Joanasc)
 - Added Ra Gada fort ruins								(Joanasc)
-- Added Nedic artifact club								(AnhoraNexus, Concept: idk help)
+- Added Nedic artifact club								(AnhoraNexus, Concept: Aylinerik)
+
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
  - Armies of the Usurper								(Abby)
