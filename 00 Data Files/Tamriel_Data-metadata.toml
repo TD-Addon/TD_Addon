@@ -23,4 +23,5 @@ buildnumber = 3074
 [tools.csse]
 deprecated = [
 	"T_De_ToyGuar_01",
+	"T_De_SetRed_X_Skar_01",
 ]
