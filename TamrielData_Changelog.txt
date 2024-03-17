@@ -78,6 +78,27 @@ v11 UPDATE
 - Added Goldmoor land textures							(Joanasc)
 - Added Ra Gada fort ruins								(Joanasc)
 - Added Nedic artifact club								(AnhoraNexus, Concept: Aylinerik)
+- Added Tilled Dirt for Clambering Moor					(chef)
+- Added more Uniques for TR								(Cicero)
+- Added Malahk Orc Set									(athcliath97, Concept: Pickles)
+- Added more Imp Saint Shrines							(Taniquetil)
+- Added Nedic Burial Caves for Shipal-Shin				(Stele, Concept: Aveno)
+- Added more Velothi Interior Railings					(Snailsting)
+- Added Velothi Brazier with no Flame					(Snailsting)
+- Added Py, Mold, and Lavacave Dwe connectors			(Aveno)
+- Added Ebonweave Armor									(Alexander_7070, Concept: Pickles, Tammilisake)
+- Added Pudjing											(Kynesifnar)
+- Added Guards of Ngalom								(Brannon the Ilk, MwGek)
+- Added Dreugh cave connections							(Snailsting)
+- Added Keptu-Quey Manatee Leather Armor				(PulcharmSolis, Concept: DharmaPR)
+- Added missing SH cave curve							(Stele)
+- Added Velothi Interior alt curved corner				(Snailsting)
+- Added Hugh Anhora Weapon Pack							(AnhoraNexus)
+- Added Argonian Wood Clutter							(Overseer, Stele, Concept: Casey Fogwell)
+- Added Breton Books									(Asylum)
+- Added Padomic Sand piles
+- Added Western Reach Mysterious Shrine					(ThomasRuz, Kynesifnar)
+- Added Hardhat Prawn									(EJRS)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
@@ -99,6 +120,8 @@ v11 UPDATE
 - Fixed male Breton head 15 UV							(Worsas)
 - Fixed missing tourney shields							(Marhaus)
 - Fixed Cyr wooden sign bases							(Taniquetil)
+- Fixed empty organic containers						(Ronik)
+- Fixed Othreleth Woods Sound Files						(Ronik)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -113,6 +136,11 @@ v11 UPDATE
 - Updated new SetOM IDs to SetInd (ruined pieces remain SetOM)
 - Updated SHotN Pine1 through 3							(VenuSprout)
 - Updated Ald Iuval council int into 4 objects			(shivatheo)
+- Updated Navy Officer set name							(Ronik)
+- Updated Red Colovian Fur Helm texture					(Cicero)
+- Updated De Misc Candle Icons							(Cicero)
+- Updated Placeholder Bonemold names					(Revane)
+- Updated Astrology Books								(Taniquetil, Revane)
 
 - Removed all previously deprecated object entries
 
