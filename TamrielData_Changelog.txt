@@ -99,6 +99,7 @@ v11 UPDATE
 - Added Padomic Sand piles
 - Added Western Reach Mysterious Shrine					(ThomasRuz, Kynesifnar)
 - Added Hardhat Prawn									(EJRS)
+- Added Broker Class								(Taniquetil)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
