@@ -81,4 +81,8 @@ deprecated = [
 	"TR_telv_guard_s",
 	"TR_telvanni guard_02",
 	"TR_telvanni guard_02_s",
+	"T_Mw_Flora_RedCoral01",
+	"T_Mw_Flora_RedCoral02",
+	"T_Mw_Flora_RedCoral03",
+	"T_De_ToyGuar_01",
 ]

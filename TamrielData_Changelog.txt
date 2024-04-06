@@ -99,7 +99,12 @@ v11 UPDATE
 - Added Padomic Sand piles
 - Added Western Reach Mysterious Shrine					(ThomasRuz, Kynesifnar)
 - Added Hardhat Prawn									(EJRS)
-- Added Broker Class								(Taniquetil)
+- Added Broker Class									(Taniquetil)
+- Added Skyrim Reputation Global						(Tristior)
+- Added Alessian Bronze Armor							(Alexander_7070, Concept: Aldergo)
+- Added King Barda's Head								(Rats)
+- Added Curved Flowing Water Tiles						(Stele)
+- Added Padomic Roc Nests								(MwGek)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
@@ -142,6 +147,7 @@ v11 UPDATE
 - Updated De Misc Candle Icons							(Cicero)
 - Updated Placeholder Bonemold names					(Revane)
 - Updated Astrology Books								(Taniquetil, Revane)
+- Updated Big Redoran Tower								(Snailsting, MwGek)
 
 - Removed all previously deprecated object entries
 
