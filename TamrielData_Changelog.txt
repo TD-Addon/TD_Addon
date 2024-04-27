@@ -105,6 +105,21 @@ v11 UPDATE
 - Added King Barda's Head								(Rats)
 - Added Curved Flowing Water Tiles						(Stele)
 - Added Padomic Roc Nests								(MwGek)
+- Added Daedric Helm of Aberration						(Alexander_7070, Feivelyn, Concept: Gnomey, DharmaPR)
+- Added Bosmer Hide Canoe								(Worsas)
+- Added Ashen BM Pines									(VenuSprout)
+- Added Gold Ivy										(Feivelyn, shotu)
+- Added Hlaalu Theater Pieces							(Stele)
+- Added Unlit Tiki Torches								(Osidian)
+- Added Mirrored and Tailless Redoran Barracks			(DimNussens)
+- Added Shinathi Clothes								(Feivelyn, Alexander_7070, Concept: Feivelyn, Gnomey)
+- Added Alternate Daedric Armor							(Alexander_7070)
+- Added Herne and Morphoid								(Aleister, Rats, Cicero, Kynesifnar, Worsas)
+- Added Castaway Shack									(MwGek)
+- Added Redoran Docks									(DimNussens)
+- Added More Minecart Railings							(Stele)
+- Added Dragonfields Textures							(Ajbaj, ThomasRuz, MinerMan60101)
+- Added Argonian Ceramic Clutter						(Joanasc, Concept: Tammilisake)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
@@ -148,6 +163,8 @@ v11 UPDATE
 - Updated Placeholder Bonemold names					(Revane)
 - Updated Astrology Books								(Taniquetil, Revane)
 - Updated Big Redoran Tower								(Snailsting, MwGek)
+- Updated Narsis Consulate Dome							(shivatheo)
+- Updated Gold Coast name to Strident Coast
 
 - Removed all previously deprecated object entries
 
