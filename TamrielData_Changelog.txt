@@ -155,6 +155,7 @@ v11 UPDATE
 - Added Cath Red Glass Tableware						(Looks to the Moon PIe, Concept: Pickles)
 - Added Four Score War Relics							(AnhoraNexus)
 - Added Goblin Skull and Staff							(Joanasc)
+- Added More Exquisite Dunmer Clothes					(Feivelyn, Stele, Concept: Feivelyn)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
