@@ -27,11 +27,11 @@ deprecated = [
 	"T_De_BonemoldKragen_Helm_01",
 	"T_Com_SetHarbor_FishBeheaded_01",
 	"T_Com_SetHarbor_FishBeheaded_02",
-	"TR_hla_canyon_guard,"
-	"TR_hla_canyon_guard_f,"
-	"TR_hla_canyon_guard_f_s,"
-	"TR_hla_canyon_guard_s,"
-	"TR_hla_canyon_shooter,"
+	"TR_hla_canyon_guard",
+	"TR_hla_canyon_guard_f",
+	"TR_hla_canyon_guard_f_s",
+	"TR_hla_canyon_guard_s",
+	"TR_hla_canyon_shooter",
 	"TR_hla_guard",
 	"TR_hla_guard_f",
 	"TR_hla_guard_s",
