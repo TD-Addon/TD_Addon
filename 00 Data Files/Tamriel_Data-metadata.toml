@@ -87,4 +87,12 @@ deprecated = [
 	"T_De_ToyGuar_01",
 	"T_Tsa_F_Urn_01",
 	"T_Tsa_F_Urn_02",
+	"T_Yne_Drink_Pudjing",
+	"T_Pi_FloraYn_FlowerY_01",
+	"T_Pi_FloraYn_FlowerY_02",
+	"T_Pi_FloraYn_FlowerY_03",
+	"T_Mw_FloraCM_Maiden03",
+	"T_Mw_FloraCM_Maiden04",
+	"T_Mw_FloraCM_Maiden05",
+	"T_Mw_FloraCM_Maiden06",
 ]
