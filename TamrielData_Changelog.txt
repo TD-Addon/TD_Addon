@@ -187,11 +187,33 @@ v11 UPDATE
 - Added Breton Small Chest								(Fremennik)
 - Added Breton Shop Signs								(Fremennik, MammaHyena)
 - Added Breton Crates and Barrels						(Fremennik)
+- Added Battlespire Spells								(Cicero)
+- Added Diamond Aspis Snake								(Worsas)
+- Added Ashless Velothi Ashpits							(Aleister)
+- Added Sulfur Lights									(Aveno)
+- Added Dwemer Containers								(Aveno)
+- Added Com Millstone									(Kynesifnar)
+- Added Second Batch of Indoril Set						(shivatheo, Athcliath97)
+- Added Greydust Placeholder							(FlinSunset)
+- Added Animal Pens										(shotu)
+- Added HR Map Scripts									(Taniquetil)
+- Added Shipal-Shin Big Velothi Tower					(Stele)
+- Added Esroniet Small Chest							(DimNussens)
+- Added Imperial Signet Ring							(DimNussens)
+- Added Expensive Compass								(DimNussens)
+- Added Fortify Skill Scrolls							(FlinSunset)
+- Added Py Activator Rocks								(Aveno)
+- Added Ynesai Wooden Teapot and Pitcher				(Looks to the Moon Pie)
+- Added Butter Churn Variants							(Fremennik)
+- Added Roc Eggs										(Looks to the Moon Pie)
+- Added Fletcher, Jeweler, Potter and Carpenter Class	(Revane)
+- Added Blind Stalker Amulet							(Cicero)
 
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
  - Armies of the Usurper								(Abby)
  - Generic Harbourmaser Books
+ - The Kendhall Book of Riddles							(Cicero)
  
 - Fixed PC crates mesh 									(Fluxbender)
 - Fixed DP Dead Tree 1 using wrong mesh					(chef)
@@ -246,6 +268,14 @@ v11 UPDATE
 - Updated Sky Sack Texture								(Fremennik)
 - Updated Yellow Flowers								(Looks to the MOon Pie)
 - Updated Maidenhair Fern								(Cicero)
+- Updated River Strider									(Cameron2023, Feivelyn)
+- Updated PC Cart textures								(Worsas)
+- Updated PC Mine entrances								(Worsas)
+- Updated Seagulls										(Worsas)
+- Updated Domica Redwort								(Worsas)
+- Updated PI Mine entrances								(Worsas)
+- Updated Stirk Walls									(Worsas)
+- Updated HR Levelled Lists								(Fremennik)
 
 - Removed all previously deprecated object entries
 
