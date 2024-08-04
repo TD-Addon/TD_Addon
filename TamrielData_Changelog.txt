@@ -248,7 +248,7 @@ v11 UPDATE
 - Added Breton cheese									(Fremennik)
 - Added Morrowind Nede clutter							(MwGek, Bodz Concept: Tammilisake)
 - Added Imperial / common amulets						(LilianaUnfolded, Concept: MammaHyena, JayRicktor)
-
+- Added Orethan flower grass texture					(Leyawynn)
 - Added Books
  - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
  - Armies of the Usurper								(Abby)
