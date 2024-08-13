@@ -1,5 +1,6 @@
 v11 UPDATE
 
+- Added Dreugh Manowar									(Feivelyn, Shivatheo, Grumbling Vomit, Concept: tammilisäke)
 - Added OE Tourney Shields 								(Marhaus)
 - Added Isquel 											(Kynesifnar)
 - Added Indulcet 										(Kynesifnar)

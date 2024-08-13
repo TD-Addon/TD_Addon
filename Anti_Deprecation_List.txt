@@ -1,4 +1,4 @@
 meshes\sky\r\sky_wereboar_crystal.nif
-	No ID in TD, unique onject in SHOTN
+	No ID in TD, unique object in SHOTN
 meshes\tr\x\tr_water_circle64_blk.nif
 	T_Glb_TerrWater_Circle64_02, unique object in shotn
