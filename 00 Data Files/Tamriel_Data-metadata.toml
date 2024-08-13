@@ -98,4 +98,13 @@ deprecated = [
 	"T_Mw_Fau_Eyest_01",
 	"T_Mw_Fau_EyestDs_01",
 	"T_Mw_Fauna_Riverstrider_01",
+	"T_Com_SetCyr_SignWayBrenaFt_01",
+	"T_Com_SetCyr_SignWayBrenaFt_02",
+	"T_Com_SetCyr_SignWayFtIstiru_01",
+	"T_Com_SetCyr_SignWayFtOntus_03",
+	"T_Com_SetCyr_SignWayFtStrand_01",
+	"T_Com_SetCyr_SignWayHastrel_03",
+	"T_Com_SetCyr_SignWayHastrel_04",
+	"T_Com_SetCyr_SignWayWariel_03",
+	"T_Com_SetCyr_SignWayWariel_04",
 ]
