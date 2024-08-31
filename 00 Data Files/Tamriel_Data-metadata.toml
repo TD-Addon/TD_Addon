@@ -158,4 +158,8 @@ deprecated = [
 	"T_IngCrea _SnowraySting_01",
 	"T_Kha _Furn_Tapestry_01",
 	"T_Kha _Furn_Tapestry_01",
+	"T_QyK_FurnP_Chest",
+	"T_QyK_FurnP_ChestS",
+	"T_Yne_FurnM_Chest_01",
+	"T_Yne_FurnM_Chests_01",
 ]
