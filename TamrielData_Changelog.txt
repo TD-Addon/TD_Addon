@@ -1,5 +1,10 @@
 v11 UPDATE
 
+- Added Cheese Grater									(hemaris, MwGek)
+- Added Breton Alcoholic Beverages							(Gr8 A2n)
+- Added Redguard Rugs									(LilianaUnfolded)
+- Added Padomaic Sea Anemones								(Wanderer, Kynesifnar)
+- Added Toadscale Armor									(Alexander, Taniquetil, Concept: Aldergo)
 - Added Dreugh Manowar									(Feivelyn, Shivatheo, Grumbling Vomit, Concept: tammilisäke)
 - Added OE Tourney Shields 								(Marhaus)
 - Added Isquel 											(Kynesifnar)
