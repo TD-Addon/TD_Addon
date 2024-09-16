@@ -1,5 +1,8 @@
 v11 UPDATE
 
+- Added Redoran Building interiors 							(Shivatheo)
+- Added Generic headwear								(Rats)
+- Added Non-Ashy Redoran Road								(Cicero, Kynesifnar)
 - Added Cheese Grater									(hemaris, MwGek)
 - Added Breton Alcoholic Beverages							(Gr8 A2n)
 - Added Redguard Rugs									(LilianaUnfolded)
