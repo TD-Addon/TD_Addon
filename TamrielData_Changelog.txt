@@ -1,5 +1,7 @@
 v11 UPDATE
 
+- Added General Use Dunmer Divine Shrines						(Kynesifnar)
+- Added Maormer Weapons									(Dux)
 - Added Redoran Building interiors 							(Shivatheo)
 - Added Generic headwear								(Rats)
 - Added Non-Ashy Redoran Road								(Cicero, Kynesifnar)
