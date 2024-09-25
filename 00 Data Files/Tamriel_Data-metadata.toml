@@ -162,4 +162,12 @@ deprecated = [
 	"T_QyK_FurnP_ChestS",
 	"T_Yne_FurnM_Chest_01",
 	"T_Yne_FurnM_Chests_01",
+	"T_C_ComCmShirt01_FaF",
+	"T_C_ComCmShirt01_UAF",
+	"T_C_ComCmShirt01_WF",
+	"T_C_ComCmShirt02_FaF",
+	"T_C_ComCmShirt02_UAF",
+	"T_C_ComCmShirt02_WF",
+	"T_C_ComCmShirt03_UAF",
+	"T_C_ComCmShirt04_UAF"
 ]

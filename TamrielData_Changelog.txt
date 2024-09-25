@@ -1,5 +1,13 @@
 v11 UPDATE
 
+- Added Hlaalu Grand Council Hall Statue						(Feighten)
+- Added Non-BB PT common shirts								(Evil Eye)
+- Added Sealing Wax									(Hemaris)
+- Added Nord and Breton ladders								(Exovian)
+- Added Hlerynhul Bridge								(shivatheo)
+- Added Hlaalu Fountain									(athcliath97, shivatheo)
+- Added Radiant Shield VFX								(Kynesifnar)
+- Added Hlaalu Grand Council Hall Statue						(Feighten)
 - Added General Use Dunmer Divine Shrines						(Kynesifnar)
 - Added Maormer Weapons									(Dux)
 - Added Redoran Building interiors 							(Shivatheo)
