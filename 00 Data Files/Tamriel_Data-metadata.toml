@@ -169,5 +169,8 @@ deprecated = [
 	"T_C_ComCmShirt02_UAF",
 	"T_C_ComCmShirt02_WF",
 	"T_C_ComCmShirt03_UAF",
-	"T_C_ComCmShirt04_UAF"
+	"T_C_ComCmShirt04_UAF",
+	"T_C_ComEpShirt03_FaF",
+	"T_C_ComEpShirt03_UAF",
+	"T_C_ComEpShirt03_WF",
 ]
