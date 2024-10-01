@@ -173,4 +173,10 @@ deprecated = [
 	"T_C_ComEpShirt03_FaF",
 	"T_C_ComEpShirt03_UAF",
 	"T_C_ComEpShirt03_WF",
+	"T_Nor_UNI_ShardOfVehemence",
+	"T_Nor_UNI_NebsTalon",
+	"T_Hr_CaveGT_I_4way_Room_01",
+	"T_Hr_CaveLS_I_4way_Room_01",
+	"T_Hr_CaveMU_I_4way_Room_01",
+	"T_Pi_FloraTM_Succulant",
 ]

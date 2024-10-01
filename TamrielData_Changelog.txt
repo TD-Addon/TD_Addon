@@ -1,5 +1,15 @@
 v11 UPDATE
 
+- Added New canton entrance for Almas Thirr						(Snailsting)
+- Added Skyrender Hive - Shell Platform Light Cell					(Shivatheo)
+- Added Redoran Drawbridge 								(Stele, Brannon the Ilk)
+- Added Redoran Open Ruins								(Shivatheo)
+- Added Dragonscale armor set redo							(EndoranWest)
+- Added Sand Kwoom									(Kinezis, GrumblingVomit)
+- Added Kyne's Intervention								(Kynesifnar)
+- Added Dragonstar Set Expansion							(LilianaUnfolded)
+- Added Non-BB T_Com_Ep_Shirt_03							(Evil Eye)
+- Added Nord Tapestry Hanger Pack							(BarbedWireKisses)
 - Added Hlaalu Grand Council Hall Statue						(Feighten)
 - Added Non-BB PT common shirts								(Evil Eye)
 - Added Sealing Wax									(Hemaris)
@@ -631,16 +641,6 @@ Tamriel_Data
 - Added Asparagus Trees									(VenuSprout Concept: 10Kaziem)
 - Added Bosmer rings									(Worsas, Steppenwolf)
 - Added Beeswax											(Worsas, Steppenwolf)
-- Added New canton entrance for Almas Thirr						(Snailsting)
-- Added Skyrender Hive - Shell Platform Light Cell					(Shivatheo)
-- Added Redoran Drawbridge 								(Stele, Brannon the Ilk)
-- Added Redoran Open Ruins								(Shivatheo)
-- Added Dragonscale armor set redo							(EndoranWest)
-- Added Sand Kwoom									(Kinezis, GrumblingVomit)
-- Added Kyne's Intervention								(Kynesifnar)
-- Added Dragonstar Set Expansion							(LilianaUnfolded)
-- Added Non-BB T_Com_Ep_Shirt_03							(Evil Eye)
-- Added Nord Tapestry Hanger Pack							(BarbedWireKisses)
 
 - Added books:
  - Divine Sacrifice										(Infragris)
