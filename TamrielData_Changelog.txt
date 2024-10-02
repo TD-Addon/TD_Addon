@@ -1,5 +1,6 @@
 v11 UPDATE
 
+- Added Altmer Jewelry									(LilianaUnfolded)
 - Added New canton entrance for Almas Thirr						(Snailsting)
 - Added Skyrender Hive - Shell Platform Light Cell					(Shivatheo)
 - Added Redoran Drawbridge 								(Stele, Brannon the Ilk)
