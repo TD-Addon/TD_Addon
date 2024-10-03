@@ -1,5 +1,6 @@
 v11 UPDATE
 
+- Added More Food									(Looks to Moon Pie)
 - Added Vermai (Sload variant) 								(Cameron2023)
 - Added Altmer Jewelry									(LilianaUnfolded)
 - Added New canton entrance for Almas Thirr						(Snailsting)
