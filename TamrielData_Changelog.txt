@@ -1,5 +1,8 @@
 v11 UPDATE
 
+- Added Vampyrum Order weapons								(Rats)
+- Added Anvil Tall Building Shells							(Chef, Hemaris)
+- Added Imga Race									(Rats, Kynesifnar)
 - Added More Food									(Looks to Moon Pie)
 - Added Vermai (Sload variant) 								(Cameron2023)
 - Added Altmer Jewelry									(LilianaUnfolded)
