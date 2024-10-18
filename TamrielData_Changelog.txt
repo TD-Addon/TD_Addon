@@ -50,7 +50,33 @@ v11 UPDATE
 - Added Redguard Rugs									(LilianaUnfolded)
 - Added Padomaic Sea Anemones								(Wanderer, Kynesifnar)
 - Added Toadscale Armor									(Alexander, Taniquetil, Concept: Aldergo)
-- Added Dreugh Manowar									(Feivelyn, Shivatheo, Grumbling Vomit, Concept: tammilisäke)
+- Added Horn of Wild and King of Rats relics			(Cicero)
+- Added Willow Fungis									(LilianaUnfolded)
+- Added Breton Dungeon Ruin set additions				(Fremennik)
+- Added Passwall Wards and Empty VFX					(Kynesifnar)
+- Added More Coconut Stuff								(Looks to the Moon Pie, Concept: Pickles)
+- Added HR427 leveled lists								(Fremennik)
+- Added Washed-up Kelp Clumps							(Looks to the Moon Pie)
+- Added Bolts of Cloth									(Fremennik)
+- Added Breton Lights									(Fremennik)
+- Added Falkreath Guard Armor							(Alexander, Concept: MK, Lathal)
+- Added Breton Rugs										(MammaHyena, LilianaUnfolded)
+- Added Kelp Tree										(MwGek, Looks to the Moon Pie)
+- Added missing Cyrodiil leveled creature lists			(Revane)
+- Added Hammerfell Crates and Barrels					(LilianaUnfolded)
+- Added Manis											(Cicero)
+- Added Blind Stalker Goblins							(Cicero)
+- Added Breton Tapestries								(MammaHyena, LilianaUnfolded)
+- Added Addon Pack for Oirrad Interior Development		(LilianaUnfolded)
+- Added Ostern Castle Set								(Kynesifnar)
+- Added Rihad Rural Interiors							(LilianaUnfolded)
+- Added Dreugh Manowar									(Feivelyn, Shivatheo, GrumblingVomit, Concept: tammilisäke)
+- Added Dark Elven Dark Brotherhood Tapestries			(Rats)
+- Added Greydust Containers								(Osidian)
+- Added Kwoom Fronds Ingredient							(Leyawynn)
+- Added Greydust Vials									(Cicero)
+- Added Canyon Thresher									(Kaitou, Alexander, GrumblingVomit, Concept: Maelan)
+- Added Drug Sniff Sound								(Kynesifnar)
 - Added OE Tourney Shields 								(Marhaus)
 - Added Isquel 											(Kynesifnar)
 - Added Indulcet 										(Kynesifnar)
@@ -94,7 +120,7 @@ v11 UPDATE
 - Added many more Altmer heads and hair					(Rats)
 - Added Shrine of St. Bendu								(Taniquetil)
 - Added Naturalist Class								(Taniquetil)
-- Added Padomic Roc										(Joanasc)
+- Added Padomaic Roc									(Joanasc, tkurza)
 - Added Cathnoquey Shell Pack							(Brannon The Ilk)
 - Added Adavrin Manor									(chef)
 - Added Narsis Council Building							(chef)
@@ -147,7 +173,7 @@ v11 UPDATE
 - Added Hugh Anhora Weapon Pack							(AnhoraNexus)
 - Added Argonian Wood Clutter							(Overseer, Stele, Concept: Casey Fogwell)
 - Added Breton Books									(Asylum)
-- Added Padomic Sand piles
+- Added Padomaic Sand piles
 - Added Western Reach Mysterious Shrine					(ThomasRuz, Kynesifnar)
 - Added Hardhat Prawn									(EJRS)
 - Added Broker Class									(Taniquetil)
@@ -155,7 +181,7 @@ v11 UPDATE
 - Added Alessian Bronze Armor							(Alexander_7070, Concept: Aldergo)
 - Added King Barda's Head								(Rats)
 - Added Curved Flowing Water Tiles						(Stele)
-- Added Padomic Roc Nests								(MwGek)
+- Added Padomaic Roc Nests								(MwGek)
 - Added Daedric Helm of Aberration						(Alexander_7070, Feivelyn, Concept: Gnomey, DharmaPR)
 - Added Bosmer Hide Canoe								(Worsas)
 - Added Ashen BM Pines									(VenuSprout)
@@ -305,6 +331,7 @@ v11 UPDATE
  - Armies of the Usurper								(Abby)
  - Generic Harbourmaser Books
  - The Kendhall Book of Riddles							(Cicero)
+ - High Rock Books Bundle								(Taniquetil)
  
 - Fixed PC crates mesh 									(Fluxbender)
 - Fixed DP Dead Tree 1 using wrong mesh					(chef)
@@ -359,7 +386,7 @@ v11 UPDATE
 - Updated Daedra Lists									(Ronik)
 - Updated (added, really) Sload							(Adanorcil, GrumblingVomit, Feighten, Stele, Concept: MK)
 - Updated Sky Sack Texture								(Fremennik)
-- Updated Yellow Flowers								(Looks to the MOon Pie)
+- Updated Yellow Flowers								(Looks to the Moon Pie)
 - Updated Maidenhair Fern								(Cicero)
 - Updated River Strider									(Cameron2023, Feivelyn)
 - Updated PC Cart textures								(Worsas)
@@ -372,11 +399,14 @@ v11 UPDATE
 - Updated PC ivy										(Hemaris)
 - Updated dartboard texture								(Hemaris)
 - Updated purple OW scrub								(Leyawynn)
+- Updated Wisp Stalks									(LondonRook, Feighten)
+- Updated Abecean Coral textures						(Looks to the Moon Pie)
+- Updated iron bar textures								(MwGek)
+- Updated rice ingredient								(Looks to the Moon Pie)
 
-- Removed all previously deprecated object entries
+- All new deprecations are now done using the CSSE TOML file
+- Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
 
-- Deprecated modular Dres set (sorry, for the last time we swear)
-- Deprecated unused maidenhair ferns
 
 December 2023 UPDATE
 

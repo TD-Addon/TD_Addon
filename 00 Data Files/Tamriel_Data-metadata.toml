@@ -1,7 +1,7 @@
 [package]
 name = "Tamriel_Data"
-version = "10.1"
-description = "The data repository for Tamriel Rebuilt, Project Tamriel and Padomic Isles province mods."
+version = "11"
+description = "The data repository for Tamriel Rebuilt, Project Tamriel and The Padomaic Isles province mods."
 homepage = "https://www.nexusmods.com/morrowind/mods/44537"
 repository = "https://github.com/TD-Addon/TD_Addon"
 authors = [
@@ -15,6 +15,9 @@ authors = [
 	"Dillon",
 	"MwGek",
 	"SACarrow",
+	"shivatheo",
+	"Stele",
+	"Ronik",
 ]
 
 [dependencies.mwse]
