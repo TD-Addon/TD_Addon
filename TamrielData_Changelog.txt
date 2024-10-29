@@ -1,5 +1,38 @@
 v11 UPDATE
 
+- Added strident-coast-running-bird
+(worsas)
+- Added large-ice-sheets
+(Cicero)
+- Added pc-new-leaf-texture-mesh-improvements-gc-oak-trees
+- Added pc-gremlin-jester
+(Hemaris)
+- Added pc-1024x1024-wide-setanv-platform
+- Added pc-some-setanv-fixes
+(Snailsting)
+- Added golden-saint-armour
+(EndoranWest)
+- Added request-ayleid-set-additions
+(Aleister, Overseer, Snailsting, GrumblingVomit)
+- Added tomas-td-fixes-vol-1
+(Toma400)
+- Added setind-planters-ai-grass-texture
+(pralec)
+- Added pc-colovian-leather-armor
+(Alexander_7070, Edmurius Tullius)
+- Added shotn-king-bardas-robe
+(Feivelyn, Gr8 A2n)
+- Added pchf-olive-oil
+(Feighten)
+- Added insight-spell
+- Added wabbajack-empty-enchantment
+- Added adamantium-and-mithril-level-lists
+(Kynesifnar)
+- Added setind-additions
+- Added tdesetindx-mesh-path-fixes
+- Added oe-tournament-tent
+(shivatheo)
+
 - Added Redoran Interior and Wall Additions 						(Vidi_Aquam)
 - Added Bookart maps for Abecean Shores							(Trav)
 - Added Nedic Sword									(Gr8 A2n)
