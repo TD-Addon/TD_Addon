@@ -1,5 +1,39 @@
 v11 UPDATE
 
+- Added [SHOTN] Reach Royal Guard Armor
+(Alexander_7070, GrumblingVomit)
+- Added OM Caveset [Greyrock]
+- Added Mokre
+(Cicero)
+- Added Meridia statue
+(Stele)
+- Added Redoran Large Walls
+(Dimnussens, Stele)
+- Added [PC] Nine-Holes Game
+(Why, trav)
+- Added [SUM] Altmer Blueware
+- Added [SUM] Altmer Rugs
+- Added [SI] Altmer Wines
+-Added [SUM] Altmer Books
+(LilianaUnfolded)
+- Added Add skooma/moon sugar/flashgrit blocker for Cooks
+(trav)
+- Added The Imperial Census of Daedra Lords
+(Cicero, Feighten)
+- Added Itinerant Priest Dialogue Typo Fixes
+(KnobelKnight)
+- Added Redoran Modular Bridge set
+(athcliath97, shivatheo)
+- Added Dwemer Machines
+(R-Zero, shivatheo)
+- Added SetInd_Steps_00
+(shivatheo)
+- Added Meridia Voice lines
+- Added Namira Voice lines
+- Added Even more MWSE Summon Spell Placeholders
+
+
+
 - Added strident-coast-running-bird
 (worsas)
 - Added large-ice-sheets
