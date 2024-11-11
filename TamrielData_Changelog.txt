@@ -1,121 +1,101 @@
 v11 UPDATE
 
-- Added [SHOTN] Reach Royal Guard Armor
-(Alexander_7070, GrumblingVomit)
+- Added MWSE Potions									(Kynesifnar)
+- Added More summoning spells							(Kynesifnar)
+- Added Western Dwemer Goldmail							(Joanasc, Alexander_7070)
+- Added Bosmer Wenbone Weapons							(AnhoraNexus, Concept: Pickles)
+- Added Ayleid Square Columns							(Snailsting)
+- Added Morag Tong Blade								(GrumblingVomit)
+- Added Double Length Chapel Wall						(Snailsting)
+- Added MWSE Storm SFX									(Kynesifnar)
+- Added Rourken Interior Set Batch 1					(Joanasc)
+- Added [SHOTN] Reach Royal Guard Armor					(Alexander_7070, GrumblingVomit)
+- Added Hammerfell Test Cell
 - Added OM Caveset [Greyrock]
-- Added Mokre
-(Cicero)
-- Added Meridia statue
-(Stele)
-- Added Redoran Large Walls
-(Dimnussens, Stele)
-- Added [PC] Nine-Holes Game
-(Why, trav)
+- Added Mokre											(Cicero)
+- Added Meridia statue									(Stele)
+- Added Redoran Large Walls								(Dimnussens, Stele)
+- Added [PC] Nine-Holes Game							(Why, trav)
 - Added [SUM] Altmer Blueware
 - Added [SUM] Altmer Rugs
 - Added [SI] Altmer Wines
--Added [SUM] Altmer Books
-(LilianaUnfolded)
-- Added Add skooma/moon sugar/flashgrit blocker for Cooks
-(trav)
-- Added The Imperial Census of Daedra Lords
-(Cicero, Feighten)
-- Added Itinerant Priest Dialogue Typo Fixes
-(KnobelKnight)
-- Added Redoran Modular Bridge set
-(athcliath97, shivatheo)
-- Added Dwemer Machines
-(R-Zero, shivatheo)
-- Added SetInd_Steps_00
-(shivatheo)
+-Added [SUM] Altmer Books								(LilianaUnfolded)
+- Added skooma/moon sugar/flashgrit blocker for Cooks	(trav)
+- Added The Imperial Census of Daedra Lords				(Cicero, Feighten)
+- Added Itinerant Priest Dialogue Typo Fixes			(KnobelKnight)
+- Added Redoran Modular Bridge set						(athcliath97, shivatheo)
+- Added Dwemer Machines									(R-Zero, shivatheo)
+- Added SetInd_Steps_00									(shivatheo)
 - Added Meridia Voice lines
 - Added Namira Voice lines
 - Added Even more MWSE Summon Spell Placeholders
-
-
-
-- Added strident-coast-running-bird
-(worsas)
-- Added large-ice-sheets
-(Cicero)
+- Added strident-coast-running-bird						(worsas)
+- Added large-ice-sheets								(Cicero)
 - Added pc-new-leaf-texture-mesh-improvements-gc-oak-trees
-- Added pc-gremlin-jester
-(Hemaris)
+- Added pc-gremlin-jester								(Hemaris)
 - Added pc-1024x1024-wide-setanv-platform
-- Added pc-some-setanv-fixes
-(Snailsting)
-- Added golden-saint-armour
-(EndoranWest)
-- Added request-ayleid-set-additions
-(Aleister, Overseer, Snailsting, GrumblingVomit)
-- Added tomas-td-fixes-vol-1
-(Toma400)
-- Added setind-planters-ai-grass-texture
-(pralec)
-- Added pc-colovian-leather-armor
-(Alexander_7070, Edmurius Tullius)
-- Added shotn-king-bardas-robe
-(Feivelyn, Gr8 A2n)
-- Added pchf-olive-oil
-(Feighten)
+- Added pc-some-setanv-fixes							(Snailsting)
+- Added golden-saint-armour								(EndoranWest)
+- Added request-ayleid-set-additions					(Aleister, Overseer, Snailsting, GrumblingVomit)
+- Added tomas-td-fixes-vol-1							(Toma400)
+- Added setind-planters-ai-grass-texture				(pralec)
+- Added pc-colovian-leather-armor						(Alexander_7070, Edmurius Tullius)
+- Added shotn-king-bardas-robe							(Feivelyn, Gr8 A2n)
+- Added pchf-olive-oil									(Feighten)
 - Added insight-spell
 - Added wabbajack-empty-enchantment
-- Added adamantium-and-mithril-level-lists
-(Kynesifnar)
+- Added adamantium-and-mithril-level-lists				(Kynesifnar)
 - Added setind-additions
-- Added tdesetindx-mesh-path-fixes
-- Added oe-tournament-tent
-(shivatheo)
-
-- Added Redoran Interior and Wall Additions 						(Vidi_Aquam)
-- Added Bookart maps for Abecean Shores							(Trav)
-- Added Nedic Sword									(Gr8 A2n)
+- Added oe-tournament-tent								(shivatheo)
+- Added Redoran Interior and Wall Additions 			(Vidi_Aquam)
+- Added Bookart maps for Abecean Shores					(Trav)
+- Added Nedic Sword										(Gr8 A2n)
 - Added DngRuin Expansion								(Fremennik)
-- Added Shipal Shin Amethyst Ore							(Cicero)
-- Added Minerals version 3.0								(Cicero)
-- Added Veloth's Path Hlaalu Bridge							(Chef)
-- Added PC scum retexture for Grey Meadows						(Chef)
-- Added Missing Death Animation Preview Files						(KnobelKnight)
+- Added Shipal Shin Amethyst Ore						(Cicero)
+- Added Minerals version 3.0							(Cicero)
+- Added Veloth's Path Hlaalu Bridge						(Chef)
+- Added PC scum retexture for Grey Meadows				(Chef)
+- Added Missing Death Animation Preview Files			(KnobelKnight)
 - Added Guide to Narsis									(Mark, trav)
-- Added Western Reach Fortifications set						(Fremennik)
-- Added Western Reach/Dragonfields Rock Set						(AcrylicFrog, LilianaUnfolded)
-- Added Grey Meadow Ash Parasols 							(DarkKnightComes, LilianaUnfolded, Feighten)
+- Added Western Reach Fortifications set				(Fremennik)
+- Added Western Reach/Dragonfields Rock Set				(AcrylicFrog, LilianaUnfolded)
+- Added Grey Meadow Ash Parasols 						(DarkKnightComes, LilianaUnfolded, Feighten)
 - Added Lapis Lazuli									(Looks To The Moon Pie)
-- Added Shorter Hlaalu floor asset / Temple stairs fix					(Feighten)
-- Added Narsis Mages Guild Reactor							(Stele, Aleister)
-- Added Vampyrum Order weapons								(Rats)
-- Added Anvil Tall Building Shells							(Chef, Hemaris)
-- Added Imga Race									(Rats, Kynesifnar)
-- Added More Food									(Looks to Moon Pie)
-- Added Vermai (Sload variant) 								(Cameron2023)
+- Added Shorter Hlaalu floor asset / Temple stairs fix	(Feighten)
+- Added Narsis Mages Guild Reactor						(Stele, Aleister)
+- Added Vampyrum Order weapons							(Rats)
+- Added Anvil Tall Building Shells						(Chef, Hemaris)
+- Added Imga Race										(Rats, Kynesifnar)
+- Added More Food										(Looks to Moon Pie)
+- Added Vermai (Sload variant) 							(Cameron2023)
 - Added Altmer Jewelry									(LilianaUnfolded)
-- Added New canton entrance for Almas Thirr						(Snailsting)
-- Added Skyrender Hive - Shell Platform Light Cell					(Shivatheo)
+- Added New canton entrance for Almas Thirr				(Snailsting)
+- Added Skyrender Hive - Shell Platform Light Cell		(Shivatheo)
 - Added Redoran Drawbridge 								(Stele, Brannon the Ilk)
 - Added Redoran Open Ruins								(Shivatheo)
-- Added Dragonscale armor set redo							(EndoranWest)
-- Added Sand Kwoom									(Kinezis, GrumblingVomit)
+- Added Dragonscale armor set redo						(EndoranWest)
+- Added Sand Kwoom										(Kinezis, GrumblingVomit)
 - Added Kyne's Intervention								(Kynesifnar)
-- Added Dragonstar Set Expansion							(LilianaUnfolded)
-- Added Non-BB T_Com_Ep_Shirt_03							(Evil Eye)
-- Added Nord Tapestry Hanger Pack							(BarbedWireKisses)
-- Added Hlaalu Grand Council Hall Statue						(Feighten)
-- Added Non-BB PT common shirts								(Evil Eye)
-- Added Sealing Wax									(Hemaris)
-- Added Nord and Breton ladders								(Exovian)
+- Added Dragonstar Set Expansion						(LilianaUnfolded)
+- Added Non-BB T_Com_Ep_Shirt_03						(Evil Eye)
+- Added Nord Tapestry Hanger Pack						(BarbedWireKisses)
+- Added Hlaalu Grand Council Hall Statue				(Feighten)
+- Added Non-BB PT common shirts							(Evil Eye)
+- Added Sealing Wax										(Hemaris)
+- Added Nord and Breton ladders							(Exovian)
 - Added Hlerynhul Bridge								(shivatheo)
 - Added Hlaalu Fountain									(athcliath97, shivatheo)
 - Added Radiant Shield VFX								(Kynesifnar)
-- Added Hlaalu Grand Council Hall Statue						(Feighten)
-- Added General Use Dunmer Divine Shrines						(Kynesifnar)
+- Added Hlaalu Grand Council Hall Statue				(Feighten)
+- Added General Use Dunmer Divine Shrines				(Kynesifnar)
 - Added Maormer Weapons									(Dux)
-- Added Redoran Building interiors 							(Shivatheo)
+- Added Redoran Building interiors 						(Shivatheo)
 - Added Generic headwear								(Rats)
-- Added Non-Ashy Redoran Road								(Cicero, Kynesifnar)
+- Added Non-Ashy Redoran Road							(Cicero, Kynesifnar)
 - Added Cheese Grater									(hemaris, MwGek)
-- Added Breton Alcoholic Beverages							(Gr8 A2n)
+- Added Breton Alcoholic Beverages						(Gr8 A2n)
 - Added Redguard Rugs									(LilianaUnfolded)
-- Added Padomaic Sea Anemones								(Wanderer, Kynesifnar)
+- Added Padomaic Sea Anemones							(Wanderer, Kynesifnar)
 - Added Toadscale Armor									(Alexander, Taniquetil, Concept: Aldergo)
 - Added Horn of Wild and King of Rats relics			(Cicero)
 - Added Willow Fungis									(LilianaUnfolded)
@@ -425,6 +405,7 @@ v11 UPDATE
 - Fixed OW Rock 4										(Cicero)
 - Fixed missing Telvanni tapestries						(Ronik)
 - Fixed tantha animations								(Joanasc)
+- Fixed Storm Monarch Particle Scale					(Kynesifnar)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -470,6 +451,8 @@ v11 UPDATE
 - Updated Abecean Coral textures						(Looks to the Moon Pie)
 - Updated iron bar textures								(MwGek)
 - Updated rice ingredient								(Looks to the Moon Pie)
+- Updated Ayleid Creature Spawns						(Revane)
+- Updated Meridia Voice Lines							(Cicero)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
