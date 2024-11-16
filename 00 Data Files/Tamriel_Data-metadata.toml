@@ -1244,5 +1244,14 @@ deprecated = [
 	"T_HfCom_Var_Cr3Empty",
 	"T_HfCom_Var_Cr4Empty",
 	"T_HfCom_Var_Cr5Empty",
-
+	"T_Mw_FloraGM_EmpParasol_01",
+	"T_Mw_FloraGM_EmpParasol_02",
+	"T_Mw_FloraGM_EmpParasol_03",
+	"T_Mw_FloraGM_EmpParasol_04",
+	"T_Bk_ImperialKitchenTR_V1",
+	"T_Bk_ImperialKitchenTR_V2",
+	"T_Bk_HillOfKvatchPC",
+	"T_HFCom_Furn_Ch2MGuild",
+	"T_Tsa_Furn_Urn_01",
+	"T_Tsa_Furn_Urn_02",
 ]

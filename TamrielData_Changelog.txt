@@ -1,5 +1,15 @@
 v11 UPDATE
 
+- Added Abecean Monitor placeholder items				(trav)
+- Added Redguard Books									(LilianaUnfolded)
+- Added Redguard Rings									(Yoae, Concept: MammaHyena, Toma400)
+- Added Daedric Face of Renewal							(Alexander_7070, Concept: Gnomey, DharmaPR, Pickles)
+- Added Belt of Hearttide								(Cicero)
+- Added Ynesai Jewelry									(MwGek, Looks to the Moon Pie)
+- Added Vinegar											(Yoae)
+- Added Generic Enchanted Cyr Items						(Revane)
+- Added Ayleid Secret Walls								(Phenoix12)
+- Added MWSE Scrolls and Other Items					(Kynesifnar)
 - Added MWSE Potions									(Kynesifnar)
 - Added More summoning spells							(Kynesifnar)
 - Added Western Dwemer Goldmail							(Joanasc, Alexander_7070)
@@ -15,7 +25,7 @@ v11 UPDATE
 - Added Mokre											(Cicero)
 - Added Meridia statue									(Stele)
 - Added Redoran Large Walls								(Dimnussens, Stele)
-- Added [PC] Nine-Holes Game							(Why, trav)
+- Added Nine-Holes Game									(Why, trav, FlinSunset, Blueshift, Original Implementation: Dillon)
 - Added [SUM] Altmer Blueware
 - Added [SUM] Altmer Rugs
 - Added [SI] Altmer Wines
@@ -406,6 +416,12 @@ v11 UPDATE
 - Fixed missing Telvanni tapestries						(Ronik)
 - Fixed tantha animations								(Joanasc)
 - Fixed Storm Monarch Particle Scale					(Kynesifnar)
+- Fixed Imperial Chapel Interior Windows				(Snailsting)
+- Fixed Anvil City Walls and Towers meshes				(Hemaris)
+- Fixed Sea Urchin Meat spawn rate						(Revane)
+- Fixed Abecean Shore regions sleep spawners			(Revane)
+- Fixed Respawn flags for PT creatures					(Revane)
+- Fixed Cyrodiil Goblin stats							(Ronik)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -453,6 +469,11 @@ v11 UPDATE
 - Updated rice ingredient								(Looks to the Moon Pie)
 - Updated Ayleid Creature Spawns						(Revane)
 - Updated Meridia Voice Lines							(Cicero)
+- Updated PT Books for Abecean Shores release			(Taniquetil)
+- Updated Imperial Kitchen book							(Infragris, GubernatorialEkphrasis)
+- Updated Strident Coast Land textures					(mothpot)
+- Updated Redguard Tableware textures					(joanasc)
+- Updated SHotN Redguard heads							(Rats)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
