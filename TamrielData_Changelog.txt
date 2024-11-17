@@ -1,5 +1,12 @@
 v11 UPDATE
 
+- Added More OR Rocks									(vern)
+- Added SD Welkynd Meshes								(Cicero)
+- Added Requiem Shield									(Cicero)
+- Added Flask of Lillandril Enchantment					(Cicero)
+- Added Helm of Light Within Light						(Cicero)
+- Added Ice Cave Expansion								(shivatheo)
+- Added Colovian Household Sword						(EndoranWest, Concept: Mike123)
 - Added Abecean Monitor placeholder items				(trav)
 - Added Redguard Books									(LilianaUnfolded)
 - Added Redguard Rings									(Yoae, Concept: MammaHyena, Toma400)
@@ -422,6 +429,7 @@ v11 UPDATE
 - Fixed Abecean Shore regions sleep spawners			(Revane)
 - Fixed Respawn flags for PT creatures					(Revane)
 - Fixed Cyrodiil Goblin stats							(Ronik)
+- Fixed Sabre/Saber Cats								(Revane)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -474,6 +482,8 @@ v11 UPDATE
 - Updated Strident Coast Land textures					(mothpot)
 - Updated Redguard Tableware textures					(joanasc)
 - Updated SHotN Redguard heads							(Rats)
+- Updated Cyr Runestones with Bound Effects				(Trav)
+- Updated Cyr MG FacRep									(FlinSunset)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
