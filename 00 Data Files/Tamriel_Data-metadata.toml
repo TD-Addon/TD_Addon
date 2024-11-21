@@ -1254,4 +1254,6 @@ deprecated = [
 	"T_HFCom_Furn_Ch2MGuild",
 	"T_Tsa_Furn_Urn_01",
 	"T_Tsa_Furn_Urn_02",
+	"T_Bk_WarmthTR",
+	"T_Bre_Mithril_Shordsword_01",
 ]
