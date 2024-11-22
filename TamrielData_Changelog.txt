@@ -1,5 +1,20 @@
 v11 UPDATE
 
+- Added OAAB Ship Interior Pieces						(OAAB)
+- Added Frost Monarch									(Antares, Rats, Kynesifnar)
+- Added Redguard Iron Lamellar Armor					(joanasc, Alexander_7070, Concept: Pickles)
+- Added Generic Enchanted Cyr/Com Weapons				(Revane)
+- Added Imperial Navy Wax Seal							(Yoae)
+- Added Ash Tree Variant for Grey Meadows				(GrumblingVomit)
+- Added Quey Dice										(Looks to the Moon Pie)
+- Added Ascended Sleeper Skull							(SvartmerII, Cicero)
+- Added Static Dagoth Banner							(Cicero)
+- Added Brass Dodecahedron								(hemaris)
+- Added House Dagoth Blood Message						(Cicero)
+- Added Golden Scales									(Looks to the Moon Pie)
+- Added Dried Large Abecean Slaughterfish				(Looks to the Moon Pie)
+- Added OW Cave Entrances								(Looks to the Moon Pie)
+- Added Porous Exidia									(VenuSprout, Concept: aylinerik)
 - Added More OR Rocks									(vern)
 - Added SD Welkynd Meshes								(Cicero)
 - Added Requiem Shield									(Cicero)
@@ -7,7 +22,7 @@ v11 UPDATE
 - Added Helm of Light Within Light						(Cicero)
 - Added Ice Cave Expansion								(shivatheo)
 - Added Colovian Household Sword						(EndoranWest, Concept: Mike123)
-- Added Abecean Monitor placeholder items				(trav)
+- Added Abecean Monitor placeholder items and scripting	(trav)
 - Added Redguard Books									(LilianaUnfolded)
 - Added Redguard Rings									(Yoae, Concept: MammaHyena, Toma400)
 - Added Daedric Face of Renewal							(Alexander_7070, Concept: Gnomey, DharmaPR, Pickles)
@@ -36,34 +51,30 @@ v11 UPDATE
 - Added [SUM] Altmer Blueware
 - Added [SUM] Altmer Rugs
 - Added [SI] Altmer Wines
--Added [SUM] Altmer Books								(LilianaUnfolded)
+- Added [SUM] Altmer Books								(LilianaUnfolded)
 - Added skooma/moon sugar/flashgrit blocker for Cooks	(trav)
-- Added The Imperial Census of Daedra Lords				(Cicero, Feighten)
 - Added Itinerant Priest Dialogue Typo Fixes			(KnobelKnight)
 - Added Redoran Modular Bridge set						(athcliath97, shivatheo)
 - Added Dwemer Machines									(R-Zero, shivatheo)
 - Added SetInd_Steps_00									(shivatheo)
-- Added Meridia Voice lines
-- Added Namira Voice lines
-- Added Even more MWSE Summon Spell Placeholders
-- Added strident-coast-running-bird						(worsas)
-- Added large-ice-sheets								(Cicero)
-- Added pc-new-leaf-texture-mesh-improvements-gc-oak-trees
-- Added pc-gremlin-jester								(Hemaris)
-- Added pc-1024x1024-wide-setanv-platform
-- Added pc-some-setanv-fixes							(Snailsting)
-- Added golden-saint-armour								(EndoranWest)
-- Added request-ayleid-set-additions					(Aleister, Overseer, Snailsting, GrumblingVomit)
-- Added tomas-td-fixes-vol-1							(Toma400)
-- Added setind-planters-ai-grass-texture				(pralec)
-- Added pc-colovian-leather-armor						(Alexander_7070, Edmurius Tullius)
-- Added shotn-king-bardas-robe							(Feivelyn, Gr8 A2n)
-- Added pchf-olive-oil									(Feighten)
-- Added insight-spell
-- Added wabbajack-empty-enchantment
-- Added adamantium-and-mithril-level-lists				(Kynesifnar)
-- Added setind-additions
-- Added oe-tournament-tent								(shivatheo)
+- Added Meridia Voice lines								(Renara Hawke, Ja'Keel Jyba)
+- Added Namira Voice lines								(Renara Hawke, Ja'Keel Jyba)
+- Added Even more MWSE Summon Spell Placeholders		(Kynesifnar)
+- Added Strident Runner									(worsas)
+- Added Large Ice Sheets								(Cicero)
+- Added Gremlin Jester									(Hemaris)
+- Added 1024x1024 wide SetAnv platform					(Snailsting)
+- Added Golden Saint Armour								(EndoranWest)
+- Added Ayleid Set Additions							(Aleister, Overseer, Snailsting, GrumblingVomit)
+- Added Indoril Set Planters Variations					(pralec)
+- Added Colovian Leather Armor Set 2					(Alexander_7070, Edmurius Tullius)
+- Added King Barda's Robe								(Feivelyn, Gr8 A2n)
+- Added Olive Oil										(Feighten)
+- Added Insight Spell									(Kynesifnar)
+- Added Wabbajack Empty Enchantment						(Kynesifnar)
+- Added Adamantium And Mithril Leveled Lists			(Kynesifnar)
+- Added Indoril Set Additions							(shivatheo)
+- Added OE Tournament Tent								(shivatheo)
 - Added Redoran Interior and Wall Additions 			(Vidi_Aquam)
 - Added Bookart maps for Abecean Shores					(Trav)
 - Added Nedic Sword										(Gr8 A2n)
@@ -396,6 +407,7 @@ v11 UPDATE
  - Generic Harbourmaser Books
  - The Kendhall Book of Riddles							(Cicero)
  - High Rock Books Bundle								(Taniquetil)
+ - The Imperial Census of Daedra Lords					(Cicero, Feighten)
  
 - Fixed PC crates mesh 									(Fluxbender)
 - Fixed DP Dead Tree 1 using wrong mesh					(chef)
@@ -424,12 +436,14 @@ v11 UPDATE
 - Fixed tantha animations								(Joanasc)
 - Fixed Storm Monarch Particle Scale					(Kynesifnar)
 - Fixed Imperial Chapel Interior Windows				(Snailsting)
+- Fixed a bunch of Anvil assets							(Snailsting)
 - Fixed Anvil City Walls and Towers meshes				(Hemaris)
 - Fixed Sea Urchin Meat spawn rate						(Revane)
 - Fixed Abecean Shore regions sleep spawners			(Revane)
 - Fixed Respawn flags for PT creatures					(Revane)
 - Fixed Cyrodiil Goblin stats							(Ronik)
 - Fixed Sabre/Saber Cats								(Revane)
+- Fixed Elsweyr Asset Paths								(Toma400)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -477,6 +491,7 @@ v11 UPDATE
 - Updated rice ingredient								(Looks to the Moon Pie)
 - Updated Ayleid Creature Spawns						(Revane)
 - Updated Meridia Voice Lines							(Cicero)
+- Updated GC Oak Trees									(Hemaris)
 - Updated PT Books for Abecean Shores release			(Taniquetil)
 - Updated Imperial Kitchen book							(Infragris, GubernatorialEkphrasis)
 - Updated Strident Coast Land textures					(mothpot)
@@ -484,6 +499,9 @@ v11 UPDATE
 - Updated SHotN Redguard heads							(Rats)
 - Updated Cyr Runestones with Bound Effects				(Trav)
 - Updated Cyr MG FacRep									(FlinSunset)
+- Updated Anvil stairs and bridge						(Yoae)
+- Updated Anvil platforms								(Yoae)
+- Updated MWSE Spell Scrolls							(Kynesifnar)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
