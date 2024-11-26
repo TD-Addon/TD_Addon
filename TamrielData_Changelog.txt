@@ -408,6 +408,7 @@ v11 UPDATE
  - The Kendhall Book of Riddles							(Cicero)
  - High Rock Books Bundle								(Taniquetil)
  - The Imperial Census of Daedra Lords					(Cicero, Feighten)
+ - Nature of Fire					(Delemis)
  
 - Fixed PC crates mesh 									(Fluxbender)
 - Fixed DP Dead Tree 1 using wrong mesh					(chef)
