@@ -1,5 +1,48 @@
 v11 UPDATE
 
+06/12/2024
+- More Imperial Ebony Helmets
+- Imperial Sky Skiff
+- OE tournament tent size tweaks
+- The Mask and the Mirror
+- Gorapple Tree and Fruit
+- Morrowind Mini Regions
+- [PC] Ode to a Prince's Wealth
+- Tower or Tomb
+- Burial Records - Generic books
+- [HF]Meditations on Tobr'a
+- Kragen Moor Unique Scrub Texture
+- [SUM] Altmer Bottles
+- Com Bunks
+- Indoril Thirr Armor Remake
+- Morrowind Mini Regions
+- Maormer Equipment
+- [PI] Ynesai Iron Weapons
+- TR Textures Optimizations
+- [PI] More Food: Padomaic
+- [PI] Yneslea Bitter Ginger
+- [PI] Tiki Torches
+- [PI] Chimer Seaweed Wine
+- Oyster Shell Miscs
+- [PI] Quey & Ynesai Ceramic Bottles
+- [PC/SHOTN/HF] Goat Hide Armor
+- Hammerfell Assets Batch
+- Dreugh Man O'War Idle Chances
+- Fishbowls
+- [P:C] Additional SetAnv Stair
+- [PC] Anvil_Bridge02 standalone variants
+- [P:C] Minor SetAnv platform tweaks
+- Ayleid Tower Hall Connector Fix
+- [PC/HF] Dolphin
+- Cyr roadsign additions
+- Bat resize
+- Velothi Mountains Gold Grass
+- Indoril Halberd
+- Remove green slaughterfish from Cyr lists
+
+
+
+
 - Added OAAB Ship Interior Pieces						(OAAB)
 - Added Frost Monarch									(Antares, Rats, Kynesifnar)
 - Added Redguard Iron Lamellar Armor					(joanasc, Alexander_7070, Concept: Pickles)
