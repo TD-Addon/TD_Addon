@@ -1256,4 +1256,8 @@ deprecated = [
 	"T_Tsa_Furn_Urn_02",
 	"T_Bk_WarmthTR",
 	"T_Bre_Mithril_Shordsword_01",
+	"T_Imp_Dragonscale_BarcerL_01",
+	"T_Imp_Dragonscale_BarcerR_01",
+	"T_Cnq_Ngopta",
+	"T_Mw_Cr_Deadroth",
 ]
