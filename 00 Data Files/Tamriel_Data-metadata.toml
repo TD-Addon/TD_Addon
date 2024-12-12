@@ -18,6 +18,7 @@ authors = [
 	"shivatheo",
 	"Stele",
 	"Ronik",
+	"Hemaris"
 ]
 
 [dependencies.mwse]
@@ -1256,4 +1257,11 @@ deprecated = [
 	"T_Tsa_Furn_Urn_02",
 	"T_Bk_WarmthTR",
 	"T_Bre_Mithril_Shordsword_01",
+	"T_Imp_Dragonscale_BarcerL_01",
+	"T_Imp_Dragonscale_BarcerR_01",
+	"T_Cnq_Ngopta",
+	"T_Mw_Cr_Deadroth",
+	"T_Imp_Highway_MStoneBlack_01",
+	"T_Imp_Highway_MStoneBlack_02",
+	"T_Imp_Highway_MStoneBlack_03",
 ]
