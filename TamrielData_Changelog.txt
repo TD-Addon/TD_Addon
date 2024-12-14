@@ -14,44 +14,31 @@ v11 UPDATE
 - Added More Termite Hills								(joanasc)
 - Added Anvil Merged Dock Pieces						(Revenorror)
 - Added Anvil Frescoes									(Aldergo, Ateiggaer, Toma400)
-- More Imperial Ebony Helmets
-- Imperial Sky Skiff
-- OE tournament tent size tweaks
-- The Mask and the Mirror
-- Gorapple Tree and Fruit
-- Morrowind Mini Regions
-- [PC] Ode to a Prince's Wealth
-- Tower or Tomb
-- Burial Records - Generic books
-- [HF]Meditations on Tobr'a
-- Kragen Moor Unique Scrub Texture
-- [SUM] Altmer Bottles
-- Com Bunks
-- Indoril Thirr Armor Remake
-- Morrowind Mini Regions
-- Maormer Equipment
-- [PI] Ynesai Iron Weapons
-- TR Textures Optimizations
-- [PI] More Food: Padomaic
-- [PI] Yneslea Bitter Ginger
-- [PI] Tiki Torches
-- [PI] Chimer Seaweed Wine
-- Oyster Shell Miscs
-- [PI] Quey & Ynesai Ceramic Bottles
-- [PC/SHOTN/HF] Goat Hide Armor
-- Hammerfell Assets Batch
-- Dreugh Man O'War Idle Chances
-- Fishbowls
-- [P:C] Additional SetAnv Stair
-- [PC] Anvil_Bridge02 standalone variants
-- [P:C] Minor SetAnv platform tweaks
-- Ayleid Tower Hall Connector Fix
-- [PC/HF] Dolphin										(spawner: Revane)
-- Cyr roadsign additions
-- Bat resize
-- Velothi Mountains Gold Grass
-- Indoril Halberd
-- Remove green slaughterfish from Cyr lists
+- Added More Imperial Ebony Helmets						(Rats)
+- Added Imperial Sky Skiff								(Rats)
+- Added Gorapple Tree and Fruit							(Stele, Concept: Schwerthelm, be-a-stranger, Atteigaer)
+- Added Morrowind Mini Regions							(chef)
+- Added Kragenmoor Unique Scrub Texture					(chef)
+- Added Altmer Bottles									(LilianaUnfolded)
+- Added Com Bunks										(Exovian)
+- Added Indoril Thirr Armor Remake						(P. Rivates)
+- Added Maormer Armor									(Dux, Alexander_7070, Concept: Phenoix12, Pickles)
+- Added Ynesai Iron Weapons								(Dux, Concept: DharmaPR)
+- Added More Padomaic Food								(Looks to the Moon Pie)
+- Added Yneslea Bitter Ginger							(Melchior Dahrk)
+- Added Tiki Torches									(Melchior Dahrk, Looks to the Moon Pie)
+- Added Chimer Seaweed Wine								(Looks to the Moon Pie)
+- Added Oyster Shell Miscs								(Looks to the Moon Pie)
+- Added Quey & Ynesai Ceramic Bottles					(SigynLaufeyson, Looks to the Moon Pie)
+- Added Cyr Goat Hide Armor								(Rats, Concept: Aldergo)
+- Added Hammerfell Assets Batch							(joanasc)
+- Added Fishbowls										(Rats)
+- Added Additional SetAnv Stair							(Snailsting)
+- Added Anvil_Bridge02 standalone variants				(Shtou)
+- Added Dolphin											(Cait, Kynesifnar, Stele, Spawner: Revane)
+- Added Cyr Roadsign Additions							(Revane)
+- Added Velothi Mountains Gold Grass					(Cicero)
+- Added Indoril Halberd									(AnrohaNexus)
 - Added OAAB Ship Interior Pieces						(OAAB)
 - Added Frost Monarch									(Antares, Rats, Kynesifnar)
 - Added Redguard Iron Lamellar Armor					(joanasc, Alexander_7070, Concept: Pickles)
@@ -94,15 +81,15 @@ v11 UPDATE
 - Added Rourken Interior Set Batch 1					(Joanasc)
 - Added [SHOTN] Reach Royal Guard Armor					(Alexander_7070, GrumblingVomit)
 - Added Hammerfell Test Cell
-- Added OM Caveset [Greyrock]
+- Added OM Caveset [Greyrock]							(Cicero)
 - Added Mokre											(Cicero)
 - Added Meridia statue									(Stele)
 - Added Redoran Large Walls								(Dimnussens, Stele)
 - Added Nine-Holes Game									(Why, trav, FlinSunset, Blueshift, Original Implementation: Dillon)
-- Added [SUM] Altmer Blueware
-- Added [SUM] Altmer Rugs
-- Added [SI] Altmer Wines
-- Added [SUM] Altmer Books								(LilianaUnfolded)
+- Added Altmer Blueware									(LilianaUnfolded)
+- Added Altmer Rugs										(LilianaUnfolded)
+- Added Altmer Wines									(LilianaUnfolded)
+- Added Altmer Books									(LilianaUnfolded)
 - Added skooma/moon sugar/flashgrit blocker for Cooks	(trav)
 - Added Itinerant Priest Dialogue Typo Fixes			(KnobelKnight)
 - Added Redoran Modular Bridge set						(athcliath97, shivatheo)
@@ -118,14 +105,14 @@ v11 UPDATE
 - Added Golden Saint Armour								(EndoranWest)
 - Added Ayleid Set Additions							(Aleister, Overseer, Snailsting, GrumblingVomit)
 - Added Indoril Set Planters Variations					(pralec)
-- Added Colovian Leather Armor Set 2					(Alexander_7070, Edmurius Tullius)
+- Added Colovian Leather Armor Set 2					(Alexander_7070, Concept: Aldergo)
 - Added King Barda's Robe								(Feivelyn, Gr8 A2n)
 - Added Olive Oil										(Feighten)
 - Added Insight Spell									(Kynesifnar)
 - Added Wabbajack Empty Enchantment						(Kynesifnar)
 - Added Adamantium And Mithril Leveled Lists			(Kynesifnar)
 - Added Indoril Set Additions							(shivatheo)
-- Added OE Tournament Tent								(shivatheo)
+- Added OE Tournament Tent								(shivatheo, tweaks: Marhaus)
 - Added Redoran Interior and Wall Additions 			(Vidi_Aquam)
 - Added Bookart maps for Abecean Shores					(Trav)
 - Added Nedic Sword										(Gr8 A2n)
@@ -460,6 +447,11 @@ v11 UPDATE
  - High Rock Books Bundle								(Taniquetil)
  - The Imperial Census of Daedra Lords					(Cicero, Feighten)
  - Nature of Fire										(Delemis)
+ - The Mask and the Mirror								(Shapur)
+ - Ode to a Prince's Wealth								(Delemis)
+ - Tower or Tomb										(Violet)
+ - Generic Burial Records Books							(ymAtarax1A)
+ - Meditations on Tobr'a								(mothpot)
  - The Apology of Stendarr								(Terrifying Daedric Foe)
  
 - Fixed PC crates mesh 									(Fluxbender)
@@ -556,6 +548,11 @@ v11 UPDATE
 - Updated Anvil stairs and bridge						(Yoae)
 - Updated Anvil platforms								(Yoae)
 - Updated MWSE Spell Scrolls							(Kynesifnar)
+- Updated/optimized select TR textures					(Cicero)
+- Updated Anvil platforms								(Snailsting)
+- Updated Ayleid Tower Hall Connector					(hemaris)
+- Updated Bats											(worsas)
+- Updated Cyr Slaughterfish lists						(Revane)
 - Updated Anvil doors									(Yoae)
 - Updated Great Faiths dialogue							(Blueshift)
 - Updated Imperial Highway Milestones					(hemaris)
