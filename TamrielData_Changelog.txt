@@ -1,6 +1,19 @@
 v11 UPDATE
 
-06/12/2024
+14/12/2024
+
+- Added Redguard Bottles & Jugs							(joanasc)
+- Added Quest Landmark Editormaker						(hemaris)
+- Added Dock/Platform Set Additions						(Snailsting)
+- Added More Colovian Robes								(worsas)
+- Added Portrait of Herrius Thimistrel					(Rats)
+- Added Chocolate Muffin								(Revenorror, ZoltanFoods)
+- Added Ayleid Scroll									(Infragris, hemaris)
+- Added The Abecean Monitor								(Taniquetil, trav)
+- Added Briricca Bank Signs								(MammaHyena, Taniquetil)
+- Added More Termite Hills								(joanasc)
+- Added Anvil Merged Dock Pieces						(Revenorror)
+- Added Anvil Frescoes									(Aldergo, Ateiggaer, Toma400)
 - More Imperial Ebony Helmets
 - Imperial Sky Skiff
 - OE tournament tent size tweaks
@@ -33,16 +46,12 @@ v11 UPDATE
 - [PC] Anvil_Bridge02 standalone variants
 - [P:C] Minor SetAnv platform tweaks
 - Ayleid Tower Hall Connector Fix
-- [PC/HF] Dolphin
+- [PC/HF] Dolphin										(spawner: Revane)
 - Cyr roadsign additions
 - Bat resize
 - Velothi Mountains Gold Grass
 - Indoril Halberd
 - Remove green slaughterfish from Cyr lists
-
-
-
-
 - Added OAAB Ship Interior Pieces						(OAAB)
 - Added Frost Monarch									(Antares, Rats, Kynesifnar)
 - Added Redguard Iron Lamellar Armor					(joanasc, Alexander_7070, Concept: Pickles)
@@ -65,7 +74,6 @@ v11 UPDATE
 - Added Helm of Light Within Light						(Cicero)
 - Added Ice Cave Expansion								(shivatheo)
 - Added Colovian Household Sword						(EndoranWest, Concept: Mike123)
-- Added Abecean Monitor placeholder items and scripting	(trav)
 - Added Redguard Books									(LilianaUnfolded)
 - Added Redguard Rings									(Yoae, Concept: MammaHyena, Toma400)
 - Added Daedric Face of Renewal							(Alexander_7070, Concept: Gnomey, DharmaPR, Pickles)
@@ -181,7 +189,7 @@ v11 UPDATE
 - Added Breton Rugs										(MammaHyena, LilianaUnfolded)
 - Added Kelp Tree										(MwGek, Looks to the Moon Pie)
 - Added missing Cyrodiil leveled creature lists			(Revane)
-- Added Hammerfell Crates and Barrels					(LilianaUnfolded)
+- Added Hammerfell Crates and Barrels					(LilianaUnfolded, joanasc)
 - Added Manis											(Cicero)
 - Added Blind Stalker Goblins							(Cicero)
 - Added Breton Tapestries								(MammaHyena, LilianaUnfolded)
@@ -303,7 +311,7 @@ v11 UPDATE
 - Added Daedric Helm of Aberration						(Alexander_7070, Feivelyn, Concept: Gnomey, DharmaPR)
 - Added Bosmer Hide Canoe								(Worsas)
 - Added Ashen BM Pines									(VenuSprout)
-- Added Gold Ivy										(Feivelyn, shotu)
+- Added Gold Ivy										(Feivelyn, Shtou)
 - Added Hlaalu Theater Pieces							(Stele)
 - Added Unlit Tiki Torches								(Osidian)
 - Added Mirrored and Tailless Redoran Barracks			(DimNussens)
@@ -315,7 +323,7 @@ v11 UPDATE
 - Added More Minecart Railings							(Stele)
 - Added Dragonfields Textures							(Ajbaj, ThomasRuz, MinerMan60101)
 - Added Argonian Ceramic Clutter						(Joanasc, Concept: Tammilisake)
-- Added Reman Ruin Stairs								(shotu)
+- Added Reman Ruin Stairs								(Shtou)
 - Added Velothi Corner entrances						(Snailsting)
 - Added Namira Quest Miscs								(Cicero, Remiros, OAAB)
 - Added more Breton Gilded Glass						(LilianaUnfolded)
@@ -333,7 +341,7 @@ v11 UPDATE
 - Added Misc Shells										(Looks to the Moon PIe)
 - Added Breton Pewter Clutter							(LilianaUnfolded)
 - Added Water Wheel										(Fremennik)
-- Added Flashgrit										(shotu, Concept: Mike123)
+- Added Flashgrit										(Shtou, Concept: Mike123)
 - Added more small chests								(Aveno)
 - Added Breton Glass Tableware							(LilianaUnfolded)
 - Added More Drink Barrels								(Aveno)
@@ -362,13 +370,13 @@ v11 UPDATE
 - Added Quey Baskets									(Looks to the Moon Poe, Brannon the Ilk, Concept: Pickles)
 - Added Coconuts										(Looks to the Moon Pie)
 - Added Hanging Glass Orbs								(Billyfighter, Freddy, Looks to the Moon Pie)
-- Added Hlaalu Iron Railings							(shotu, Concept: athcliath97)
+- Added Hlaalu Iron Railings							(Shtou, Concept: athcliath97)
 - Added Breton Clayware									(Asylum, LilianaUnfolded)
 - Added Misc Clams and Kollops							(OAAB, Looks to the Moon Pie)
 - Added Ynesai Baskets									(Asylum, Looks to the Moon PIe)
 - Added Quey Shell Lantern								(Looks to the Moon Pie)
 - Added Quey Fishing Boat								(MwGek)
-- Added Com Window Cages								(shotu)
+- Added Com Window Cages								(Shtou)
 - Added Ngop Root										(Looks to the Moon Pie)
 - Added more Fish and Jellyfish							(OAAB)
 - Added Breton Stoneware								(Fremennik)
@@ -390,7 +398,7 @@ v11 UPDATE
 - Added Com Millstone									(Kynesifnar)
 - Added Second Batch of Indoril Set						(shivatheo, Athcliath97)
 - Added Greydust Placeholder							(FlinSunset)
-- Added Animal Pens										(shotu)
+- Added Animal Pens										(Shtou)
 - Added HR Map Scripts									(Taniquetil)
 - Added Shipal-Shin Big Velothi Tower					(Stele)
 - Added Esroniet Small Chest							(DimNussens)
@@ -407,7 +415,7 @@ v11 UPDATE
 - Added Breton crypt exterior set						(LilianaUnfolded)
 - Added Anvil thrones									(Rats)
 - Added corkscrew										(Hemaris, Feighten)
-- Added Redguard beer									(shotu, Concept: Tammilisake)
+- Added Abecean/Redguard Alcoholic Beverages			(Shtou joanasc, Concept: Tammilisake)
 - Added unique Anvil NPCs								(Rats)
 - Added Hill Giants										(Rats, GrumblingVomit)
 - Added Deathlands Nede ruins							(Joanasc)
@@ -417,9 +425,9 @@ v11 UPDATE
 - Added Orc urns										(LilianaUnfolded, MammaHyena)
 - Added Ostern bridge									(Fremennik)
 - Added Breton rings									(LilianaUnfolded, Asylum, Concept: MammaHyena)
-- Added GCPoor ladder									(shotu)
+- Added GCPoor ladder									(Shtou)
 - Added cake											(Hemaris)
-- Added Hlaalu iron railings							(shotu)
+- Added Hlaalu iron railings							(Shtou)
 - Added mounted Alphyn head								(GrumblingVomit)
 - Added misc HR flora									(Spineinside, Fremennik)
 - Added shakhal											(SigynLaufeyson, Revane)
@@ -451,7 +459,8 @@ v11 UPDATE
  - The Kendhall Book of Riddles							(Cicero)
  - High Rock Books Bundle								(Taniquetil)
  - The Imperial Census of Daedra Lords					(Cicero, Feighten)
- - Nature of Fire					(Delemis)
+ - Nature of Fire										(Delemis)
+ - The Apology of Stendarr								(Terrifying Daedric Foe)
  
 - Fixed PC crates mesh 									(Fluxbender)
 - Fixed DP Dead Tree 1 using wrong mesh					(chef)
@@ -472,7 +481,7 @@ v11 UPDATE
 - Fixed Othreleth Woods Sound Files						(Ronik)
 - Fixed Reman Fort Canopy								(Cicero)
 - Fixed Coronati Basin Sounds							(Ronik)
-- Fixed Alchemy Shelf									(shotu)
+- Fixed Alchemy Shelf									(Shtou)
 - Fixed Tsokni											(Looks to the Moon Pie)
 - Fixed a bunch of collisions							(freefred1122)
 - Fixed OW Rock 4										(Cicero)
@@ -488,6 +497,7 @@ v11 UPDATE
 - Fixed Cyrodiil Goblin stats							(Ronik)
 - Fixed Sabre/Saber Cats								(Revane)
 - Fixed Elsweyr Asset Paths								(Toma400)
+- Fixed Worshipper/Worshiper spelling					(Revane)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -546,6 +556,14 @@ v11 UPDATE
 - Updated Anvil stairs and bridge						(Yoae)
 - Updated Anvil platforms								(Yoae)
 - Updated MWSE Spell Scrolls							(Kynesifnar)
+- Updated Anvil doors									(Yoae)
+- Updated Great Faiths dialogue							(Blueshift)
+- Updated Imperial Highway Milestones					(hemaris)
+- Updated Hexagonal SetAnv Addons						(Snailsting)
+- Updated Staff of the Custodian mesh and textures		(Rats)
+- Updated Cyr Gravestones								(worsas)
+- Updated Goldstone Bridge Pieces						(Shtou)
+- Updated Cliff Mesh UVs								(Cicero)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file

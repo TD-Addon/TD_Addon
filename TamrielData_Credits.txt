@@ -62,6 +62,11 @@ The following asset list aims to include:
 
 This is retroactively documented in 2017 and therefore prone to oversights. Should anyone find they have been omitted from this list, please let us know.
 
+author: ZoltanFoods
+---------------------------------
+added Dec 2024, from:    Chocolate Muffin - https://skfb.ly/6ZGH9 - licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+ID:    T_IngFood_UNI_ChocoMuffins
+
 author:    Momo77
 ---------------------------------
 added Feb 2012, from:     Momos Crane Resource - http://www.nexusmods.com/morrowind/mods/41074/?
