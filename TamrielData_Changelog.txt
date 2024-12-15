@@ -1,7 +1,13 @@
 v11 UPDATE
 
-14/12/2024
+15/12/2024
 
+- Added Stock Exchange Framework						(jackimoff wackimoff, trav)
+- Added Aebis Bird										(Worsas)
+- Added Haafinheim Poor Interior Set and Stone Basement Kit (Shtou)
+- Added More Redguard Beds								(Fremennik)
+- Added More Hammerfell Pots and Urns					(joanasc)
+- Added Many Paintings									(Ateiggaer, Aldergo, be-a-stranger, DharmaPR, Drathar, Feivelyn, Leyawynn, MammaHyena, Feighten)
 - Added Redguard Bottles & Jugs							(joanasc)
 - Added Quest Landmark Editormaker						(hemaris)
 - Added Dock/Platform Set Additions						(Snailsting)
@@ -9,7 +15,7 @@ v11 UPDATE
 - Added Portrait of Herrius Thimistrel					(Rats)
 - Added Chocolate Muffin								(Revenorror, ZoltanFoods)
 - Added Ayleid Scroll									(Infragris, hemaris)
-- Added The Abecean Monitor								(Taniquetil, trav)
+- Added The Abecean Monitor								(Taniquetil, trav, KnobelKnight)
 - Added Briricca Bank Signs								(MammaHyena, Taniquetil)
 - Added More Termite Hills								(joanasc)
 - Added Anvil Merged Dock Pieces						(Revenorror)
@@ -561,6 +567,9 @@ v11 UPDATE
 - Updated Cyr Gravestones								(worsas)
 - Updated Goldstone Bridge Pieces						(Shtou)
 - Updated Cliff Mesh UVs								(Cicero)
+- Updated FurnM Printing Press textures					(worsas)
+- Updated Cane weapon type								(FlinSunset)
+- Updated Cyr Legion dialogue							(Revane)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
