@@ -1,7 +1,8 @@
 v11 UPDATE
 
-15/12/2024
+16/12/2024
 
+- Added Resartus Lua Spells								(Cicero, Kynesifnar)
 - Added Stock Exchange Framework						(jackimoff wackimoff, trav)
 - Added Aebis Bird										(Worsas)
 - Added Haafinheim Poor Interior Set and Stone Basement Kit (Shtou)
@@ -570,6 +571,7 @@ v11 UPDATE
 - Updated FurnM Printing Press textures					(worsas)
 - Updated Cane weapon type								(FlinSunset)
 - Updated Cyr Legion dialogue							(Revane)
+- Updated Cyr Imperial Cult dialogue					(Revane)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
