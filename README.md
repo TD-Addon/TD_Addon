@@ -7,11 +7,10 @@ Contributors/users are notified of any new commits to the data addon repository 
 
 
 
-## New Advantages:
+## Features:
 - Both TR and PT data within a single esp.
-- TR and PT data within two separate folders, but a single archive. This adheres to the separation of PT and TR's BSAs within Tamriel Data.
 - Optional HD asset overrides for both TR and PT. Vanilla-resolution textures and models are the default, with HD versions being optional. This significantly de-bloats the TR addon folder, which previously contained 2 of every asset between a SD and a HD folder, even when there when there was no disparity between the assets.
-- Wolli's incrementally updated TR deprecated asset .esp, which reassigns several assets a new placeholder/deprecated marker models, indicating to devs that the asset needs removing from the worldspace/section files. A full list of assets can be found here: https://docs.google.com/spreadsheets/d/1D4R_OZ-d0BARNkwyif1W5j03O4-AuajVV9LIFHaXwqI/edit?usp=sharing
+- Incrementally updated TR deprecated asset .esp, which reassigns several assets a new placeholder/deprecated marker models, indicating to devs that the asset needs removing from the worldspace/section files. These assets are also automatically hidden from the CS item list using the CSSE deprecation function. A full list of assets can be found here: https://github.com/TD-Addon/TD_Addon/blob/master/00%20Data%20Files/Tamriel_Data-metadata.toml
 
 
 
@@ -29,6 +28,7 @@ Via the use of the website and Github Desktop, designated authors can push new/e
 - shivatheo
 - Stele
 - Ronik
+- Hemaris
 
 ## Contributing Via Push Requests:
 Non-authors can also contribute new assets/esps. Their commits will not be pushed unless accepted by a designated reviewer. This has the potential to completely circumnavigate our current asset browser review system, and is therefore something we really, REALLY do not want to use. However, it could be useful for pushing small fixes to assets that need not go through the asset browser (fixing a collision, texture path, model topology or missing mip-maps, for example). 
