@@ -1265,4 +1265,6 @@ deprecated = [
 	"T_Imp_Highway_MStoneBlack_02",
 	"T_Imp_Highway_MStoneBlack_03",
 	"T_Com_UNI_StaffCustodian",
+	"T_Ce_Bronze_Gpesh_01",
+	"T_Ce_Bronze_Kpesh_01",
 ]
