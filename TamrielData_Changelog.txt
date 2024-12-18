@@ -1,7 +1,8 @@
 v11 UPDATE
 
-16/12/2024
+18/12/2024
 
+- Added Nerevar Bonewalker								(Kinezis, GrumblingVomit, Concept: Leyawynn, Tammilisake)
 - Added Merged Anvil/Imperial Chapel					(Snailsting)
 - Added More Unique Generic Items with MWSE Effects		(Cicero, Kynesifnar)
 - Added Resartus Lua Spells								(Cicero, Kynesifnar)
