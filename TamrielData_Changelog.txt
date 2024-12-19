@@ -1,7 +1,8 @@
 v11 UPDATE
 
-18/12/2024
+19/12/2024
 
+- Added Fruit											(Revenorror)
 - Added Quey Bronze Weapons								(Brannon the Ilk, Looks to the Moon Pie, Melchior Dahrk, Concept: Pickles)
 - Added Crown Iron Armor								(joanasc, Alexander_7070)
 - Added Forebear Iron Armor								(joanasc, Alexander_7070)
@@ -583,6 +584,8 @@ v11 UPDATE
 - Updated Colovian Clothing Leveled Lists				(BarbedWireKisses)
 - Updated Anvil Basement Walls and Forge				(Fremennik)
 - Updated Skyrim Signposts								(Fremennik)
+- Updated Barrow Mummy texture							(joanasc)
+- Updated Alphyn stats									(Blueshift)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
