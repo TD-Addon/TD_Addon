@@ -62,6 +62,33 @@ The following asset list aims to include:
 
 This is retroactively documented in 2017 and therefore prone to oversights. Should anyone find they have been omitted from this list, please let us know.
 
+author: gulvtaepper
+---------------------------------
+added Dec 2024, from:    waffles low poly - https://skfb.ly/oHoRM
+ID: T_IngFood_Blueberry_01
+
+author: Loïc Norgeot
+---------------------------------
+added Dec 2024, from:   Lowpoly Fruits & Vegetables -  https://skfb.ly/6z6Ls
+ID: T_IngFood_Pomegranate_01
+
+author: Terrie Simmons-Ehrhardt
+---------------------------------
+added Dec 2024, from:    Passion Fruit - https://skfb.ly/oHQZo
+ID: T_IngFood_PassionFruit_01
+
+author: STUDIO DUCKBILL
+---------------------------------
+added Dec 2024, from:    Mango - https://skfb.ly/opCvp
+ID: T_IngFood_Mango_01
+Japanese Pear (幸水）- https://skfb.ly/opoBx
+ID: T_IngFood_AltachiPear_01
+
+author: vertexgrocer
+---------------------------------
+added Dec 2024, from:    Plum - https://skfb.ly/oANGz
+ID: T_IngFood_Plum_01
+
 author: ZoltanFoods
 ---------------------------------
 added Dec 2024, from:    Chocolate Muffin - https://skfb.ly/6ZGH9 - licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
