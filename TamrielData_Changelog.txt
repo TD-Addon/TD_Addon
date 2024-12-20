@@ -2,6 +2,9 @@ v11 UPDATE
 
 19/12/2024
 
+- Added Summerset Wicker Baskets						(LilianaUnfolded)
+- Added Com Chandeliers Radius 77						(Denis418)
+- Added More Anvil Basement Walls						(Fremennik)
 - Added Fruit											(Revenorror)
 - Added Quey Bronze Weapons								(Brannon the Ilk, Looks to the Moon Pie, Melchior Dahrk, Concept: Pickles)
 - Added Crown Iron Armor								(joanasc, Alexander_7070)
@@ -160,7 +163,6 @@ v11 UPDATE
 - Added Dragonstar Set Expansion						(LilianaUnfolded)
 - Added Non-BB T_Com_Ep_Shirt_03						(Evil Eye)
 - Added Nord Tapestry Hanger Pack						(BarbedWireKisses)
-- Added Hlaalu Grand Council Hall Statue				(Feighten)
 - Added Non-BB PT common shirts							(Evil Eye)
 - Added Sealing Wax										(Hemaris)
 - Added Nord and Breton ladders							(Exovian)
@@ -586,6 +588,9 @@ v11 UPDATE
 - Updated Skyrim Signposts								(Fremennik)
 - Updated Barrow Mummy texture							(joanasc)
 - Updated Alphyn stats									(Blueshift)
+- Updated Chev-Aram Helm meshes							(hemaris)
+- Updated Nirnroot stats								(Blueshift)
+- Updated Ayleid Hall meshes							(Snailsting)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
