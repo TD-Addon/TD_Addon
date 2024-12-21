@@ -1,7 +1,7 @@
-v11 UPDATE
+v11 UPDATE - December 20th 2024
 
-19/12/2024
-
+- Added Redguard Foods									(Joanasc, Toma400)
+- Added Anvil Frescoes part 2							(Ateiggaer, Toma400)
 - Added Summerset Wicker Baskets						(LilianaUnfolded)
 - Added Com Chandeliers Radius 77						(Denis418)
 - Added More Anvil Basement Walls						(Fremennik)
@@ -508,6 +508,7 @@ v11 UPDATE
 - Fixed Elsweyr Asset Paths								(Toma400)
 - Fixed Worshipper/Worshiper spelling					(Revane)
 - Fixed Drumpear Graphic Herbalism support				(Revenorror)
+- Fixed Itinerant Priest and 9-Holes Typos				(KnobelKnight)
 
 - Updated PT Pants Meshes								(Kynesifnar)
 - Updated Sword of Dibella name							(FlinSunset)
@@ -591,6 +592,7 @@ v11 UPDATE
 - Updated Chev-Aram Helm meshes							(hemaris)
 - Updated Nirnroot stats								(Blueshift)
 - Updated Ayleid Hall meshes							(Snailsting)
+- Updated Nirnroot										(Revenorror)
 
 - All new deprecations are now done using the CSSE TOML file
 - Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
