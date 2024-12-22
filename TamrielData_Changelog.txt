@@ -1,4 +1,4 @@
-v11 UPDATE - December 20th 2024
+v11 UPDATE - December 22nd 2024
 
 - Added Khajiit Chessboard								(EndoranWest)
 - Added Khajiit Sugar Rum Drink							(SigynLaufeyson)
