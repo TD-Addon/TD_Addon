@@ -1,5 +1,10 @@
 v11 UPDATE - December 20th 2024
 
+- Added Khajiit Chessboard								(EndoranWest)
+- Added Khajiit Sugar Rum Drink							(SigynLaufeyson)
+- Added Nordic Leather Armor							(Alexander_7070, GrumblingVomit)
+- Added Riddle Lands Flora								(Joanasc)
+- Added Wolf Helms										(Alexander_7070, GrumblingVomit)
 - Added Redguard Foods									(Joanasc, Toma400)
 - Added Anvil Frescoes part 2							(Ateiggaer, Toma400)
 - Added Summerset Wicker Baskets						(LilianaUnfolded)
