@@ -1267,4 +1267,5 @@ deprecated = [
 	"T_Com_UNI_StaffCustodian",
 	"T_Ce_Bronze_Gpesh_01",
 	"T_Ce_Bronze_Kpesh_01",
+	"T_Sc_GuideToKogotelTR",
 ]

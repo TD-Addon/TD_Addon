@@ -1,3 +1,26 @@
+1/1/2025
+
+- Added Khajiit Baskets									(Asylum, Feighten)
+- Added Exterior Editor Markers							(hemaris)
+- Added Skyrender Pupae									(Stele)
+- Added Metal and Bamboo Cages							(DimNussens)
+- Added High Rock Small Labeled Pots					(MwGek)
+- Added Breton Herb Posters								(MwGek)
+- Added Balconies for Colovian Fort set					(joanasc)
+- Added Ostheldir Land Textures							(Fremennik)
+- Added Altmer Keys										(LilianaUnfolded)
+- Added West Reach Cave Entrances and Cairns			(Fremennik)
+- Added Morrowind Com platform expansion				(Snailsting)
+- Added Altmer Tapestries and Cloths					(LilianaUnfolded)
+- Added Riddle Lands Nomads assets						(joanasc)
+- Added Redguard Lamps									(joanasc)
+
+- Fixed (and deprecated) missing Guide to Kogotel book	(Ronik)
+
+- Updated Cyr Slaughterfish lists (again)				(Revane)
+- Updated Bloodmoon Pine Trees							(chef)
+
+
 v11 UPDATE - December 22nd 2024
 
 - Added Khajiit Chessboard								(EndoranWest)
