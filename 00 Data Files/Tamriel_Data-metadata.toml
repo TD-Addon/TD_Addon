@@ -22,7 +22,14 @@ authors = [
 ]
 
 [dependencies.mwse]
-buildnumber = 3074
+buildnumber = 4198
+
+[dependencies.mcp.features]
+scriptablePotionUse = true
+improvedAnimationSupport = true
+
+[dependencies.mods."TD_Lua_Addon"]
+mwse-module = "tamrielData.main"
 
 [tools.csse]
 deprecated = [
