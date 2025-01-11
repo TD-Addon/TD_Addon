@@ -1,3 +1,9 @@
+January 10th Update
+
+- Added Grey Meadows Rocks and Land Textures			(Iterator, GrumblingVomit, Shivatheo)
+- Added Grey Meadows Placeholder Grass					(ch)
+
+
 1/1/2025
 
 - Added Khajiit Baskets									(Asylum, Feighten)
