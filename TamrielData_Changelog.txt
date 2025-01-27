@@ -20,7 +20,7 @@ January 26th Update
 - Added Breton M Furniture								(Joanasc, Concept: MammaHyena)
 - Added Sutch Acini Manor Thing							(Joanasc)
 - Added Breton Mini Pot Leveled Lists					(Taniquetil)
-- Added Hlaalu Pasoroth's War Armor						(Alexander_7070, Concept: Unknown, HELP!)
+- Added Hlaalu Pasoroth's War Armor						(Alexander_7070, Concept: Mannimarcos)
 - Added Book: Archei, He Who Whispered Mortality		(ThomasRuz)
 - Added Book: The Exile of Meredie						(ThomasRuz)
 - Added Book: A Blacksmith's Last Writ					(ThomasRuz)
