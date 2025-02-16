@@ -1,3 +1,29 @@
+February 16th Update
+
+- Added various spells for MWSE override				(Kynesifnar)
+- Added Goldmoor Cacti									(Joanasc)
+- Added Dwemer Silo Door								(Cicero)
+- Added Durzog Hide Ingredient							(Fremennik)
+- Added Adamantium Shield								(Alexander_7070, Concept: Ateiggaer)
+- Added Orethan Waterflowers							(LilianaUnfolded, Stele, Concept: Be-A-Stranger)
+- Added Altmer Tea and Xuansis							(LilianaUnfolded)
+- Added Goat and Elk Meat								(Lucevar)
+- Added Lazarum Lazandrum								(Gr8 A2n, Concept: aylinerik)
+- Added Altmer Containers								(LilianaUnfolded, Concept: Tammilisake)
+- Added Altmer Nacreware								(LilianaUnfolded, Revenorror)
+- Added Shinathi Clan Banners							(MammaHyena, Ronik)
+- Added Nord Corded Ware								(BarbedWireKisses)
+- Added Hlaalu Pasoroth Statue							(Stele, Thomasasia)
+
+- Updated Narsis Maps									(trav)
+- Updated Com Shirt 03/04 with breast reduction surgery	(Evil Eye)
+- Updated Skull of Corruption to an Amulet				(Cicero)
+- Updated Various HR levelled lists						(Fremennik)
+- Updated Daedric Steps Collision						(Cicero)
+
+- Fixed Defense of Morrowind being in wrong lists		(Terrifying Daedric Foe)
+
+
 January 26th Update
 
 - Added Shipal-Shin Rock Texture C						(Leyawynn)
