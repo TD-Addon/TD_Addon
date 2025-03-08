@@ -1,10 +1,33 @@
+March 3rd 2025 Update
+
+- Added Netch Leather Containers						(roxdoc2)
+- Added Adamantium Shield								(Alexander_7070, Concept: Ateiggaer)
+- Added Skyrender Meat Honey							(neonfrost84, Concept: Calvin)
+- Added Skyrender Larva									(Cameron2023, Concept: Be-A-Stranger)
+- Added Mephalan Vales Morel Mushrooms					(VenuSprout)
+- Added Kvatch Urban Set Interiors						(Joanasc, Concept: Ateiggaer)
+- Added Altmer Poor Furniture							(LilianaUnfolded, Concept: Tammilisake)
+- Added Breque Na'Brac									(ThomasRuz)
+- Added Sconce_10 No Flames								(Ficmon)
+- Added Poison + Velothi and MH District Levelled Lists	(chef)
+- Added Yuin Plant										(Revenorror)
+- Added Ostheldir and Creag Coast Regions				(Fremennik)
+- Added Goldmoor and Riddle Lands Regions				(Joanasc)
+- Added Othreleth Woods Levelled Creatures				(Wanax)
+
+- Updated Colovian Levelled Lists With New Armor		(chef)
+- Updated T_Imp_Grinder_01 to an Apparatus				(chef)
+- Updated Imperial DngRuin Barrels to Containers		(chef)
+- Updated T_Com_Var_Nails_01 to a Misc					(chef)
+- Updated Colovian Barrow Mummies to Containers			(chef)
+
+
 February 16th Update
 
 - Added various spells for MWSE override				(Kynesifnar)
 - Added Goldmoor Cacti									(Joanasc)
 - Added Dwemer Silo Door								(Cicero)
 - Added Durzog Hide Ingredient							(Fremennik)
-- Added Adamantium Shield								(Alexander_7070, Concept: Ateiggaer)
 - Added Orethan Waterflowers							(LilianaUnfolded, Stele, Concept: Be-A-Stranger)
 - Added Altmer Tea and Xuansis							(LilianaUnfolded)
 - Added Goat and Elk Meat								(Lucevar)
