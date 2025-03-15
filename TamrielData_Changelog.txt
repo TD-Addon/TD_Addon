@@ -1,3 +1,26 @@
+March 15th 2025 Update
+
+- Added Rogue Nix-Hound									(Cicero, GrumblingVomit)
+- Added JS Snow Road Texture							(chef)
+- Added Empty Meat Honey								(Aveno, neonfrost94)
+- Added Summon Guardian Enchantment						(Kynesifnar)
+- Added Glass Triolith									(Leyawynn, Concept: Gnomey?)
+- Added Canah Feather									(Alexander, ComradeCheekiBreeki)
+- Added or Updated lots of DE LVL List stuff			(Aveno)
+- Added Flora_Bush_02									(chef, Stele)
+- Added More Grey Meadow Region Sounds					(Cicero)
+- Added Placeholder Minotaur Soundgen					(Kynesifnar)
+- Added Short Velothi Large Ends						(Snailsting)
+- Added Kresh Fiber Containers							(RoxDoc2)
+- Added Sload Mold Fungus								(Stele)
+- Added Redoran Basement Expansion						(Snailsting)
+- Added Lover's Raflesia								(Stele, Concept: Be-A-Stranger)
+- Added Assets for Headless Quest						(Marhaus, FlinSunset)
+
+- Updated Kragen Moor Region to Kartur Dale Region
+- Updated Guide to Firewatch Map						(trav)
+
+
 March 3rd 2025 Update
 
 - Added Netch Leather Containers						(roxdoc2)
