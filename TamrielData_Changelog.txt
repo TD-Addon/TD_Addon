@@ -1,3 +1,39 @@
+March 28th 2025 Update
+
+- Added Indoril Interior Set							(shivatheo, athcliath97)
+- Added Red Dome Templar Armor							(GrumblingVomit, Cicero)
+- Added Wild Elf race									(GrumblingVomit, Rats)
+- Added MWSE_BUILD variable								(pralec)
+- Added Blink spell										(Kynesifnar)
+- Added Veloth's Face									(Rats, Concept: Gnomey)
+- Added Wabbajack effects								(Kynesifnar)
+- Added Gaze of Veloth effect							(Kynesifnar)
+- Added Staff of St. Veloth								(AnrohaNexus, Cicero, Concept: Pickles)
+- Added Detect Potions effect							(Kynesifnar)
+- Added Skyrender pupae slumgum							(Gr8 A2n)
+- Added Skyrender Queen									(Cameron2023, GrumblingVomit, Stele, Concept: be-a-stranger)
+- Added Nord Stoneware									(Tenosit, Concept: BarbedWireKisses)
+- Added Xarxen Mora terrain assets						(worsas)
+- Added Altmer Clayware									(LilianaUnfolded)
+- Added Ogre race										(GrumblingVomit)
+- Added Shiratar Sound									(Leyawynn)
+- Added Veloth's Pauldrons								(Alexander_7070, Feighten)
+- Added Detect Invisibility effect						(Kynesifnar)
+- Added Fortify Casting items							(Kynesifnar, Cicero)
+- Added Books
+ - Dead Magic							 				(Taniquetil)
+
+- Updated Cyr and Sky wolves stats						(Ricketybob)
+- Updated Goblin speed stats							(Ricketybob)
+- Updated smuggler leveled lists						(Ricketybob)
+- Updated Fig Bush meshes and textures					(joanasc)
+- Updated Stock Exchange Framework						(trav)
+
+- Fixed Abecean Monitor wrong locations					(Ricketybob)
+- Fixed missing Advancement topic in IP dialogue		(Ricketybob)
+- Fixed Diseased Bat name								(Ricketybob)
+- Fixed typos in The True Folk							(Terrifying Daedric Foe)
+
 March 15th 2025 Update
 
 - Added Rogue Nix-Hound									(Cicero, GrumblingVomit)
