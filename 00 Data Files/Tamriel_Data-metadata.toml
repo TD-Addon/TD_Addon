@@ -1289,4 +1289,8 @@ deprecated = [
 	"T_Imp_DngColBarrow_F_Mummy_09",
 	"T_IngCrea _StridentBirdEgg_01",
 	"T_IngCrea _StridentBirdFeath_01",
+	"T_Bk_TheFaithfulTR",
+	"tr_misc_exp_compass",
+	"T_Com_WoodenCup_01",
+	"T_We_Bone_Arrow_01",
 ]

@@ -2818,6 +2818,8 @@ T_Com_Var_BottleBroken_07:T_Com_BrokenBottle_03
 T_Com_Var_BottleBroken_08:T_Com_BrokenBottle_02
 T_Com_Var_BottleBroken_09:T_Com_BrokenBottle_01
 T_Com_Var_BottleCork_01:T_Com_Cork
+T_Com_WoodenCup_01:T_Nor_WoodenCup_01
+tr_misc_exp_compass:T_Rga_CompassExp_01
 
 #Statics
 tr_ash_darkfungshroom:T_Mw_FloraGM_VileMorc01
@@ -5028,6 +5030,7 @@ tr_w_steel_scimitar:T_Com_Steel_Scimitar_01
 tr_w_wood_crossbow:T_Com_Wood_Crossbow_01
 tr_w_wood_crossbow_fixed:T_Com_Wood_CrossbowFix_01
 tr_w_wood_mace_01:T_Com_Wood_Mace_01
+T_We_Bone_Arrow_01:T_We_Wenbone_Arrow_01
 
 #creatures
 tr_armor_centurion_00:T_Dwe_Cre_CentArmor_01

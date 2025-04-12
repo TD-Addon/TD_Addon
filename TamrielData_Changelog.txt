@@ -1,3 +1,30 @@
+April 12th 2025 Update
+
+- Added Direnni Bookart									(MammaHyena)
+- Added More Merged Anvil Buildings						(trav)
+- Added Padomaic Velothi Tileset						(Vohki)
+- Added Velothi Mountainss Quarry Rocks					(Phenoix12)
+- Added Can of Worms									(hemaris)
+- Added Nord Tradeship Interior Wall Variants + Doors	(neonfrost84)
+- Added Pomegrenate Trees								(tepidWater)
+- Added More MWSE Scrolls and Effects					(Kynesifnar)
+- Added Altmer Lights									(LilianaUnfolded)
+- Added Altmer Shack									(LilianaUnfolded)
+- Added Bone Fetishes									(joanasc)
+- Added Dragon Cult Artifact Helm						(Gr8 A2n)
+- Added Imperial Consular Robe							(Stele)
+- Added Adamantium Crypt Urns							(Cicero)
+- Added TD Global Variable for Vanilla Dialogue			(FlinSunset)
+
+- Updated Canyon Echo scripting							(trav)
+- Updated Dunmer leveled lists							(Aveno,)
+- Updated Varla Stone VFX								(KnobelKnight)
+- Updated Lamia stats									(minifly)
+- Updated PC alchemy ingredients						(minifly)
+- Updated PC Imperial Cult dialogue						(minifly)
+- Updated Shinathi leveled lists						(Warped)
+- Updated Muatra model									(DuX, Gr8 A2n, Why)
+
 March 28th 2025 Update
 
 - Added Indoril Interior Set							(shivatheo, athcliath97)

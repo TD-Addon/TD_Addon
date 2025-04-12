@@ -1,5 +1,5 @@
 # TD_Addon
-This repository serves as a single location for progressively aggregating new assets as an extension of the 'Tamriel_Data' database (current version v10.1). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly to the addon, compling new data and assets in preparation for the next Tamriel_Data version (currently v11). This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
+This repository serves as a single location for progressively aggregating new assets as an extension of the 'Tamriel_Data' database (current version v11). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly to the addon, compling new data and assets in preparation for the next Tamriel_Data version (currently v12). This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
 
 Tamriel Data is available on the Nexus-> https://www.nexusmods.com/morrowind/mods/44537
 
