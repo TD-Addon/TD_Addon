@@ -1,3 +1,19 @@
+April 15th 2025 Update
+
+- Added T_SndObj_BlinkHit								(Kynesifnar)
+- Added TR_Ex_V_Tower_05 interior						(vohki)
+- Added T_VFX_Wabbajack									(Kynesifnar)
+- Added Trefoil and Gloomtear plants					(Hemaris, revenorror, Kynesifnar)
+- Added Feivelyn's Ostheldir Landscape painting			(trav, Feivelyn)
+- Added Hlaalu Theater's Poster							(trav, be-a-stranger)
+- Added Hlaalu Theatre Backdrop							(Feivelyn, trav)
+- Added Beacon Company Sign								(Mammahyena)
+- Added Perthan											(Cameron2023, Alexander_7070, Cicero, Stele, Kynesifnar)
+
+- Updated Guide to Narsis and Narsis District			(trav)
+- Updated Abecean Shores bookart maps					(trav)
+- Updated Skyrim bookart map							(trav)
+
 April 12th 2025 Update
 
 - Added Direnni Bookart									(MammaHyena)
