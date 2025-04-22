@@ -1293,4 +1293,6 @@ deprecated = [
 	"tr_misc_exp_compass",
 	"T_Com_WoodenCup_01",
 	"T_We_Bone_Arrow_01",
+	"T_bk_StockCMC_TR",
+	"T_bk_StockEEC_TR",
 ]

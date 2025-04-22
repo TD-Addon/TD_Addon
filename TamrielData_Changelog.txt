@@ -1,3 +1,20 @@
+April 22nd 2025 Update
+
+- Added Olive Containers and Leveled Lists				(SuddenlyMute)
+- Added Summerset Leveled Lists							(Taniquetil)
+- Added More Redguard Tapestries						(MammaHyena, LilianaUnfolded)
+- Added Merged Narsis Catacombs Entrance				(Snailsting)
+- Added Hlaalu Brewery Fermentation Chamber 			(ComradeCheekiBreeki)
+- Added Imperial Gold Tableware Expansion				(revenorror)
+- Added Prince Juliek's Seal							(Gr8 A2n)
+
+- Updated Pasoroth Armor enchantment					(Cicero)
+- Updated Khajiit variant greetings						(Ronik)
+- Updated Skyrim Bears spells							(Stele)
+
+- Fixed various typos									(Cicero, Terrifying Daedric Foe, Kynesifnar, Blueshift)
+- Fixed Dreugh Helmet enchantments						(Stele)
+
 April 15th 2025 Update
 
 - Added T_SndObj_BlinkHit								(Kynesifnar)
