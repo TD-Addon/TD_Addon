@@ -7,6 +7,7 @@ April 26th 2025 Update
 - Added HF Prickle-spice                                (revenorror)
 - Added PI/Sky Wasabi                                   (Asylum, Vohki)
 - Added more TR road signs                              (Phenoix12)
+- Added Nibenese jewelry                                (revenorror, UXO)    
 - Updated Dragonfields trees                            (revenorror, LilianaUnfolded)
 - Updated Unending                                      (Cicero)
 - Updated Imperial Gold Helm                            (Cicero)
