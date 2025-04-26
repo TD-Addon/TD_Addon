@@ -1,3 +1,18 @@
+April 26th 2025 Update
+
+- Added Altmer Glass Plates                             (revenorror, LilianaUnfolded)
+- Added HF Basketweave clutter                          (spexd)
+- Added HR Silver Tableware                             (revenorror)
+- Added Cyr Ebony Tableware                             (revenorror)
+- Added HF Prickle-spice                                (revenorror)
+- Added PI/Sky Wasabi                                   (Asylum, Vohki)
+- Added more TR road signs                              (Phenoix12)
+- Updated Dragonfields trees                            (revenorror, LilianaUnfolded)
+- Updated Unending                                      (Cicero)
+- Updated Imperial Gold Helm                            (Cicero)
+- Updated Blindstalker Amulet                           (Cicero)
+- Updated pig sounds                                    (Kynesifnar)    
+
 April 22nd 2025 Update
 
 - Added Olive Containers and Leveled Lists				(SuddenlyMute)
