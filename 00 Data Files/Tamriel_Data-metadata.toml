@@ -1295,4 +1295,9 @@ deprecated = [
 	"T_We_Bone_Arrow_01",
 	"T_bk_StockCMC_TR",
 	"T_bk_StockEEC_TR",
+	"T_Dae_Cre_Drid_01",
+	"T_Dae_Cre_DridBs_01",
+	"T_Dae_Cre_DridGr_01",
+	"T_Dae_Cre_DridLs_01",
+	"T_Mw_Cr_DridreaSpawn"
 ]

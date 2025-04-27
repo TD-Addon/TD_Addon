@@ -1,3 +1,16 @@
+April 27th 2025 Update
+
+- Added Spider Daedra (female variant)                  (Cameron2023, revenorror, Cicero)
+- Added Yokudan NPC race                                (Kynesifnar, UXO)
+- Added Nordic Fine Wood tableware                      (BarbedWireKisses)
+- Added Khajiiti Copper/Bronze weapon set               (Alexander_7070, shtou)    
+- Added whale skeleton fins                             (Alexander_7070, GrumblingVomit)
+- Added 11 new cave shells                              (revenorror)
+- Added Guide to Hlerynhul                              (pralec, trav)
+- Updated Cine Tree and Sundered Palms                  (Cicero)
+- Updated Dragonfields land texture                     (LilianaUnfolded, Fremennik, Hemaris)
+- Updated Andothren to Bal Foyen banner                 (trav)
+
 April 26th 2025 Update
 
 - Added Altmer Glass Plates                             (revenorror, LilianaUnfolded)
