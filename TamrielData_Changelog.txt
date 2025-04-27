@@ -8,6 +8,7 @@ April 27th 2025 Update
 - Added 11 new cave shells                              (revenorror)
 - Added Guide to Hlerynhul                              (pralec, trav)
 - Added Lua spells to leveled lists                     (Cicero)
+- Added Canyon Echo Newspapers                          (trav)
 - Updated Cine Tree and Sundered Palms                  (Cicero)
 - Updated Dragonfields land texture                     (LilianaUnfolded, Fremennik, Hemaris)
 - Updated Andothren to Bal Foyen banner                 (trav)
